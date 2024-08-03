@@ -1,0 +1,16 @@
+# Article 1.1.4
+
+  
+La cessation de l'affiliation obligatoire des salariés et le maintien de la couverture minimum de branche mise en place par le présent accord de branche dans le cadre de la portabilité sont régis par les dispositions légales et réglementaires en vigueur, et en particulier par l'article L. 911-8 du code de la sécurité sociale.   
+L'affiliation du salarié et le droit aux garanties cessent de produire ses effets :   
+a) En cas de décès du salarié, dans le respect des dispositions légales et réglementaires ;   
+b) A l'occasion de la rupture de son contrat de travail, sous réserve des dispositions visées ci-après.   
+En cas de rupture de son contrat de travail, ouvrant droit à une prise en charge par le régime d'assurance chômage, l'ancien salarié bénéficie du maintien de la garantie de remboursement complémentaire des frais occasionnés par une maladie, une maternité ou un accident sans contrepartie de cotisation dans les conditions fixées à l'article L. 911-8 du code de la sécurité sociale.   
+Le maintien de garanties est applicable à compter de la date de cessation du contrat de travail, pendant une durée correspondant à celle du dernier contrat de travail ou, le cas échéant, des derniers contrats de travail lorsqu'ils sont consécutifs chez le même employeur, appréciée en mois, le cas échéant arrondie au nombre supérieur, sans pouvoir excéder 12 mois.   
+Le maintien de garanties cesse à la date de reprise d'un autre emploi ou d'un arrêt de la prise en charge par le régime d'assurance chômage.   
+Pour l'application de cette mesure, l'entreprise signale le maintien des garanties dans le certificat de travail remis au salarié et informe l'organisme assureur de la cessation du contrat de travail.   
+L'ancien salarié justifie auprès de son organisme assureur, à l'ouverture et au cours de la période de maintien des garanties, des conditions pour bénéficier du maintien des garanties.   
+A l'issue de cette période, l'ancien salarié peut demander à l'organisme, dans un délai de 6 mois, le maintien de la garantie conventionnelle obligatoire du salarié en vigueur à cette date. L'organisme met au point la procédure permettant d'évaluer la cotisation entièrement à la charge de l'intéressé, sans qu'elle puisse excéder les limites fixées par la loi n° 89-1009 du 31 décembre 1989 et ses décrets d'application.   
+L'ancien salarié titulaire d'une pension d'incapacité ou d'invalidité, participant de la couverture collective au jour de la rupture de son contrat de travail, peut demander à l'organisme, dans les 6 mois qui suivent la rupture de son contrat de travail, le maintien de la garantie conventionnelle obligatoire du salarié en vigueur à cette date. La cotisation totale est alors entièrement à sa charge.   
+L'ancien salarié titulaire d'une pension de retraite, participant de la couverture collective au jour de la rupture définitive de son contrat de travail, peut demander à l'organisme, dans les 6 mois qui suivent la rupture de son contrat de travail, le maintien de la garantie conventionnelle obligatoire du salarié en vigueur à cette date. L'organisme met au point la procédure permettant d'évaluer la cotisation entièrement à la charge de l'intéressé, sans qu'elle puisse excéder les limites fixées par la loi n° 89-1009 du 31 décembre 1989 et ses décrets d'application.
+

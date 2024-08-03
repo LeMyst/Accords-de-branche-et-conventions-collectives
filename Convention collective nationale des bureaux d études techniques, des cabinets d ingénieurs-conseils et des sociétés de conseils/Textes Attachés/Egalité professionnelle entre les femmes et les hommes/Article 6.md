@@ -1,0 +1,16 @@
+# Article 6
+
+  
+L'égalité de traitement implique que les femmes et les hommes puissent avoir accès aux mêmes possibilités d'évolution de carrière.  
+Dans un certain nombre d'entreprises de la branche, le haut de la pyramide des classifications fait apparaître une baisse relative de la proportion de cadres femmes, notamment parmi les équipes de direction des entreprises. C'est ce que l'on appelle le plafond de verre. Parallèlement à cette notion se développe la notion de mur de verre, qui signifie que les femmes, qui parviennent à des postes à responsabilité le deviennent dans des secteurs moins stratégiques.  
+Les partenaires sociaux corrèlent la notion de plafond de verre à celle de gestion des compétences et des potentiels.  
+Les entreprises seront attentives à la mixité des genres dans toutes les activités de l'entreprise et notamment dans les activités stratégiques et d'encadrement.  
+Les partenaires sociaux conviennent de se fixer comme objectif de faire progresser au cours des prochaines années la proportion de femmes dans ces activités. Il appartient à chaque entreprise de définir ses objectifs de progression et les dispositions permettant d'encourager les femmes aux postes de management et à responsabilités.  
+Les possibilités de mobilité externe, dont l'importance est l'une des caractéristiques de la branche et qui sont peut-être moins conciliables avec certains impératifs personnels gérés majoritairement par les femmes, sont également des facteurs pouvant ralentir les évolutions de carrière des femmes par rapport aux hommes.  
+Indicateur de suivi (source OPNC) : nombre d'entreprises ayant évoqué la question du plafond de verre dans leur accord égalité professionnelle.  
+Afin de favoriser l'accession des femmes à des postes de management et à responsabilités, les entreprises sont encouragées à mettre en place un suivi individualisé des femmes et des hommes disposant d'un potentiel leur permettant d'accéder à ces responsabilités. Les entreprises s'assureront, lors des processus d'évaluation et des discussions sur l'évolution professionnelle, de la mise en œuvre de plans de développement personnel renforçant cet objectif.  
+Indicateur de suivi : nombre de suivis individualisés mis en place pour les salariés à potentiel.  
+Les entreprises veilleront à ce que le nombre de femmes et d'hommes bénéficiant de promotion soit proportionnel aux effectifs. Les mesures nécessaires pour assurer cette disposition pourront faire l'objet d'un accord d'entreprise sur la base de l'analyse de la situation comparée des femmes et des hommes.  
+Indicateur de suivi : répartition des promotions en pourcentages femmes-hommes accordées par catégorie, en les identifiant. Une attention particulière est apportée aux salariés à temps partiel.  
+L'exercice d'une activité à temps partiel ne s'oppose pas à la promotion à un poste à responsabi- lités. Ainsi, toute proposition d'exercice d'un poste d'encadrement dans le cadre d'un temps partiel sera favorablement examinée. Dans le cas où le (la) salarié(e) est à l'initiative de la proposition, une réponse motivée sera adressée au (à la) salarié(e) par lettre recommandée ou remise en main propre contre décharge dans un délai de 1 mois.
+

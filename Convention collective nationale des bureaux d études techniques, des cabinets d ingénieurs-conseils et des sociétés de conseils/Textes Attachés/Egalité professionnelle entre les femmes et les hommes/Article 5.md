@@ -1,0 +1,9 @@
+# Article 5
+
+  
+Les entreprises s'engagent à assurer, lors des révisions périodiques de salaires, l'égalité de rémunération pour un même travail ou pour un travail de valeur égale entre les femmes et les hommes. Il convient notamment de ne pas prendre en compte les périodes de congés maternité, d'adoption pour limiter ou annuler une augmentation de salaire. Pour promouvoir ce principe, il est décidé que cette notion sera intégrée dans les systèmes de management des entreprises. L'équité salariale est un élément de l'évaluation des compétences des responsables hiérarchiques.   
+A cet égard, lors de chaque révision salariale périodique, dans les entreprises dont la taille rend les éléments statistiques représentatifs pour des grandes catégories qu'elles auront définies en accord avec leurs partenaires sociaux, ces entreprises s'assureront que la médiane des augmentations individuelles des femmes soit équivalente à la médiane des augmentations individuelles des hommes au sein des catégories professionnelles, sous réserve de dispositions plus favorables applicables dans l'entreprise et des dispositions de l'article 13.1 et sous réserve de veiller à l'égalité en matière de promotion.   
+Les effectifs à temps partiel étant constitués d'une part significative de femmes, une vigilance particulière sera portée lors des révisions de salaires aux salariés travaillant à temps partiel, afin de ne pas les pénaliser par rapport aux salariés travaillant à temps complet.   
+Pour supprimer les écarts de rémunération existant entre les femmes et les hommes, la loi du 4 août 2014 n° 2014-873 a créé une négociation collective annuelle unique sur l'égalité professionnelle et salariale et y a introduit deux nouveaux thèmes : le déroulement des carrières et la mixité des emplois (art. L. 2242-5 du code du travail modifié par la loi du 4 août 2014).   
+Les entreprises doivent prendre des mesures pour réduire ces écarts et en faire leur priorité.
+

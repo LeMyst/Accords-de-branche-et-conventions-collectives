@@ -1,0 +1,16 @@
+# Article 7
+
+Les partenaires sociaux de la branche conviennent de l'importance de recourir à la formation des salariés placés dans le dispositif spécifique d'activité partielle (DSAP). Ils souhaitent donc la mobilisation des moyens existants au sein des entreprises et de la branche permettant la prise en charge intégrale des formations certifiantes inscrites au répertoire nationale des certifications professionnelles (RNCP) ainsi qu'au répertoire spécifique des certifications et habilitation (RSCH), comme prévu à l'article L. 6323-6 du code du travail, suivies par les salariés durant ces périodes d'inactivité.
+
+Ainsi, préalablement ou au cours de cette période d'activité partielle, tout salarié placé dans le DSAP peut définir ses besoins en formation à l'occasion de tout entretien avec son responsable hiérarchique (entretien professionnel, entretien annuel d'évaluation, entretien managérial …).
+
+Les projets de formations certifiantes, visant une certification rattachée à un métier ou à une activité dont les compétences sont recherchées par les entreprises de la branche au cours de cette période, définis dans le cadre d'un entretien visé ci-dessus, et suivis durant la période de mobilisation du DSAP, sont financés par le biais du dispositif FNE-Formation et/ou du compte personnel de formation (CPF) dans les conditions prévues ci-après.
+
+Dès lors qu'un salarié placé dans le DSAP souhaite réaliser une ou plusieurs formations au cours de cette période, il mobilise son CPF. Si les droits acquis à ce titre ne permettent pas la prise en charge intégrale du coût de la formation, une dotation supplémentaire directement sur le CPF du salarié ou un abondement du projet visé par le salarié pourra être possible soit par la branche via les fonds mutualisés dits conventionnels, soit par l'entreprise via les fonds qui lui sont disponibles dont les versements volontaires.
+
+À ces fins, les signataires réaffirment leur demande à l'État de pouvoir mobiliser, dans le cadre d'une gestion simplifiée, les ressources disponibles de l'opérateur de compétences ATLAS et des subventions publiques dédiées à la formation (FNE-Formation, Fonds social européen (FSE), autres …), pour le financement des coûts de formation engagés par les entreprises, en particulier les TPE et PME, afin de faire face aux graves difficultés économiques conjoncturelles visées à l'article L. 6332-1-3,3° du code du travail.
+
+La commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) précisera les conditions de mobilisation des fonds en fonction des besoins, notamment des TPE-PME et transmettra à la section paritaire professionnelle (SPP) des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseil, espace dédié de l'opérateur de compétences ATLAS afin que soit priorisée la prise en charge des financements décrits au premier paragraphe du présent article.
+
+La CPNEFP et la CPPNI détermineront dans la note politique de formation émise par la CPNEFP les engagements de la branche en matière de formation professionnelle, de validation des acquis de l'expérience, les actions de formation certifiantes pour la promotion des salariés ou leur reconversion par les moyens de l'alternance, ainsi que les moyens de mobilisation du CPF afin d'accompagner au mieux la relance de l'activité.
+
