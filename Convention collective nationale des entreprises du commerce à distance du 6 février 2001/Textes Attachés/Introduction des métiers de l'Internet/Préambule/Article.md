@@ -1,0 +1,8 @@
+# Article
+
+ Les organisations signataires du présent accord représentant les entreprises et les personnels compris dans le champ d'application de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils constatent chaque jour davantage que le développement du monde internet modifie les attentes et les demandes de leurs clients. Cette transformation de la demande implique de nouvelles compétences dans les entreprises mais aussi de nouvelles garanties pour les salariés relevant de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils.
+
+ D'ores et déjà, des entreprises se créent pour se développer sur un nouveau marché en utilisant des compétences nouvelles et plusieurs métiers liés au monde internet sont identifiés. Si d'autres métiers apparaissent, les organisations signataires du présent accord souhaitent, sans délai, adapter les outils conventionnels au plus près du terrain afin d'apporter leur contribution au développement d'un emploi de qualité et au maintien de la compétitivité des entreprises du secteur.
+
+ C'est dans cette optique que le présent accord se donne pour objectif de faire reconnaître l'appartenance au champ conventionnel des entreprises exerçant, dans le cadre de prestations à forte valeur ajoutée, qu'il s'agisse de services ou de solutions logicielles, les métiers identifiés dans le présent accord et d'adapter les classifications conventionnelles aux métiers de l'internet. Cela permettra aux dispositifs conventionnels relatifs à l'insertion des jeunes par la formation en alternance ou à la délivrance de certificats de qualification professionnelle de s'appliquer aux métiers de l'internet.
+

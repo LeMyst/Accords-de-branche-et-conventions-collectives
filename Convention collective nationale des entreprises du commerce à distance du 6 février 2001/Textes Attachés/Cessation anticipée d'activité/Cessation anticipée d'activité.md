@@ -1,0 +1,2 @@
+# Cessation anticipée d'activité
+

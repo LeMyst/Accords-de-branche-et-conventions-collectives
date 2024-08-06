@@ -1,0 +1,6 @@
+# Article
+
+La représentation des salariés par les délégués du personnel et aux comités d'entreprise est régie par les dispositions légales en vigueur. Les heures de délégation des représentants élus du personnel, lorsqu'ils sont consultants, seront rémunérées sur la base du taux journalier (horaire) moyen des 12 derniers mois pour consultants tels que définis à l'article II.2.6, et les frais de déplacement seront remboursés, sur justificatifs, sur la base des règles définis par l'entreprise pour le remboursement des frais professionnels.  
+Compte tenu des spécificités des EPS qui sont composées, d'une part, de consultants et, d'autre part, d'équipes fonctionnelles, dont le mode d'organisation du travail sont spécifiques (cf. *supra*), le découpage en collèges électoraux est dérogatoire par rapport au code du travail afin de garantir à ces deux catégories de personnel une représentation au sein des instances de représentation du personnel.  
+Par ailleurs, compte tenu du fait que les consultants sont des télétravailleurs, l'EPS s'engage à mettre tout en oeuvre pour faciliter le vote à distance de ceux-ci, notamment par la mise en place du vote par correspondance et du vote électronique, dans le respect des dispositions légales prévues pour cette modalité de vote.
+
