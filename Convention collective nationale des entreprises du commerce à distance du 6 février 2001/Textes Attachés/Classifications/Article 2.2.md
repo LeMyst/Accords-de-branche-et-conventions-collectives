@@ -32,12 +32,11 @@ Salarié maîtrisant l'emploi qu'il exerce, ce qui lui permet :
  – d'accueillir les nouveaux collaborateurs de son domaine d'activité ;  
  – d'assister ses collaborateurs.
 
-  
- Niveau référent
+Niveau référent
 
-Salarié dominant l'emploi qu'il exerce, au point d'être considéré par ses compétences comme un expert.  
-  
- Son expertise lui permet, sans que cela soit cumulatif, de :  
+Salarié dominant l'emploi qu'il exerce, au point d'être considéré par ses compétences comme un expert.
+
+Son expertise lui permet, sans que cela soit cumulatif, de :  
  – résoudre des problèmes complexes ;  
  – rédiger les procédures et transmettre les savoir-faire ;  
  – assurer des missions complémentaires dans le périmètre de son emploi ;  
@@ -46,43 +45,37 @@ Salarié dominant l'emploi qu'il exerce, au point d'être considéré par ses co
  – contribuer à l'optimisation des process existants ;  
  – tutorer les nouveaux collaborateurs.
 
-  
- 2.2.2. Définition de la catégorie D
+2.2.2. Définition de la catégorie D
 
 Autonomie
 
 L'emploi occupé s'organise dans le cadre de programmes ou plannings de travail préétablis. Le contrôle de la bonne réalisation du travail a lieu à la fin des opérations par son responsable hiérarchique.
 
-  
- Activité
+Activité
 
 Réaliser des dossiers ou des travaux présentant des spécificités techniques pouvant nécessiter de réunir, de communiquer des informations de nature et de sources diverses.
 
 L'agent de maîtrise anime et manage un groupe de salariés.
 
-  
- Responsabilité
+Responsabilité
 
 Propose des solutions, met en œuvre, contrôle et adapte les méthodes, procédures et moyens mis à sa disposition, pour obtenir les résultats attendus.
 
 Il est un relais de communication de l'entreprise.
 
-  
- Connaissances requises
+Connaissances requises
 
 Les connaissances requises sont celles sanctionnées par le BTS, le DUT ou la licence professionnelle.
 
 Ce niveau peut être acquis par voie scolaire ou par une formation équivalente, ou par l'expérience professionnelle, reconnue le cas échéant par une VAE (validation des acquis de l'expérience professionnelle).
 
-  
- 2.2.3. Définition de la catégorie E
+2.2.3. Définition de la catégorie E
 
 Autonomie
 
 L'emploi occupé requiert une autonomie pour organiser son travail en fonction de l'activité conformément aux objectifs fixés avec son responsable hiérarchique (gestion du planning, priorisation des activités à gérer).
 
-  
- Activité
+Activité
 
 Réaliser ou coordonner des travaux relatifs à un projet, nécessitant de maîtriser plusieurs techniques, d'appliquer et d'adapter les actions en vue d'atteindre les objectifs.
 
@@ -90,11 +83,11 @@ Participer à l'élaboration des prévisions, à la communication des résultats
 
 La maîtrise de sa spécialité professionnelle lui permet d'apporter des conseils techniques, de proposer et de mettre en œuvre des solutions nouvelles.
 
-L'activité exige d'être en lien avec des interlocuteurs différents et variés pour aboutir à des solutions dans l'intérêt de l'entreprise.  
- L'agent de maîtrise anime et manage un ou plusieurs groupes de collaborateurs (ouvriers, employés, techniciens et agents de maîtrise de niveau inférieur).
+L'activité exige d'être en lien avec des interlocuteurs différents et variés pour aboutir à des solutions dans l'intérêt de l'entreprise.
 
-  
- Responsabilité
+L'agent de maîtrise anime et manage un ou plusieurs groupes de collaborateurs (ouvriers, employés, techniciens et agents de maîtrise de niveau inférieur).
+
+Responsabilité
 
 Il contribue par son action à l'amélioration des process de l'entreprise, il élabore les techniques nouvelles, il analyse et adapte les méthodes et détermine les moyens, en vue d'atteindre les objectifs.
 
@@ -102,8 +95,7 @@ Il participe à la détermination de ces objectifs.
 
 Il est un relais de communication de l'entreprise.
 
-  
- Connaissances requises
+Connaissances requises
 
 Les connaissances requises sont celles sanctionnées par le BTS, le DUT ou la licence professionnelle.
 
