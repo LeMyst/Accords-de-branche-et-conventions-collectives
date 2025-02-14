@@ -24,7 +24,7 @@ Au plus tard le 1er mars de chaque année, ces entreprises doivent publier :
 
 Elles doivent également communiquer cette note avec le détail de chacun des indicateurs composant cet index :  
  – d'une part à leur comité social et économique (CSE) ;  
- – d'autre part à l'inspection du travail (Dreets) sur le site www. egapro. travail. gouv. fr du ministère du travail.
+ – d'autre part à l'inspection du travail (Dreets) sur le site www.egapro.travail.gouv.fr du ministère du travail.
 
 Selon les résultats obtenus, l'entreprise doit :  
  – en cas d'index inférieur à 75 points : mettre en œuvre des mesures de correction qui lui permettront d'atteindre au moins 75 points dans un délai de 3 ans ;  
