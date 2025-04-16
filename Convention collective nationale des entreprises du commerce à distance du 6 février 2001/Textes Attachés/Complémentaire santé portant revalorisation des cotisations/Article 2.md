@@ -1,24 +1,22 @@
 # Article 2
 
-L'article 1.3.3 de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé est modifié de la manière suivante :
+Champ d'application territorial et professionnel
 
-« Article 1.3.3
+Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-La politique d'action sociale de branche est confiée au comité paritaire de surveillance, composé d'un titulaire et d'un suppléant pour chaque organisation syndicale de salariés et d'un nombre égal de représentants au titre des fédérations d'employeurs du présent accord.
+Entrée en vigueur et durée
 
-Les organisations syndicales de salariés et fédérations d'employeurs signataires du présent accord y siègent avec voix délibératives.
+Le présent avenant est conclu pour une durée indéterminée et prend effet à compter du 1er avril 2025.
 
-Les organisations syndicales de salariés et fédérations d'employeurs non signataires du présent accord y siègent avec voix consultatives.
+Conditions de suivi, de révision et de dénonciation
 
-Chaque membre titulaire du CPS présent dispose d'une voix.
+Le présent avenant s'incorpore à l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.
 
-Les décisions sont prises à la majorité des voix délibératives et sont nécessairement paritaires. De plus, elles nécessitent au minimum la majorité des deux-tiers au sein de chaque collège.
+Dépôt et extension
 
-Les votes ont lieu à main levée.
+Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail.
 
-Le comité détermine les orientations des actions de prévention, les modalités d'attribution des prestations d'action sociale et contrôle les opérations administratives et financières liées à l'action sociale, sauf pour les fonds d'action sociale mis en place en interne par les entreprises ou groupes d'entreprises.
+Stipulations spécifiques aux entreprises de moins de 50 salariés
 
-Le comité désigne en son sein, pour 2 ans un président et un vice-président choisis alternativement dans chacun des collèges salariés et employeurs formés d'organisations signataires de l'accord.
-
-Le comité paritaire de surveillance se réunit au moins 2 fois par an sur convocation de son président. »
+En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
