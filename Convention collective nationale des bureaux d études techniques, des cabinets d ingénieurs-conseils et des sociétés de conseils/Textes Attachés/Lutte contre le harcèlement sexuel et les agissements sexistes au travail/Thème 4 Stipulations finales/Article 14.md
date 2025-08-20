@@ -21,7 +21,7 @@ Le baromètre triennal sur la santé au travail réalisé par l'Adesatt a pour b
 Les risques de harcèlement sexuel et d'agissements sexistes seront intégrés à ce baromètre, qui sera présenté à la CPPNI. En fonction des résultats observés :  
  – le guide pratique mentionné ci-dessus dédiera une partie aux risques de harcèlement sexuel et d'agissements sexistes. Outre la mise en valeur des enseignements de l'étude et des bonnes pratiques observées, il pourra contenir des développements pédagogiques permettant de mieux identifier les situations de harcèlement sexuel et d'agissements sexistes lorsqu'elles surviennent, de les traiter de manière appropriée et d'apporter l'accompagnement pertinent aux personnes impliquées. Ce guide sera mis à disposition sous format numérique. Les entreprises veilleront à sa diffusion auprès des salariés dans le cadre de leur politique de prévention. Ce guide contiendra le présent accord de branche ;  
  – les signataires du présent accord étudieront l'opportunité de mener une réflexion autour d'un dispositif de signalement approprié pour les salariés de la branche, de la sensibilisation à destination des écoles et universités, de la création d'une commission santé ;  
- – discuterons de la nécessité ou non d'apporter des modifications au présent accord.
+ – discuteront de la nécessité ou non d'apporter des modifications au présent accord.
 
 Conditions de révision de l'accord
 
