@@ -10,9 +10,9 @@ La rémunération des heures de travail effectuées le dimanche se voit applique
 
 Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche dans l'entreprise et soumis à cotisations sociales.
 
-*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.* (1) 
+*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.*  (1) 
 
-*Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours fériés devront percevoir une rémunération mensuelle brute au moins égale de 1,25 % du salaire minimum hiérarchique correspondant à leur classification.* (1) 
+*Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours fériés devront percevoir une rémunération mensuelle brute au moins égale de 1,25 % du salaire minimum hiérarchique correspondant à leur classification.*  (1) 
 
 2. Durée maximale journalière de travail effectif
 
@@ -68,8 +68,8 @@ Il ne pourra y avoir plus de 3 dépassements de l'horaire programmé par semaine
 
 Le contingent d'heures supplémentaires non soumis à autorisation de l'inspecteur du travail est fixé à 130 heures par année civile ; le contingent est ramené à 90 heures en cas de modulation *sauf accord d'entreprise* *(6)* ou application de l'article L. 212-6 du code du travail.
 
- *(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.   
- (Arrêté du 23 septembre 2022 - art. 1)*
+ *(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.  
+ (Arrêté du 23 septembre 2022 - art. 1)* 
 
 *(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 212-7 du code du travail, selon lesquelles, au cours d'une même semaine, la durée du travail ne peut dépasser 48 heures (arrêté du 15 novembre 2001, art. 1er).* 
 
