@@ -16,7 +16,7 @@ Concernant le dispositif décrit à l'article 9.6, la prise en charge prévue s'
 
 9.1. Bilan de compétences
 
-À l'expiration de leurs mandats, les bénéficiaires du présent accord peuvent réaliser un bilan de compétences d'une durée de vingt-quatre (24) heures, dans les conditions de l'article L. 6313-4 du code du travail.
+À l'expiration de leurs mandats, les bénéficiaires du présent accord peuvent réaliser un bilan de compétences d'une durée de 24 heures, dans les conditions de l'article L. 6313-4 du code du travail.
 
 Ce bilan doit permettre une analyse des compétences en vue de l'identification de la trajectoire professionnelle appropriée et adaptée à leurs souhaits.
 

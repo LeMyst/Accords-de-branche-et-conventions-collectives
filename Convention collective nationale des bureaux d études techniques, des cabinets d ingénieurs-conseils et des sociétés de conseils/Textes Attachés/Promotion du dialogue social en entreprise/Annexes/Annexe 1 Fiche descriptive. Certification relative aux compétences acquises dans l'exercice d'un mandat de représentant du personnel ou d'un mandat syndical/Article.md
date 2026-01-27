@@ -56,11 +56,10 @@ Références juridiques des règlementations d'activité :
 
 Voies d'accès
 
-Le cas échant, prérequis à l'entrée en formation : justifier de l'exercice d'un mandat de représentant de personnel ou d'un mandat syndical dans les cinq (5) années précédant la session d'examen.
+Le cas échant, prérequis à l'entrée en formation : justifier de l'exercice d'un mandat de représentant de personnel ou d'un mandat syndical dans les 5 années précédant la session d'examen.
 
 Validité des composantes acquises :
 
-  
 
 
 | Voie d'accès à la certification | Oui | Non | Composition des jurys |
@@ -71,10 +70,8 @@ Validité des composantes acquises :
 | En contrat de professionnalisation |  | X |  |
 | Par candidature individuelle | X |  | Le candidat est évalué par un jury composé de membres habilités par le certificateur dont au moins un professionnel habilité pour le titre professionnel dont un ou plusieurs certificats de compétences professionnelles font l'objet d'une équivalence avec le certificat de compétences professionnelles visé Un membre issu d'une organisation syndicale représentative au niveau national ayant exercé un mandat de représentant du personnel ou un mandat syndical. Celui-ci est habilité, sur la base des propositions des organisations syndicales représentatives au niveau national et des demandes individuelles adressées au certificateur pour l'ensemble des certificats de compétences professionnelles constitutifs de la certification et pour la durée de validité de la certification |
 
-  
 Base légale
 
-  
 
 
 |  |  |
@@ -83,12 +80,10 @@ Base légale
 | Durée de l'enregistrement en années | 5 |
 | Date d'échéance de l'enregistrement | 15/10/2026 |
 
-  
 Pour plus d'informations
 
 • Statistiques :
 
-  
 
 
 | Année d'obtention de la certification | Nombre de certifiés | Nombre de certifiés par reconnaissance de l'expérience professionnelle |
@@ -97,7 +92,6 @@ Pour plus d'informations
 | 2019 | 46 | 0 |
 | 2018 | 16 | 0 |
 
-  
 • Lien internet vers le descriptif de la certification :
 
 Page dédiée sur le site du ministère du travail :
@@ -110,14 +104,12 @@ Liste complète des organismes préparant à la certification :
 
 • Certification (s) antérieure (s) :
 
-  
 
 
 | N° de la fiche | Intitulé de la certification remplacée |
 | --- | --- |
 | RS4214 | Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical. |
 
-  
 • Référentiel d'activité, de compétences et d'évaluation :
 
  https :// certifpro. francecompetences. fr/ api/ enregistrementDroit/ refActivity/21680/288518 
