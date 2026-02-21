@@ -1,4 +1,10 @@
 # Article 1er
 
-La commission paritaire de la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils recommande pour les tableaux des garanties du régime de base conventionnel figurant à l'annexe I du présent accord un montant de cotisations pour le régime de base obligatoire (base conventionnelle) de 50 € par mois. Ce montant de cotisation s'appliquera à compter du 1er janvier 2021 et restera inchangé en 2022.
+  
+(Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, **page 34**.)
 
+ https://www.legifrance.gouv.fr/download/file/pdf/boc\_20250049\_0000\_0007.pdf/BOCC 
+
+Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 80,50 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 56,50 €, soit 137 €.
+
+  

@@ -1,7 +1,8 @@
 # Article
 
-Le présent avenant à l'accord relatif à la mise en place d'un régime de complémentaire santé du 7 octobre 2015 de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486) a pour objet de procéder à une augmentation des montants de cotisation à effet du 1er juillet 2023 compte tenu de l'état financier dégradé du régime.
+Conformément à l'article L. 912-1 du code de la sécurité sociale, et en application de l'article 1.2 de l'accord modifié du 7 octobre 2015 relatif à la complémentaire santé, les partenaires sociaux de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ont procédé à un réexamen des modalités d'organisation de la recommandation d'organismes assureurs pour la mise en œuvre de leur régime frais de santé.
 
-Les partenaires sociaux ont donc décidé de réviser certains paramètres financiers du régime afin d'assurer son équilibre financier et de le pérenniser. Ils sont convenus d'apporter les modifications suivantes à l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé.
+Aux termes d'une procédure de mise en concurrence préalable réalisée dans le respect des textes applicables, lesdits partenaires ont choisi de recommander trois organismes assureurs pour la période s'étendant du 1er janvier 2026 au 31 décembre 2030.
 
-  
+En conséquence, les modifications qui suivent sont apportées à l'accord de branche modifié du 7 octobre 2015 relatif à la complémentaire santé.
+
