@@ -46,7 +46,7 @@ A compter du 1er janvier 2026, le tableau « Optique » est remplacé comme suit
 
  https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc \_ 20250015 \_ 0000 \_ 0005. pdf/ BOCC 
 
-A compter du 1er janvier 2026, au sein du tableau « optique : verres de “classe B” et montures », la ligne « sphère > 0 et (sphère + cylindre) > + 6 » (par verre unifocal, sphérique-cylindrique) est remplacée par les stipulations suivantes :
+A compter du 1er janvier 2026, au sein du tableau « optique : verres de “classe B” et montures », **(lien ci-dessus, page 21)**, la ligne « sphère > 0 et (sphère + cylindre) > + 6 » (par verre unifocal, sphérique-cylindrique) est remplacée par les stipulations suivantes :
 
 
 
