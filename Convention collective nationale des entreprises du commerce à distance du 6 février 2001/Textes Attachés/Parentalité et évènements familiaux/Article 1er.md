@@ -1,6 +1,10 @@
-# Article 9.3
+# Article 1er
 
-  
+L'article 9.3 est rédigé comme suit :
+
+« Article 9.3  
+ Parentalité
+
 Principe de non-discrimination
 
 Aucune distinction ne peut être opérée à l'encontre d'un salarié ou d'un candidat à l'embauche en raison de son sexe, de sa situation de famille, de son état de grossesse ou de son engagement dans un projet parental, qu'il s'agisse d'un parcours de procréation médicalement assistée (PMA) ou d'une démarche d'adoption.
@@ -53,6 +57,5 @@ Le cumul de l'allocation journalière de la sécurité sociale et du complément
 
 Allaitement
 
-Pendant 1 an à partir de la naissance de son enfant, la salariée allaitant son enfant dispose à cet effet d'une heure par jour durant les heures de travail. L'utilisation de ce droit n'entraîne pas de réduction de la rémunération.
+Pendant 1 an à partir de la naissance de son enfant, la salariée allaitant son enfant dispose à cet effet d'une heure par jour durant les heures de travail. L'utilisation de ce droit n'entraîne pas de réduction de la rémunération. »
 
-  
