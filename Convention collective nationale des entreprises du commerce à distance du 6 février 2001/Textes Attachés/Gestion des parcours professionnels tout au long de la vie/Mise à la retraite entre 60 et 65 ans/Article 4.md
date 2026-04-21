@@ -4,7 +4,7 @@ On entend par mise à la retraite la rupture du contrat de travail à l'initiati
 
 La mise à la retraite peut intervenir à partir de 60 ans, à l'initiative de l'employeur, lorsqu'un salarié peut bénéficier d'une pension de vieillesse à taux plein au sens du code de la sécurité sociale et peut faire liquider sans abattement les retraites complémentaires auxquelles l'employeur cotise avec lui. Cette rupture ne constitue pas un licenciement lorsque cette mise à la retraite s'accompagne des contreparties prévues ci-dessous. A l'issue de la période au cours de laquelle le salarié et l'employeur ont rassemblé ces éléments, le salarié peut s'opposer par écrit (lettre recommandée avec AR ou simple lettre contre décharge) dans les 15 jours à compter de la réception de la lettre notifiant sa mise à la retraite, à cette décision, laquelle deviendra, de ce fait, sans objet. Le refus du salarié ne peut, en aucun cas, constituer un motif de licenciement.
 
-Contreparties en termes d'emploi 
+Contreparties en termes d'emploi
 
 La contrepartie " emploi " prévue par la réglementation pourra prendre l'une des formes suivantes :
 
@@ -26,7 +26,7 @@ la contrepartie correspondant au nombre d'heures libérées par le salarié mis 
 
 Les contrats visés aux 5 premiers tirets ci-dessus doivent être conclus dans un délai de 1 an maximum avant la notification de la mise à la retraite ou au plus tard 1 an après le terme du préavis tel que calculé en application de la convention collective nationale des entreprises de vente à distance.
 
-Indemnités pour mise à la retraite entre 60 et 65 ans 
+Indemnités pour mise à la retraite entre 60 et 65 ans
 
 Les ouvriers-employés mis à la retraite dans les conditions précitées ont droit au versement d'une indemnitée de mise à la retraite, dans les conditions prévues à l'article 17 de l'avenant ouvriers et employés de la convention collective, égale à 28 heures par année de présence dans la limite d'un plafond égal à 6,5 mois.
 
@@ -37,4 +37,6 @@ Les ingénieurs et cadres mis à la retraite dans les conditions précitées ont
 L'ensemble des catégories professionnelles bénéficie dans rentreprise d'un plancher d'indemnités de mise à la retraite.
 
 Ce plancher est fixé à 75 heures pour les ouvriers employés et 0,5 mois pour les techniciens agents de maîtrise et cadres.
+
+*Article 4 étendu sous réserve de l'application des dispositions du deuxième alinéa de l'article L. 122-14-13 du code du travail (arrêté d'extension du 29 mars 2006)*
 
