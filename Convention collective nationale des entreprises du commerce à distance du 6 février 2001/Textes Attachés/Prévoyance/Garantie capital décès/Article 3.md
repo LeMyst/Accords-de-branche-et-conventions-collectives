@@ -7,7 +7,7 @@ En cas de décès du salarié, un capital est versé à ses ayants droit désign
 
 3.2. Montant du capital décès
 
-Le montant du capital décès versé est égal à 200 % du salaire de référence. Son montant minimum est fixé à 170 % du plafond annuel de la sécurité sociale en vigueur au jour du décès pour les salariés ne relevant pas du régime de retraite des cadres et à 300 % du plafond annuel de la sécurité sociale en vigueur au jour du décès pour les salariés relevant du régime de retraite des cadres, avec prorata pour les salariés à temps partiel.
+Le montant du capital décès versé est égal à 200 % du salaire de référence. Son montant minimum est fixé à 200 % du plafond annuel de la sécurité sociale en vigueur au jour du décès pour les salariés ne relevant pas du régime de retraite des cadres et à 300 % du plafond annuel de la sécurité sociale en vigueur au jour du décès pour les salariés relevant du régime de retraite des cadres, avec prorata pour les salariés à temps partiel.
 
 Sur demande du ou des ayants droit désignés en 3.3, ce capital décès pourra, en tout ou partie, être transformé en rente.
 
