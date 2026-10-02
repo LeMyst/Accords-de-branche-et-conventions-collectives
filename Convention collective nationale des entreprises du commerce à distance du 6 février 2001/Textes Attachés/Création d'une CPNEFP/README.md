@@ -1,0 +1,16 @@
+# Création d'une CPNEFP
+
+- [Création d'une CPNEFP](Cr%C3%A9ation%20d%27une%20CPNEFP.md)
+- [Préambule](Pr%C3%A9ambule/README.md)
+- [Missions](Missions/README.md)
+- [Composition](Composition/README.md)
+- [Fonctionnement](Fonctionnement/README.md)
+- [Présidence - Vice-présidence](Pr%C3%A9sidence%20-%20Vice-pr%C3%A9sidence/README.md)
+- [Fréquence des réunions](Fr%C3%A9quence%20des%20r%C3%A9unions/README.md)
+- [Indemnisation absences et déplacements](Indemnisation%20absences%20et%20d%C3%A9placements/README.md)
+- [Recours](Recours/README.md)
+- [Durée de l'avenant](Dur%C3%A9e%20de%20l%27avenant/README.md)
+- [Notification et validité de l'avenant](Notification%20et%20validit%C3%A9%20de%20l%27avenant/README.md)
+- [Dépôt](D%C3%A9p%C3%B4t/README.md)
+- [Demande d'extension](Demande%20d%27extension/README.md)
+- [Date d'application](Date%20d%27application/README.md)
