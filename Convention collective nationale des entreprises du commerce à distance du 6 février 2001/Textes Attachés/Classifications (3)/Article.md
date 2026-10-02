@@ -8,8 +8,8 @@ L'alinéa 6 de l'article 4 « L'évolution professionnelle » est abrogé et rem
 
 Les minima professionnels sont déterminés dans la branche en faisant application d'un coefficient d'évolution professionnelle fixé comme suit :
 
-– de débutant à maîtrisant : 102 ;\
-– de débutant à référent/ polyvalent : 106.
+- de débutant à maîtrisant : 102 ;
+- de débutant à référent/ polyvalent : 106.
 
 Ces coefficients d'évolution sont identiques pour toutes les catégories. »
 

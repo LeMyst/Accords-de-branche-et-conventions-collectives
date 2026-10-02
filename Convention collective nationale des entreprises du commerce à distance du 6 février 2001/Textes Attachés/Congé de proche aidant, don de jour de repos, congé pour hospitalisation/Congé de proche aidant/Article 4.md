@@ -4,10 +4,11 @@ Le congé est pris à l'initiative du salarié.
 
 Le salarié adresse sa demande à l'employeur par lettre recommandée avec accusé réception ou lettre remise en main propre contre décharge, et ce afin de justifier de la date de la demande.
 
-La demande précise les éléments suivants :\
-– la volonté du salarié de suspendre son contrat de travail pour bénéficier du congé de proche aidant ;\
-– la date du départ en congé ;\
-– et, si le salarié le souhaite, sa volonté de fractionner le congé (ou de le transformer en temps partiel).
+La demande précise les éléments suivants :
+
+- la volonté du salarié de suspendre son contrat de travail pour bénéficier du congé de proche aidant ;
+- la date du départ en congé ;
+- et, si le salarié le souhaite, sa volonté de fractionner le congé (ou de le transformer en temps partiel).
 
 Et devra être accompagnée, conformément aux dispositions de l'article D. 3142-8 des pièces suivantes :
 

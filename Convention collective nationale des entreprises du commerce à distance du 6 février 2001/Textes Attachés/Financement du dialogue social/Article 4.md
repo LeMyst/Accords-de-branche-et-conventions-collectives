@@ -13,5 +13,6 @@ L'ensemble des frais générés par les rappels, les procédures précontentieus
 A compter du 1er janvier 2024, la branche devra, pour assurer le recouvrement des fonds :
 
 - soit recourir à une association de gestion ;
-- soit recourir au circuit URSSAF.\
-  (Arrêté du 14 novembre 2022 - art. 1)\*
+- soit recourir au circuit URSSAF.
+
+(Arrêté du 14 novembre 2022 - art. 1)\*

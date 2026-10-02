@@ -1,10 +1,11 @@
 # Article 2
 
-L'ensemble des minima conventionnels (niveau débutant) de la catégorie A à D sont augmentés de 48,31 €, ce qui correspond, en pourcentage aux augmentations suivantes :\
-– catégorie A : + 3,11 % ;\
-– catégorie B : + 3,07 % ;\
-– catégorie C : + 2,98 % ;\
-– catégorie D : + 2,72 %.
+L'ensemble des minima conventionnels (niveau débutant) de la catégorie A à D sont augmentés de 48,31 €, ce qui correspond, en pourcentage aux augmentations suivantes :
+
+- catégorie A : + 3,11 % ;
+- catégorie B : + 3,07 % ;
+- catégorie C : + 2,98 % ;
+- catégorie D : + 2,72 %.
 
 Le salaire conventionnel (niveau débutant) de la catégorie E est augmenté de 50,51 €, ce qui correspond à une augmentation de + 2,3 %.
 

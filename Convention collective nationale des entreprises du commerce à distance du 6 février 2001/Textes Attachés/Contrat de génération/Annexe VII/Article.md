@@ -4,12 +4,15 @@ Conditions et modalités d'octroi des aides financières attribuées aux entrepr
 
 I. – Rappel de quelques principes
 
-L'aide concerne :\
-– les entreprises de moins de 50 salariés ayant conclu un contrat de génération entre un jeune et un senior ;\
-– et celles dont l'effectif est compris entre 50 salariés et 299 salariés ayant conclu un contrat de génération et couvertes par un accord collectif, un plan d'action ou, à défaut, un accord de branche.\
-L'aide ne peut être accordée :\
-– lorsque l'entreprise a procédé, dans les 6 mois précédents, à un licenciement économique sur les postes relevant de la catégorie professionnelle dans laquelle est prévue l'embauche ou à une rupture conventionnelle homologuée ou à un licenciement pour un motif autre que la faute grave ou lourde ou l'inaptitude sur le poste pour lequel est prévue l'embauche ;\
-– lorsque l'entreprise n'est pas à jour de ses obligations déclaratives et de paiement relatives aux cotisations et contributions de la sécurité sociale et d'assurance chômage ou n'a pas souscrit ou ne respecte pas un plan d'apurement des cotisations restant dues.
+L'aide concerne :
+
+- les entreprises de moins de 50 salariés ayant conclu un contrat de génération entre un jeune et un senior ;
+- et celles dont l'effectif est compris entre 50 salariés et 299 salariés ayant conclu un contrat de génération et couvertes par un accord collectif, un plan d'action ou, à défaut, un accord de branche.
+
+L'aide ne peut être accordée :
+
+- lorsque l'entreprise a procédé, dans les 6 mois précédents, à un licenciement économique sur les postes relevant de la catégorie professionnelle dans laquelle est prévue l'embauche ou à une rupture conventionnelle homologuée ou à un licenciement pour un motif autre que la faute grave ou lourde ou l'inaptitude sur le poste pour lequel est prévue l'embauche ;
+- lorsque l'entreprise n'est pas à jour de ses obligations déclaratives et de paiement relatives aux cotisations et contributions de la sécurité sociale et d'assurance chômage ou n'a pas souscrit ou ne respecte pas un plan d'apurement des cotisations restant dues.
 
 II. – Rappel des textes\
 Loi n° 2013-185 du 1er mars 2013 portant création du contrat de génération\

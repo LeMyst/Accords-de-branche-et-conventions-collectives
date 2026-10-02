@@ -75,5 +75,6 @@ Les dispositions de l'article 3 « Certifications visées » de l'accord du 22 a
 
 \*(1) La certification suivante est exclue de l'extension en tant qu'elle contrevient aux dispositions prévues par l'article L. 6324-3 du code du travail :
 
-- Designer concepteur de mode - RNCP 35447.\
-  (Arrêté du 7 mars 2023 - art. 1)\*
+- Designer concepteur de mode - RNCP 35447.
+
+(Arrêté du 7 mars 2023 - art. 1)\*

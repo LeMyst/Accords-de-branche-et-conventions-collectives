@@ -9,7 +9,8 @@ L'analyse du bilan de l'accord senior du 6 novembre 2009 fait notamment ressorti
 Le présent accord constitue pour les PME et des TPE une opportunité pour mieux anticiper les besoins en compétences des entreprises et des salariés et pour mettre en œuvre des mesures concrètes en matière de gestion des âges.\
 Pour atteindre ces résultats, les parties signataires décident de prendre des engagements en faveur de :
 
-– l'insertion durable des jeunes ;\
-– l'emploi des salariés âgés ;\
-– la transmission des savoirs et des compétences.\
+- l'insertion durable des jeunes ;
+- l'emploi des salariés âgés ;
+- la transmission des savoirs et des compétences.
+
 Le préalable au présent accord de contrat de génération a été l'occasion d'une analyse et d'un partage des éléments de situation recueillis dans le cadre d'un diagnostic préalable et d'un réexamen des pratiques en matière d'emploi, dans la branche de la vente à distance.

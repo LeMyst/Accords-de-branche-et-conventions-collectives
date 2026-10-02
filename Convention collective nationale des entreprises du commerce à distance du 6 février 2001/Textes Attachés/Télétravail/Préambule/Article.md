@@ -10,11 +10,11 @@ Le télétravail est une organisation de travail décidée d'un commun accord et
 
 Par ailleurs, l'accès au télétravail peut être subordonné à des situations personnelles, par exemple :
 
-– accompagnement d'un proche en fin de vie ;\
-– distance domicile-travail ;\
-– fin de carrière ;\
-– handicap ;\
-– problèmes de mobilité.
+- accompagnement d'un proche en fin de vie ;
+- distance domicile-travail ;
+- fin de carrière ;
+- handicap ;
+- problèmes de mobilité.
 
 En cas de circonstances particulières (épidémie, intempéries, problème personnel temporaire…), un accord entre salarié et employeur peut aussi organiser une « période de télétravail » qui, du fait de son caractère ponctuel et/ou irrégulier, ne sera pas concernée par les dispositions relatives au télétravail.
 

@@ -24,13 +24,14 @@ Niveau référent et/ou polyvalent
 
 Salarié dominant toutes les caractéristiques et obligations de l'emploi, au point d'être considéré :
 
-Comme un référent : l'expertise professionnelle qu'il a développée lui permet par exemple et sans que cela soit cumulatif :\
-– de résoudre des problèmes nouveaux et/ ou inhabituels ;\
-– d'alerter sur les dysfonctionnements et proposer des améliorations sur les procédures ou les modes opératoires ;\
-– d'être sollicité et participer aux évolutions des procédures, des modes opératoires ou de l'organisation du travail ;\
-– d'agir en support technique ou en assistance à ses collègues moins expérimentés ;\
-– de partager son expérience professionnelle dans le cadre de groupes de travail ;\
-– d'exercer une mission de tutorat.
+Comme un référent : l'expertise professionnelle qu'il a développée lui permet par exemple et sans que cela soit cumulatif :
+
+- de résoudre des problèmes nouveaux et/ ou inhabituels ;
+- d'alerter sur les dysfonctionnements et proposer des améliorations sur les procédures ou les modes opératoires ;
+- d'être sollicité et participer aux évolutions des procédures, des modes opératoires ou de l'organisation du travail ;
+- d'agir en support technique ou en assistance à ses collègues moins expérimentés ;
+- de partager son expérience professionnelle dans le cadre de groupes de travail ;
+- d'exercer une mission de tutorat.
 
 Comme un polyvalent : est considéré comme polyvalent le salarié réalisant de façon non occasionnelle des opérations qui relèvent d'un autre emploi classé dans la même catégorie ou une catégorie inférieure. (Par autre emploi, il faut considérer une situation de travail qui peut correspondre à un poste de travail différent mobilisant des activités et des compétences de même nature.)
 

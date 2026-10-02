@@ -13,9 +13,11 @@ Le compte est alimenté en heures de formation à la fin de chaque année et, le
 L'alimentation du compte se fait à hauteur de 24 heures par année de travail à temps complet jusqu'à l'acquisition d'un crédit de 120 heures, puis de 12 heures par année de travail à temps complet, dans la limite d'un plafond total de 150 heures.\
 La période d'absence du salarié pour un congé de maternité, de paternité et d'accueil de l'enfant, d'adoption, de présence parentale, de soutien familial ou un congé parental d'éducation ou pour une maladie professionnelle ou un accident du travail est intégralement prise en compte pour le calcul de ces heures.\
 Les heures de DIF (droit individuel à la formation) non utilisées au 31 décembre 2014 sont reversées sur le compte CPF. Lorsqu'une personne bénéficie d'une formation dans le cadre de son compte personnel de formation, les heures acquises et non utilisées au titre du DIF sont mobilisées en premier lieu et, le cas échéant, sont complétées par les heures inscrites sur le compte personnel de formation de l'intéressé. Ces heures de DIF peuvent se cumuler avec les heures acquises au titre du CPF dans la limite de 150 heures ; elles seront mobilisables dans le cadre du CPF jusqu'au 31 décembre 2020.\
-Dans les entreprises d'au moins 50 salariés, un abondement de 100 heures (130 heures pour les salariés à temps partiel) sera inscrit sur le CPF du salarié s'il apparaît lors de l'entretien professionnel organisé tous les 6 ans :\
-– qu'il n'a pas bénéficié, au cours des 6 ans écoulés, de l'entretien professionnel prévu tous les 2 ans ;\
-– et qu'il n'a pas bénéficié non plus d'au moins deux mesures d'évolution professionnelle parmi les trois suivante : suivi d'au moins une action de formation, acquisition d'une certification par la formation ou la VAE, progression salariale ou professionnelle.\
+Dans les entreprises d'au moins 50 salariés, un abondement de 100 heures (130 heures pour les salariés à temps partiel) sera inscrit sur le CPF du salarié s'il apparaît lors de l'entretien professionnel organisé tous les 6 ans :
+
+- qu'il n'a pas bénéficié, au cours des 6 ans écoulés, de l'entretien professionnel prévu tous les 2 ans ;
+- et qu'il n'a pas bénéficié non plus d'au moins deux mesures d'évolution professionnelle parmi les trois suivante : suivi d'au moins une action de formation, acquisition d'une certification par la formation ou la VAE, progression salariale ou professionnelle.
+
 Les formations éligibles au CPF sont :
 
 1. Les formations permettant d'acquérir le socle de connaissances et de compétences ;

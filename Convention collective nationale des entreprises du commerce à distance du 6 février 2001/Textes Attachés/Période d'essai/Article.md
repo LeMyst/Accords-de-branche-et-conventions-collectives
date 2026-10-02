@@ -139,18 +139,23 @@ Les parties signataires conviennent de procéder à la demande d'extension du pr
 - 24 heures en deçà de 8 jours de présence ;
 - 48 heures entre 8 jours et 1 mois de présence ;
 - 2 semaines après 1 mois de présence ;
-- 1 mois après 3 mois de présence.\
-  La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
-  Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\* \*(2) Article L. 1221-25. – Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la période d'essai définie aux articles L. 1221-19 à L. 1221-24 ou à l'article L. 1242-10 pour les contrats stipulant une période d'essai d'au moins 1 semaine, le salarié est prévenu dans un délai qui ne peut être inférieur à :
+- 1 mois après 3 mois de présence.
+
+La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
+Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\* \*(2) Article L. 1221-25. – Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la période d'essai définie aux articles L. 1221-19 à L. 1221-24 ou à l'article L. 1242-10 pour les contrats stipulant une période d'essai d'au moins 1 semaine, le salarié est prévenu dans un délai qui ne peut être inférieur à :
+
 - 24 heures en deçà de 8 jours de présence ;
 - 48 heures entre 8 jours et 1 mois de présence ;
 - 2 semaines après 1 mois de présence ;
-- 1 mois après 3 mois de présence.\
-  La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
-  Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\* \*(3) Article L. 1221-25. – Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la période d'essai définie aux articles L. 1221-19 à L. 1221-24 ou à l'article L. 1242-10 pour les contrats stipulant une période d'essai d'au moins 1 semaine, le salarié est prévenu dans un délai qui ne peut être inférieur à :
+- 1 mois après 3 mois de présence.
+
+La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
+Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\* \*(3) Article L. 1221-25. – Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la période d'essai définie aux articles L. 1221-19 à L. 1221-24 ou à l'article L. 1242-10 pour les contrats stipulant une période d'essai d'au moins 1 semaine, le salarié est prévenu dans un délai qui ne peut être inférieur à :
+
 - 24 heures en deçà de 8 jours de présence ;
 - 48 heures entre 8 jours et 1 mois de présence ;
 - 2 semaines après 1 mois de présence ;
-- 1 mois après 3 mois de présence.\
-  La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
-  Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\*
+- 1 mois après 3 mois de présence.
+
+La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.\
+Article L. 1221-26. – Lorsqu'il est mis fin à la période d'essai par le salarié, celui-ci respecte un délai de prévenance de 48 heures. Ce délai est ramené à 24 heures si la durée de présence du salarié dans l'entreprise est inférieure à 8 jours.\*

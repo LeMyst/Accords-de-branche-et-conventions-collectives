@@ -12,10 +12,11 @@ Le salarié doit avertir son employeur au moins 48 heures avant la date à laque
 
 En cas de fractionnement du congé, la durée minimale de chaque période de congé est d'une journée.
 
-Toutefois, le congé débute sans délai s'il est justifié par :\
-– une urgence liée notamment à une dégradation soudaine de l'état de santé de la personne aidée (attestée par certificat médical) ;\
-– une situation de crise nécessitant une action urgente du salarié ;\
-– ou la cessation brutale de l'hébergement en établissement dont bénéficiait la personne aidée (attestée par le responsable de l'établissement).
+Toutefois, le congé débute sans délai s'il est justifié par :
+
+- une urgence liée notamment à une dégradation soudaine de l'état de santé de la personne aidée (attestée par certificat médical) ;
+- une situation de crise nécessitant une action urgente du salarié ;
+- ou la cessation brutale de l'hébergement en établissement dont bénéficiait la personne aidée (attestée par le responsable de l'établissement).
 
 Avantages
 

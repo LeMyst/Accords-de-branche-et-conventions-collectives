@@ -2,10 +2,11 @@
 
 Les cadres contribuent à la mise en œuvre de la stratégie de l'entreprise. Ils peuvent assurer la gestion d'un ou de plusieurs secteurs d'activité ou projets de l'entreprise dans le cadre d'objectifs généraux.
 
-Ces activités demandent aux titulaires :\
-– une compétence technique confirmée ;\
-– une capacité à piloter des projets et à manager les équipes projets ;\
-– des compétences managériales pour animer, former et motiver leurs collaborateurs.
+Ces activités demandent aux titulaires :
+
+- une compétence technique confirmée ;
+- une capacité à piloter des projets et à manager les équipes projets ;
+- des compétences managériales pour animer, former et motiver leurs collaborateurs.
 
 Le plus souvent, ils exercent leurs missions avec un niveau de délégation qui dépend de la fonction exercée et du périmètre des activités dont ils ont la responsabilité.
 
@@ -65,12 +66,13 @@ Niveau référent
 
 Salarié dominant l'emploi qu'il exerce, au point d'être considéré par ses compétences comme un expert.
 
-Son expertise lui permet sans que cela soit cumulatif :\
-– de résoudre des problèmes inhabituels ou plus complexes ;\
-– d'assurer des missions complémentaires dans le périmètre de son emploi ;\
-– d'agir en support technique ou en assistance à ses collègues moins expérimentés ;\
-– d'animer des groupes de projets transversaux à partir d'un cahier des charges ;\
-– d'exercer une mission de tutorat de nouveaux collègues.
+Son expertise lui permet sans que cela soit cumulatif :
+
+- de résoudre des problèmes inhabituels ou plus complexes ;
+- d'assurer des missions complémentaires dans le périmètre de son emploi ;
+- d'agir en support technique ou en assistance à ses collègues moins expérimentés ;
+- d'animer des groupes de projets transversaux à partir d'un cahier des charges ;
+- d'exercer une mission de tutorat de nouveaux collègues.
 
 2.3.2. Définition de la catégorie G
 

@@ -4,9 +4,9 @@ Le niveau traduit la maîtrise des savoir-faire que démontre le salarié dans l
 
 Chaque catégorie comporte 3 niveaux reconnaissant l'évolution du salarié dans son emploi :
 
-– débutant ;\
-– maîtrisant ;\
-– référent et/ou polyvalent.
+- débutant ;
+- maîtrisant ;
+- référent et/ou polyvalent.
 
 Le passage d'un niveau à un niveau supérieur reconnaît l'évolution du salarié dans son emploi. Il implique de satisfaire complètement à la définition du niveau inférieur. Toutefois, dès lors que sont remplies les conditions propres à chaque niveau, l'attribution d'un niveau n'implique pas pour le salarié d'avoir été préalablement positionné au niveau qui précède dont il est néanmoins supposé satisfaire complètement les conditions.
 

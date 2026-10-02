@@ -18,8 +18,9 @@ Après chaque réunion, les organisations syndicales indiquent, au secrétariat 
 
 Les frais de transport sont remboursés à raison :
 
-- d'un billet de train aller-retour au tarif SNCF 2e classe ;\
-  ou
+- d'un billet de train aller-retour au tarif SNCF 2e classe ;
+
+ou
 
 - d'un billet d'avion si l'aller-retour ne peut être effectué le même jour où se tient la réunion.
 

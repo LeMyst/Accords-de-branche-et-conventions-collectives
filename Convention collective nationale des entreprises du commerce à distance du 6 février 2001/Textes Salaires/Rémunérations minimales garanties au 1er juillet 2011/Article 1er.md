@@ -14,11 +14,11 @@ La RAMG s'applique pour un salarié à temps plein et ayant été présent toute
 
 Pour son application, il est tenu compte de l'ensemble des éléments bruts de salaire quelles qu'en soient la nature (contractuelle ou conventionnelle) et la périodicité, supportant des cotisations en vertu de la législation de la sécurité sociale, à l'exception des éléments suivants :
 
-– les heures supplémentaires ;\
-– les majorations de salaire prévues par la convention collective ;\
-– les primes liées aux contraintes de l'emploi exercé ;\
-– les sommes versées n'ayant pas le caractère de salaire telles que l'intéressement et la participation. ;\
-– les sommes qui, constituant un remboursement de frais, ne supportent pas de cotisations en vertu de la législation de sécurité sociale.
+- les heures supplémentaires ;
+- les majorations de salaire prévues par la convention collective ;
+- les primes liées aux contraintes de l'emploi exercé ;
+- les sommes versées n'ayant pas le caractère de salaire telles que l'intéressement et la participation. ;
+- les sommes qui, constituant un remboursement de frais, ne supportent pas de cotisations en vertu de la législation de sécurité sociale.
 
 En cas d'année incomplète, ou d'horaire incomplet, mais sous réserve de remplir les conditions prévues ci-dessus, le salarié bénéficie de la RAMG proportionnellement au temps de présence effective.
 

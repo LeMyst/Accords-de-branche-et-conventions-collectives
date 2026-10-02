@@ -9,12 +9,13 @@ Accompagnant d'un jeune
 
 L'accompagnant est un salarié de l'entreprise qui, peu important son statut, son expérience, son ancienneté ou encore son métier (même distinct de celui du jeune), se propose de guider le jeune pour faciliter son intégration au sein de l'entreprise.\
 Il est l'une des toutes premières personnes présentées au jeune dans l'entreprise et, de ce fait, naturellement la personne vers laquelle le jeune se tournera en cas de questionnement ou de difficulté.\
-Devenir accompagnant nécessite, outre une bonne connaissance de l'entreprise, certaines qualités, notamment :\
-– des capacités d'écoute ;\
-– de la patience ;\
-– une certaine ouverture d'esprit ;\
-– une envie de partager ;\
-– …
+Devenir accompagnant nécessite, outre une bonne connaissance de l'entreprise, certaines qualités, notamment :
+
+- des capacités d'écoute ;
+- de la patience ;
+- une certaine ouverture d'esprit ;
+- une envie de partager ;
+- …
 
 1. Désignation
 

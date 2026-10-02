@@ -9,19 +9,23 @@ En ce qui concerne le maintien en activité des seniors, elles prennent l'engage
 b) Mesures destinées à favoriser l'amélioration des conditions de travail et de prévention de la pénibilité par l'adaptation et l'aménagement du poste de travail\
 Amélioration des conditions de travail et prévention de la pénibilité :\
 Les parties signataires soulignent que la formation permet une adaptation aux évolutions du métier et une plus grande professionnalisation, éléments indispensables aujourd'hui pour répondre aux besoins de qualité et réduire les facteurs de pénibilité.\
-Le maintien dans une activité professionnelle est en effet conditionné :\
-– par l'adaptation du salarié aux évolutions techniques, technologiques, organisationnelles ;\
-– par l'évolution professionnelle, changement de poste que l'entreprise, si elle en a la possibilité, peut essayer de mettre en œuvre pour le salarié s'il a ou acquiert les capacités et connaissances nécessaires ;\
-– par la réflexion du salarié sur ses attentes en matière d'emploi pour la fin de sa carrière professionnelle et/ou par rapport aux changements physiques qu'il perçoit ou imagine ;\
-– par l'évolution aux postes et le transfert des acquis par le tutorat.\
+Le maintien dans une activité professionnelle est en effet conditionné :
+
+- par l'adaptation du salarié aux évolutions techniques, technologiques, organisationnelles ;
+- par l'évolution professionnelle, changement de poste que l'entreprise, si elle en a la possibilité, peut essayer de mettre en œuvre pour le salarié s'il a ou acquiert les capacités et connaissances nécessaires ;
+- par la réflexion du salarié sur ses attentes en matière d'emploi pour la fin de sa carrière professionnelle et/ou par rapport aux changements physiques qu'il perçoit ou imagine ;
+- par l'évolution aux postes et le transfert des acquis par le tutorat.
+
 Les parties signataires rappellent que la formation tout au long de la vie est essentielle et qu'il est important tant pour l'entreprise que pour le salarié de poursuivre le développement de ses compétences à tout âge.\
 Elles soulignent qu'un salarié s'engage plus facilement dans les processus d'adaptation et de développement de ses connaissances s'il a déjà suivi des formations une fois entré dans la vie active.\
 Afin de permettre aux salariés des entreprises d'évoluer plus facilement, les parties signataires soulignent la nécessité d'anticiper les évolutions de carrière.\
 Par ailleurs, la branche demande aux entreprises d'apporter une vigilance toute particulière aux postes présentant des contraintes particulières accentuées par le phénomène de vieillissement. Elle préconise notamment une priorité au changement d'affectation lorsque des salariés âgés sont affectés à des postes pénibles identifiés dans l'entreprise ; ils bénéficient, sous réserve d'une validation des aptitudes requises, d'une priorité d'affectation à d'autres postes de qualification équivalente.\
-En conséquence l'entreprise choisira de mettre en place une ou plusieurs des trois actions suivantes :\
-– une priorité au changement d'affectation : lorsque des salariés âgés sont affectés à des postes qui ont une pénibilité identifiée dans l'entreprise, ils bénéficient, sous réserve d'une validation des aptitudes requises, d'une priorité d'affectation à d'autres postes de qualification équivalente ; et/ou\
-– une autorisation d'absence rémunérée, sur justificatif d'une demi-journée, tous les 5 ans, pour faire un bilan de santé pour les salariés de plus de 55 ans ; et/ou\
-– une priorité de formation : les salariés âgés d'au moins 50 ans qui occupent des emplois pénibles identifiés dans l'entreprise bénéficient d'une priorité d'accès à la période de professionnalisation.\
+En conséquence l'entreprise choisira de mettre en place une ou plusieurs des trois actions suivantes :
+
+- une priorité au changement d'affectation : lorsque des salariés âgés sont affectés à des postes qui ont une pénibilité identifiée dans l'entreprise, ils bénéficient, sous réserve d'une validation des aptitudes requises, d'une priorité d'affectation à d'autres postes de qualification équivalente ; et/ou
+- une autorisation d'absence rémunérée, sur justificatif d'une demi-journée, tous les 5 ans, pour faire un bilan de santé pour les salariés de plus de 55 ans ; et/ou
+- une priorité de formation : les salariés âgés d'au moins 50 ans qui occupent des emplois pénibles identifiés dans l'entreprise bénéficient d'une priorité d'accès à la période de professionnalisation.
+
 c) Des actions pertinentes dans les domaines suivants
 
 1. Actions dans le domaine de l'anticipation des évolutions professionnelles et de la gestion active des âges\

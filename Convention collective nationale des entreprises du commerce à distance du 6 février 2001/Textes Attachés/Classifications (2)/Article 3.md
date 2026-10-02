@@ -2,8 +2,8 @@
 
 Conformément aux principes retenus, les entreprises attribuent à chaque salarié, selon les modalités définies à l'article 5, une qualification qui résulte à la fois :
 
-– de la catégorie de l'emploi qu'il occupe ;\
-– du niveau qu'il détient au titre de cet emploi.
+- de la catégorie de l'emploi qu'il occupe ;
+- du niveau qu'il détient au titre de cet emploi.
 
 Ces qualifications sont énumérées dans le tableau ci-après. Elles prennent les appellations suivantes : A-D, A-M …
 
