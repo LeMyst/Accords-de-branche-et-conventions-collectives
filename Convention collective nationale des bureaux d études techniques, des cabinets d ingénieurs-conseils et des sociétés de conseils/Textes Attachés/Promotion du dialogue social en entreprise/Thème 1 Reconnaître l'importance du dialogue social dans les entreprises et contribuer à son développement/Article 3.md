@@ -7,4 +7,3 @@ Ainsi, des outils à l'usage des directions d'entreprises, des managers et des s
 Les managers encadrant des salariés détenteurs de mandats pourront, à leur demande, être formés au rôle, aux missions et à la gestion des représentants du personnel et syndicaux par le biais de l'ACN (action collective nationale) visée à l'article 2.2 du présent accord.
 
 Les partenaires sociaux s'engagent à identifier ces outils et les moyens de leur développement dans un délai de 12 mois suivant la signature du présent accord de branche.
-

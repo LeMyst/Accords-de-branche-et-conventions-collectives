@@ -11,4 +11,3 @@ Les partenaires sociaux conviennent de proposer à l'association d'étude et de 
 La CPPNI peut proposer la révision du présent accord, conformément aux stipulations définies à l'article 13 du présent accord.
 
 En cas de modification des dispositions légales ou réglementaires, les parties signataires de l'accord se réuniront, à l'initiative de la partie la plus diligente, dans un délai d'un mois à compter de la date d'entrée en vigueur des nouvelles dispositions. Elles peuvent également saisir la CPPNI.
-

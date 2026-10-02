@@ -1,6 +1,5 @@
 # Article 12
 
-  
 Le présent accord est conclu pour une durée indéterminée. Il entrera en vigueur le premier jour du mois civil suivant la publication de l'arrêté ministériel d'extension prévu par l'article L. 133-8 du code du travail.
 
 Les entreprises relevant du présent accord bénéficieront d'un délai de 12 mois à compter de l'entrée en vigueur de l'accord pour se mettre en conformité avec des nouvelles garanties prévues.
@@ -12,4 +11,3 @@ Les dispositions du présent accord pourront être réexaminées à la demande d
 Toute dénonciation du présent accord s'effectuera conformément aux dispositions de l'article 81 de la convention collective nationale.
 
 (ancien article 10)
-

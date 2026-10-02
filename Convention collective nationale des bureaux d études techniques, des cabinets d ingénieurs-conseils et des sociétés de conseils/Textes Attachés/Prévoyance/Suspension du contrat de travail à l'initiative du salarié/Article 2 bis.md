@@ -23,5 +23,3 @@ Ce maintien de garanties cesse :
 Les salariés dont la suspension du contrat de travail a pour origine un arrêt de travail indemnisé par la sécurité sociale bénéficient de ce maintien de garantie jusqu'à la date de reprise d'activité ou jusqu'à la date de prise d'effet de la retraite sécurité sociale. Aucune cotisation n'est due au titre des prestations incapacité de travail ou invalidité prévues par le présent accord de prévoyance.
 
 Il est rappelé que les salariés dont le contrat de travail est suspendu sans rémunération peuvent demander à conserver le bénéfice des garanties décès (capital décès et rente d'éducation).
-
-  

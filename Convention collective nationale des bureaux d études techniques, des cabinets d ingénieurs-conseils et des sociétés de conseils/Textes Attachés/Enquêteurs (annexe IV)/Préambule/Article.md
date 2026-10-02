@@ -7,4 +7,3 @@ Tout au long de ces travaux, les partenaires sociaux ont recensé les stipulatio
 Les partenaires sociaux se sont donc accordés sur la renégociation d'un certain nombre d'articles de la convention collective afin de les clarifier, de combler leurs lacunes, et d'actualiser certains chapitres le cas échéant.
 
 Ce chantier de « modernisation » de la convention collective a abouti avec la renégociation de plusieurs stipulations conventionnelles, dont celles de l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
-

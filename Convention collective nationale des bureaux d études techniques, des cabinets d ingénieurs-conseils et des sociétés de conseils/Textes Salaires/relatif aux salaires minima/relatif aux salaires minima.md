@@ -1,2 +1,1 @@
 # relatif aux salaires minima
-

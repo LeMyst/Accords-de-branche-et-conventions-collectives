@@ -17,4 +17,3 @@ Le comité détermine les orientations des actions de prévention, les modalité
 Le comité désigne en son sein, pour 2 ans un président et un vice-président choisis alternativement dans chacun des collèges salariés et employeurs formés d'organisations signataires de l'accord.
 
 Le comité paritaire de surveillance se réunit au moins 2 fois par an sur convocation de son président.
-

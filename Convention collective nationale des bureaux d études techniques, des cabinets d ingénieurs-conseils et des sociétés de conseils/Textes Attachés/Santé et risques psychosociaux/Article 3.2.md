@@ -20,6 +20,5 @@ Au regard des constats effectués, le (la) salariée et son (sa) responsable hi�
 
 Les dispositions du dernier alinéa de l'article 3.1.2 sont applicables aux salariés relevant des modalités de réalisation de missions avec autonomie complète.
 
- *(1) L'article 3.2 est étendu sous réserve, d'une part, du principe selon lequel l'entretien annuel prévu par l'article L. 3121-46 du code du travail ne peut garantir à lui seul une amplitude et une charge de travail raisonnables ainsi qu'une bonne répartition du travail dans le temps (Cass. soc. 26 septembre 2012, n° 11-14 540) et, d'autre part, des dispositions de l'article L. 2323-29 du code du travail  
- (Arrêté du 23 octobre 2013 - art. 1)*
-
+*(1) L'article 3.2 est étendu sous réserve, d'une part, du principe selon lequel l'entretien annuel prévu par l'article L. 3121-46 du code du travail ne peut garantir à lui seul une amplitude et une charge de travail raisonnables ainsi qu'une bonne répartition du travail dans le temps (Cass. soc. 26 septembre 2012, n° 11-14 540) et, d'autre part, des dispositions de l'article L. 2323-29 du code du travail\
+(Arrêté du 23 octobre 2013 - art. 1)*

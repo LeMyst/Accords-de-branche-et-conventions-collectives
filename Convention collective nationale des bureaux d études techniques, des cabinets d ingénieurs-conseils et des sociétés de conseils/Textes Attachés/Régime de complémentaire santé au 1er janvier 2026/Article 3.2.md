@@ -7,4 +7,3 @@ L'article 1.3.5 de l'accord de branche modifié du 7 octobre 2015 est ainsi réd
 Le fonds d'action sociale des organismes assureurs recommandés bénéficie exclusivement aux salariés couverts par ceux-ci.
 
 Les actions visées à l'article 1.3.2 ainsi que la communication y afférente sont financées par le fonds susmentionné. »
-

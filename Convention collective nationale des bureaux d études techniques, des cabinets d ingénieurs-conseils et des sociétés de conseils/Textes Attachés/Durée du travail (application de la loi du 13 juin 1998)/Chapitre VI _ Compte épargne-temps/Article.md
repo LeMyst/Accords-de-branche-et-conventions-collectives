@@ -23,4 +23,3 @@ Cette négociation complémentaire établira par conséquent les modalités de m
 -primes d'intéressement dans les conditions définies par l'article L. 441-8 du code du travail.
 
 *(1) Tiret étendu sous réserve de l'application de l'article 7 du décret n° 98-494 du 22 juin 1998 (arrêté du 21 décembre 1999, art. 1er).*
-

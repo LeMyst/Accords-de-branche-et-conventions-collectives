@@ -1,6 +1,5 @@
 # Article 19
 
-  
 Les salariés exerçant leur activité dans le cadre d'une organisation hybride du travail ont le même accès à la formation et aux possibilités de déroulement de carrière que les autres salariés de l'entreprise. Il revient à l'employeur de décider des modalités de suivi des formations (en présentiel ou à distance).
 
 Les salariés soumis à une organisation hybride du travail, ainsi que leurs responsables hiérarchiques et collègues directs peuvent bénéficier d'une formation à cette forme de travail et à sa gestion.
@@ -16,5 +15,3 @@ Ces formations seront mises à la disposition des salariés et des entreprises d
 Ces outils sont mis à la disposition des salariés et des entreprises de la branche qui font le choix d'en bénéficier ou d'en faire bénéficier leurs salariés. En tout état de cause, leur appropriation n'est pas un préalable à la mise en place du travail hybride.
 
 Un recueil des bonnes pratiques en matière de travail hybride est annexé au présent accord.
-
-  

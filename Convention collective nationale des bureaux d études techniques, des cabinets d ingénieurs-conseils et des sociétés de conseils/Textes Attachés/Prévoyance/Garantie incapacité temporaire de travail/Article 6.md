@@ -11,4 +11,3 @@ Le délai de carence appliqué à la garantie est de 90 jours consécutifs d'arr
 6.3. Montant
 
 La garantie consiste à assurer à un salarié ayant plus d'un an d'ancienneté un complément d'indemnité destiné à compléter les versements de la sécurité sociale à hauteur de 80 % du salaire brut tel que défini à l'article 8 jusqu'au classement en invalidité par la sécurité sociale sans pour autant excéder le salaire net qu'aurait perçu le salarié en activité.
-

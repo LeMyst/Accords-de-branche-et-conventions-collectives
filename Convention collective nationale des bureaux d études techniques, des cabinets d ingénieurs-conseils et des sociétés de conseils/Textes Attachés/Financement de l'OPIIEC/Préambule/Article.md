@@ -23,4 +23,3 @@ Le présent accord reprend les dispositions :
 - de la décision de la CPNE du 20 mars ;
 
 - et de la délibération du conseil d'administration du FAFIEC du 26 mars 2003.
-

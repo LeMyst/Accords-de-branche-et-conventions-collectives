@@ -1,15 +1,12 @@
 # Article 2
 
-Les salaires minimaux hiérarchiques mensuels bruts applicables aux emplois de la catégorie « ingénieurs et cadres » sont déterminés selon la formule suivante :  
- Coefficient de la position × valeur du point
+Les salaires minimaux hiérarchiques mensuels bruts applicables aux emplois de la catégorie « ingénieurs et cadres » sont déterminés selon la formule suivante :\
+Coefficient de la position × valeur du point
 
 En application de la formule ci-dessus, les valeurs des salaires minimaux hiérarchiques mensuels bruts sont les suivantes :
 
-  
-
-
-| Grille « ingénieurs et cadres » |
-| --- |
+| Grille « ingénieurs et cadres » |  |  |  |
+| -- | -- | -- | -- |
 | Position | Coefficient | Valeur du point | Salaires minimaux |
 | 1.1 | 95 | 21,400 € | 2 033 € |
 | 1.2 | 100 | 21,400 € | 2 140 € |
@@ -20,5 +17,3 @@ En application de la formule ci-dessus, les valeurs des salaires minimaux hiéra
 | 3.1 | 170 | 21,041 € | 3 577 € |
 | 3.2 | 210 | 21,042 € | 4 419 € |
 | 3.3 | 270 | 21,044 € | 5 681 € |
-
-  

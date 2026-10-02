@@ -11,4 +11,3 @@ Cas de suspension du remboursement des frais de déplacement
 Les frais de déplacement constituent un remboursement de dépenses et ne sont donc pas versés au titre des jours de repos, des séjours de détente, des absences pour élections, convenances personnelles, périodes d'activité accomplies dans la réserve militaire, maladies ayant donné lieu au retour du salarié ou à son hospitalisation.
 
 Toutefois, les frais (location, par exemple) qui continueraient à courir pendant les absences de courte durée peuvent être remboursés avec l'accord préalable de l'employeur.
-

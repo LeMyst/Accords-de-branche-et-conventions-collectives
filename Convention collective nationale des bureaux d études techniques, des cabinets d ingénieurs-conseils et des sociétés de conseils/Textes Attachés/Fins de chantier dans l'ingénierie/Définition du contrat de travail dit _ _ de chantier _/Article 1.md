@@ -29,4 +29,3 @@ Si l'embauche, pour un contrat de travail dit "de chantier", succède à une off
 Le contrat de travail proposé au salarié doit être conforme à l'offre d'emploi publiée et, en conséquence, comprendre l'intégralité des mentions prévues ci-dessus.
 
 Dans tous les cas, afin d'assurer une complète information du salarié, le contrat de travail doit comprendre la mention "Contrat de travail à durée indéterminée de chantier".
-

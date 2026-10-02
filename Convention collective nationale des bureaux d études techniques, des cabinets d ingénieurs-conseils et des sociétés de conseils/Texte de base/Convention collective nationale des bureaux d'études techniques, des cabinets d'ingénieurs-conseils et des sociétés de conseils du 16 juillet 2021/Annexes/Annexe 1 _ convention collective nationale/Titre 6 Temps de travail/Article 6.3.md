@@ -8,7 +8,7 @@ Au-delà du respect de la règlementation rappelée au premier paragraphe, le tr
 
 Il est rappelé qu'en application des dispositions légales, il est interdit de faire travailler un même salarié plus de 6 jours par semaine et que le repos hebdomadaire a une durée minimale de 24 heures consécutives auxquelles s'ajoutent les 11 heures consécutives de repos quotidien.
 
-1. Définition du caractère habituel ou exceptionnel du travail du dimanche ou des jours fériés 
+1. Définition du caractère habituel ou exceptionnel du travail du dimanche ou des jours fériés
 
 Le caractère habituel ou exceptionnel du travail du dimanche ou des jours fériés s'apprécie par année civile et par salarié.
 
@@ -28,7 +28,7 @@ Les heures travaillées le dimanche et les majorations correspondantes sont pay�
 
 Les heures de travail effectuées de manière exceptionnelle le dimanche ou les jours fériés sont rémunérées avec une majoration de 100 %, indépendamment des majorations résultant des heures supplémentaires éventuellement réalisées. Les salariés ayant conclu une convention de forfait annuel en jours bénéficient, dans ce cas, d'une majoration de 100 % de leur rémunération journalière.
 
-*Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche ou des jours fériés dans l'entreprise et soumis à cotisations sociales.* (2) 
+*Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche ou des jours fériés dans l'entreprise et soumis à cotisations sociales.* (2)
 
 Pour les salariés soumis à une convention de forfait en jours, les jours de travail réalisés le dimanche et les jours fériés sont pris en compte pour le décompte du forfait.
 
@@ -36,19 +36,18 @@ Pour les salariés soumis à une convention de forfait en jours, les jours de tr
 
 En cas de travail habituel du dimanche ou des jours fériés, la rémunération des heures de travail ainsi effectuées se voit appliquer une majoration de 25 % indépendamment des majorations résultant des heures supplémentaires éventuellement réalisées. Les salariés ayant conclu une convention de forfait annuel en jours bénéficient, dans ce cas, d'une majoration de 25 % de leur rémunération journalière.
 
-*Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche ou des jours fériés dans l'entreprise et soumis à cotisations sociales.* (2) 
+*Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche ou des jours fériés dans l'entreprise et soumis à cotisations sociales.* (2)
 
 Pour les salariés soumis à une convention de forfait en jours, les jours de travail réalisés le dimanche et les jours fériés sont pris en compte pour le décompte du forfait.
 
-3. Règles sectorielles spécifiques 
+3. Règles sectorielles spécifiques
 
 Des stipulations spécifiques relatives au travail du dimanche et des jours fériés s'appliquent à certaines entreprises du secteur du numérique en application de l'accord de branche du 28 avril 2004.
 
 Des stipulations spécifiques relatives au travail du dimanche et des jours fériés s'appliquent aux entreprises des secteurs de l'évènementiel en application de l'accord de branche du 5 juillet 2001.
 
- *(1) L'article 6.3 est étendu sous réserve du respect des dispositions de l'article L. 3133-4 du code du travail.*   
+*(1) L'article 6.3 est étendu sous réserve du respect des dispositions de l'article L. 3133-4 du code du travail.*\
 *(Arrêté du 5 avril 2023 - art. 1)*
 
- *(2) Les stipulations des deuxièmes paragraphes des points 2.1 et 2.2 de l'article 2 sont étendus sous réserve du respect de la dernière phrase de l'article L. 2253-3 du code du travail qui dispose qu'« En l'absence d'accord d'entreprise, la convention de branche ou l'accord couvrant un champ territorial ou professionnel plus large s'applique ».   
- (Arrêté du 5 avril 2023 - art. 1)*
-
+*(2) Les stipulations des deuxièmes paragraphes des points 2.1 et 2.2 de l'article 2 sont étendus sous réserve du respect de la dernière phrase de l'article L. 2253-3 du code du travail qui dispose qu'« En l'absence d'accord d'entreprise, la convention de branche ou l'accord couvrant un champ territorial ou professionnel plus large s'applique ».\
+(Arrêté du 5 avril 2023 - art. 1)*

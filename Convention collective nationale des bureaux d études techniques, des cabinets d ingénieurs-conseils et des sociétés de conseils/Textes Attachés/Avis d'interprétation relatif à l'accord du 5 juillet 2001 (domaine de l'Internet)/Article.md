@@ -8,21 +8,20 @@ Il concerne :
 
 1. Les concepteurs, fournisseurs et exploitants de plate-forme informatique ;
 
-2. Les prestations d'hébergement de site Internet ;
+1. Les prestations d'hébergement de site Internet ;
 
-3. Les prestations de conception, de développement, mise en oeuvre et entretien de site Web considéré comme composante du système d'information de l'entité cliente ;
+1. Les prestations de conception, de développement, mise en oeuvre et entretien de site Web considéré comme composante du système d'information de l'entité cliente ;
 
-4. Les développeurs, producteurs et intégrateurs de logiciels nécessaires à la création et à l'exploitation des services pour répondre aux besoins de leurs clients ;
+1. Les développeurs, producteurs et intégrateurs de logiciels nécessaires à la création et à l'exploitation des services pour répondre aux besoins de leurs clients ;
 
-5. Les fournisseurs d'expertise, d'ingénierie, de conseil et de formation dans le domaine de l'Internet ;
+1. Les fournisseurs d'expertise, d'ingénierie, de conseil et de formation dans le domaine de l'Internet ;
 
-6. L'édition de logiciels ou de composants logiciels en technologie Internet ;
+1. L'édition de logiciels ou de composants logiciels en technologie Internet ;
 
-7. Les exploitants de réseaux ou infrastructures informatiques (infogérance-outsourcing) ;
+1. Les exploitants de réseaux ou infrastructures informatiques (infogérance-outsourcing) ;
 
-8. Les fournisseurs de services applicatifs relatifs aux systèmes d'information de leurs clients, quel que soit le mode de fourniture du service (infogérance-services bureau).
+1. Les fournisseurs de services applicatifs relatifs aux systèmes d'information de leurs clients, quel que soit le mode de fourniture du service (infogérance-services bureau).
 
 Le présent avis sera annexé à l'accord national du 5 juillet 2001.
 
 Fait à Paris, le 18 avril 2002.
-

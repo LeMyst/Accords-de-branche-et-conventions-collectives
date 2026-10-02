@@ -8,6 +8,5 @@ Le projet de transition professionnelle dans le cadre du CPF vise nécessairemen
 
 Pour mieux déterminer le projet, le salarié peut éventuellement tendre à mobiliser en amont divers dispositifs : bilan de compétences, accompagnement par un conseiller en évolution professionnelle notamment et également des outils mis à disposition par la branche professionnelle (référentiel métiers, portail GPEC, etc.).
 
- *(1) Article étendu sous réserve du respect des dispositions de l'article L. 6323-17-1 du code du travail, tel qu'il résulte de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel et de l'ordonnance n° 2020-387 du 1er avril 2020 portant mesures d'urgence en matière de formation professionnelle.    
+*(1) Article étendu sous réserve du respect des dispositions de l'article L. 6323-17-1 du code du travail, tel qu'il résulte de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel et de l'ordonnance n° 2020-387 du 1er avril 2020 portant mesures d'urgence en matière de formation professionnelle.\
 (Arrêté du 6 novembre 2020 - art. 1)*
-

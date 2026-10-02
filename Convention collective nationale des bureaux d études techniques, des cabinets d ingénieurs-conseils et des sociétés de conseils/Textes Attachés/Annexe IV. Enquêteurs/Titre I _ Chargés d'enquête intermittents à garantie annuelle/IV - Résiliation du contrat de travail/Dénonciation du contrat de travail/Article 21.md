@@ -13,4 +13,3 @@ La convocation à cet entretien sera effectuée par lettre recommandée avec dem
 En cas de licenciement, le préavis sera d'un mois, si le chargé d'enquête intermittent à garantie annuelle justifie d'une ancienneté de moins de 2 ans, et de 2 mois si l'ancienneté est au moins égale à 2 ans.
 
 En cas de démission, le préavis sera de 1 mois.
-

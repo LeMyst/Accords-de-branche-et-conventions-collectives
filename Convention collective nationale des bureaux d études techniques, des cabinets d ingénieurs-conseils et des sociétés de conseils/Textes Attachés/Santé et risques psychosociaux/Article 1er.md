@@ -9,4 +9,3 @@ Dans le cadre de son obligation générale d'information et de formation des sal
 En particulier, le programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail (Papripact) sera établi à partir de l'analyse des risques et de la mise en œuvre du document unique d'évaluation des risques professionnels.
 
 L'employeur se dote des moyens suffisants pour assurer la santé et la sécurité de ses salariés, notamment dans le cadre des entretiens annuels permettant de contrôler les conditions de travail.
-

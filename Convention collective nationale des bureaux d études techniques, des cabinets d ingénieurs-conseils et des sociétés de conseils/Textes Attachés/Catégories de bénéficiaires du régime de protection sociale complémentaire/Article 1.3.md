@@ -5,4 +5,3 @@ Pour l'application des dispositions de l'article R. 242-1-1, alinéa 2 du code d
 Les entreprises peuvent toutefois, sans démarche particulière, ne pas intégrer ces salariés dans le champ des bénéficiaires du régime de protection sociale complémentaire des cadres.
 
 Cette possibilité ne saurait étendre à ces salariés les autres stipulations conventionnelles spécifiques aux ingénieurs et cadres.
-

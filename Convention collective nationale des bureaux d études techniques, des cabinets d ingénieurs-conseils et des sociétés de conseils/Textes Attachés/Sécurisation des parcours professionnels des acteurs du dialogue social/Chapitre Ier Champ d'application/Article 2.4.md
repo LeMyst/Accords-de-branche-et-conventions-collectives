@@ -5,4 +5,3 @@ Pour bénéficier des stipulations du présent accord, les salariés répondant 
 Dans tous les cas, le projet défini avec le salarié pourra se prolonger au-delà de cette échéance.
 
 En cas de suspension du contrat de travail au cours de ce délai, pour cause de maladie ou d'accident d'origine professionnelle ou non, ou pour cause de congé maternité, ce délai est prolongé d'une durée égale à la durée de la suspension du contrat de travail, dans la limite de la durée de l'accord.
-

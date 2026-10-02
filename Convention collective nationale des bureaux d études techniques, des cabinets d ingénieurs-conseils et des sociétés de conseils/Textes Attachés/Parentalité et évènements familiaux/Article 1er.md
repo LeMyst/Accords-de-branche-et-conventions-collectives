@@ -2,8 +2,8 @@
 
 L'article 9.3 est rédigé comme suit :
 
-« Article 9.3  
- Parentalité
+« Article 9.3\
+Parentalité
 
 Principe de non-discrimination
 
@@ -15,9 +15,9 @@ Aucune information relative à un projet parental ne peut être sollicitée ni u
 
 Maternité
 
-La salariée ayant déclaré sa grossesse bénéficie d'une réduction horaire rémunérée :  
- – de 20 minutes par jour à partir du 3e mois de grossesse ;  
- – de 30 minutes par jour à partir du 5e mois de grossesse.
+La salariée ayant déclaré sa grossesse bénéficie d'une réduction horaire rémunérée :\
+– de 20 minutes par jour à partir du 3e mois de grossesse ;\
+– de 30 minutes par jour à partir du 5e mois de grossesse.
 
 Pour la salariée en forfait annuel en jours ayant déclaré sa grossesse, l'employeur veille à ce que l'amplitude n'excède pas une durée ne lui permettant pas de concilier sa vie professionnelle et sa vie personnelle. L'employeur le formalise par écrit. Dans tous les cas, la charge de travail de la salariée est adaptée en conséquence.
 
@@ -58,4 +58,3 @@ Le cumul de l'allocation journalière de la sécurité sociale et du complément
 Allaitement
 
 Pendant 1 an à partir de la naissance de son enfant, la salariée allaitant son enfant dispose à cet effet d'une heure par jour durant les heures de travail. L'utilisation de ce droit n'entraîne pas de réduction de la rémunération. »
-

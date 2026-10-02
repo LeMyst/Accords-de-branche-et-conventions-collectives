@@ -10,8 +10,7 @@ Les modalités d'organisation de la mutualisation seront réexaminées par les p
 
 En cas de désignation d'un nouvel organisme assureur, toutes les entreprises ayant adhéré au régime de prévoyance de branche rejoindront le nouvel organisme assureur désigné. Les organismes assureurs précédemment désignés organiseront le transfert du régime de branche auprès du nouvel assureur. Cette opération se réalisera sans frais pour les entreprises et les bénéficiaires du régime.
 
-  
- 3.2. Conséquences de la dénonciation ou du non-renouvellement sur les sinistres en cours
+3.2. Conséquences de la dénonciation ou du non-renouvellement sur les sinistres en cours
 
 En cas de dénonciation ou du non-renouvellement de la désignation, les dispositions suivantes s'appliquent (articles 7 et 7-1 de la loi n° 89-1009 du 31 décembre 1989) :
 
@@ -24,4 +23,3 @@ En cas de dénonciation ou du non-renouvellement de la désignation, les disposi
 Les partenaires sociaux organiseront la poursuite de la revalorisation des prestations en cours de service ainsi que de la base de calcul des prestations relatives à la couverture du risque décès maintenu, conformément aux dispositions de l'article L. 912-3 du code de la sécurité sociale.
 
 L'ensemble des dispositions qui précèdent s'applique également dans le cas d'une entreprise adhérente qui cesserait de relever du champ d'application de l'accord de prévoyance, cet événement entraînant la résiliation de son adhésion au régime de branche ; les modalités d'organisation des revalorisations futures seront alors de son ressort.
-

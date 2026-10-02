@@ -38,7 +38,7 @@ Le présent accord pourra faire l'objet d'une révision conformément aux articl
 
 Toute demande de révision sera obligatoirement accompagnée d'une proposition de rédaction nouvelle. Celle-ci sera notifiée par lettre recommandée avec accusé de réception à chacune des autres parties signataires.
 
-*Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir de la réception par l'ensemble des parties de cette lettre, les parties devront s'être rencontrées en vue de la conclusion éventuelle d'un avenant de révision.*  (1) 
+*Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir de la réception par l'ensemble des parties de cette lettre, les parties devront s'être rencontrées en vue de la conclusion éventuelle d'un avenant de révision.* (1)
 
 Cet avenant sera soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
@@ -54,6 +54,5 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille. Certaines stipulations découlant d'obligations législatives ne concernent néanmoins que les entreprises de 50 salariés et plus.
 
- *(1) L'alinéa 3 du paragraphe « Conditions de révision de l'accord » de l'article 11 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.    
+*(1) L'alinéa 3 du paragraphe « Conditions de révision de l'accord » de l'article 11 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.\
 (Arrêté du 21 juillet 2026 - art. 1)*
-

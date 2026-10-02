@@ -11,4 +11,3 @@ Cet observatoire paritaire veille également, dans ses travaux et publications, 
 L'observatoire a également en charge de détecter les fortes mutations de l'activité et les risques d'obsolescence des compétences dans le but de mettre en place, efficacement et rapidement, les dispositifs de reconversion par l'alternance.
 
 Pour garantir la qualité de ces études, les parties signataires demanderont à l'opérateur de compétences ATLAS et, le cas échéant, à l'organisme désigné pour la collecte des contributions conventionnelles visées à l'article 26 du présent accord, de mettre à disposition de l'OPIIEC – dans le respect du RGPD – les informations disponibles sur les entreprises de la branche.
-

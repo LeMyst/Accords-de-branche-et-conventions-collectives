@@ -1,2 +1,1 @@
 # Article 6
-

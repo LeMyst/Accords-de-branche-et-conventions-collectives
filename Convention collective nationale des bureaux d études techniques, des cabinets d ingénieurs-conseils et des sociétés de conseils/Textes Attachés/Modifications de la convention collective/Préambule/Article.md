@@ -5,4 +5,3 @@ Les partenaires sociaux de la branche ont procédé, dans le cadre des travaux d
 Dans le souci de parfaire la clarté du texte, les partenaires sociaux ont retravaillé la rédaction d'un certain nombre d'articles et procédé au transfert, au sein de l'accord de branche du 16 décembre 1991 « Enquêteurs » annexé à la convention collective (dite annexe IV), des stipulations relatives aux chargés d'enquêtes.
 
 Le présent avenant est donc associé à l'élaboration d'un avenant à l'annexe IV.
-

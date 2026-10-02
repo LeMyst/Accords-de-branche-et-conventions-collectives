@@ -5,5 +5,3 @@ Les parties signataires confient à la CPPNI la charge de procéder au suivi et 
 La CPPNI peut proposer la révision du présent accord, conformément aux stipulations définies à l'article 8 du présent accord.
 
 En cas de modification des dispositions légales ou réglementaires, les parties signataires de l'accord se réuniront, à l'initiative de la partie la plus diligente, dans un délai de trois mois à compter de la date d'entrée en vigueur des nouvelles dispositions. Elles peuvent également saisir la CPPNI.
-
-  

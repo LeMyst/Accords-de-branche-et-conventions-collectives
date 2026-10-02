@@ -17,4 +17,3 @@ Le personnel ainsi autorisé à dépasser l'horaire habituel dans la limite de 1
 L'adoption de ces modalités de gestion du temps de travail ne peut entraîner une baisse du salaire brut de base en vigueur à la date de ce choix.
 
 *(1) Article étendu sous réserve que les cadres bénéficient d'une réduction effective de leur durée de travail en application du paragraphe I de l'article L. 212-15-3 du code du travail (arrêté du 10 novembre 2000, art. 1er).*
-

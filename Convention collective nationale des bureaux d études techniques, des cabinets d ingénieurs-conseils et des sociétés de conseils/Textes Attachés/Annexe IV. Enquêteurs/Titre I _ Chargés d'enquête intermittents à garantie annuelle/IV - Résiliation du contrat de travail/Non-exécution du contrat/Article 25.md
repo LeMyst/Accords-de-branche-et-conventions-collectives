@@ -5,4 +5,3 @@ Le fait d'avoir refusé ou de ne pas avoir exécuté des travaux représentant a
 Il peut constituer par là même une faute grave entraînant la rupture sans indemnité du contrat de travail.
 
 Sauf cas prévu à l'article 3, le fait qu'un chargé d'enquête intermittent à garantie annuelle ait refusé trois offres d'enquêtes consécutives, en dehors des périodes de congés, séparées entre elles par un délai d'au moins 10 jours calendaires, peut être également constitutif d'une faute grave entraînant une rupture du contrat de travail.
-

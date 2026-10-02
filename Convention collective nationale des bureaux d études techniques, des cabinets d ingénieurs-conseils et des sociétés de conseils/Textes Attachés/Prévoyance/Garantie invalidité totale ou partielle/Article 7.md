@@ -19,4 +19,3 @@ En cas d'invalidité de 3e catégorie, la personne concernée peut, en sus des r
 Invalidité de 1re catégorie : le complément mentionné ci-dessus est divisé par deux.
 
 7.2. La rente complémentaire d'invalidité est versée mensuellement à terme échu directement au bénéficiaire jusqu'à la date d'effet de la retraite de la sécurité sociale.
-

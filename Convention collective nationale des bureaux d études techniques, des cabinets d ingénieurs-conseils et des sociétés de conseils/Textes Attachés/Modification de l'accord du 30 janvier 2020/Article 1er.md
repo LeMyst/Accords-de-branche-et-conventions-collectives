@@ -7,4 +7,3 @@ En conséquence, l'article 2.4 de l'accord du 30 janvier 2020 relatif à la séc
 Au 1er paragraphe, les mots « dans les 9 mois » sont remplacés par les mots « dans les 12 mois ».
 
 À la fin du 1er paragraphe, sont ajoutés les mots « et au plus tard le 31 décembre 2020 ».
-

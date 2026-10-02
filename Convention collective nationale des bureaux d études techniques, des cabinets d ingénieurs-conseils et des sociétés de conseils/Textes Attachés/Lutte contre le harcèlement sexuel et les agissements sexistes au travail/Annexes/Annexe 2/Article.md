@@ -16,15 +16,15 @@ Selon la taille de l'entreprise la démarche peut inclure la mise en place de gr
 
 Étape 2 : Apprécier la situation de l'entreprise face aux risques d'agissements sexistes et de harcèlement sexuel
 
-Les questionnements à avoir pour apprécier la situation de l'entreprise vis-à-vis des risques d'agissements sexistes et de harcèlement sexuel peuvent être les suivants :  
- – Existe-t-il un précédent de harcèlement sexuel ou d'agissements sexistes ?  
- – Existe-t-il un environnement de travail sexiste ?  
- – Des documents internes évoquent-ils ces sujets ?  
- – Exemple : règlement intérieur, DUERP, Accord qualité de vie et des conditions de travail.  
- – Existe-t-il des unités de travail où il y a une très forte prédominance d'un sexe ?  
- – Existe-t-il des situations de travailleurs isolés ? d'horaires atypiques (soir, nuit, week-end) ?  
- – Les rapports professionnels sont-ils très ou peu hiérarchisés ?  
- – Les difficultés relationnelles peuvent-elles s'exprimer facilement ?
+Les questionnements à avoir pour apprécier la situation de l'entreprise vis-à-vis des risques d'agissements sexistes et de harcèlement sexuel peuvent être les suivants :\
+– Existe-t-il un précédent de harcèlement sexuel ou d'agissements sexistes ?\
+– Existe-t-il un environnement de travail sexiste ?\
+– Des documents internes évoquent-ils ces sujets ?\
+– Exemple : règlement intérieur, DUERP, Accord qualité de vie et des conditions de travail.\
+– Existe-t-il des unités de travail où il y a une très forte prédominance d'un sexe ?\
+– Existe-t-il des situations de travailleurs isolés ? d'horaires atypiques (soir, nuit, week-end) ?\
+– Les rapports professionnels sont-ils très ou peu hiérarchisés ?\
+– Les difficultés relationnelles peuvent-elles s'exprimer facilement ?
 
 Étape 3 : Vérifier que le DUERP est construit par unités de travail
 
@@ -36,7 +36,7 @@ L'évaluation des risques doit prendre en compte l'impact différencié de l'exp
 
 (Exemple non reproduit, consultable en ligne sur le site www. legifrance. gouv. fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives », **page 52**.)
 
- https://www.legifrance.gouv.fr/download/file/pdf/boc\_20240015\_0000\_0006.pdf/BOCC 
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC
 
 Étape 4 : Évaluer les risques pour chacune des unités de travail
 
@@ -46,30 +46,29 @@ Il s'agit de réaliser un inventaire des risques présents au sein de chaque uni
 
 (Exemple non reproduit, consultable en ligne sur le site www. legifrance. gouv. fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives », **page 52**.)
 
- https://www.legifrance.gouv.fr/download/file/pdf/boc\_20240015\_0000\_0006.pdf/BOCC 
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC
 
 Étape 5 : Conduire la démarche d'analyse
 
 1. Utiliser les unités de travail définies au sein du DUERP et construites en intégrant les femmes et les hommes pour chacune d'elle.
 
-2. Choisir l'unité de travail qui sera la plus significative du point de vue de l'exposition aux agissements sexistes at au harcèlement sexuel, selon les critères présentés ci-après :  
- – les conditions d'emploi : statut d'emploi (CDI, stagiaire, alternance, personnel d'entreprises sous-traitance...), évolutions salariales possibles... ;  
- – les conditions de travail : nature des activités de travail, prescription du travail, contraintes de temps, de délai, de qualité, niveau d'autonomie, poste en situation de travail isolé, activités d'accueil, activités en relation avec le client … ;  
- – les conditions liées à l'organisation du travail : temps de travail et de pause, modalités d'évaluation du travail, appuis organisationnels et professionnels possibles, niveau de décision... ;  
- – les conditions liées au dialogue social : fluidité du dialogue social, possibilité d'échange avec le N + 1, avec le RH...
+1. Choisir l'unité de travail qui sera la plus significative du point de vue de l'exposition aux agissements sexistes at au harcèlement sexuel, selon les critères présentés ci-après :\
+   – les conditions d'emploi : statut d'emploi (CDI, stagiaire, alternance, personnel d'entreprises sous-traitance...), évolutions salariales possibles... ;\
+   – les conditions de travail : nature des activités de travail, prescription du travail, contraintes de temps, de délai, de qualité, niveau d'autonomie, poste en situation de travail isolé, activités d'accueil, activités en relation avec le client … ;\
+   – les conditions liées à l'organisation du travail : temps de travail et de pause, modalités d'évaluation du travail, appuis organisationnels et professionnels possibles, niveau de décision... ;\
+   – les conditions liées au dialogue social : fluidité du dialogue social, possibilité d'échange avec le N + 1, avec le RH...
 
-3. Pour l'unité de travail retenue, choisir une à deux situations de travail les plus significatives de l'exposition, en intégrant le degré de mixité dans le choix des situations.
+1. Pour l'unité de travail retenue, choisir une à deux situations de travail les plus significatives de l'exposition, en intégrant le degré de mixité dans le choix des situations.
 
-4. Analyser les conditions du travail et d'emploi de la situation de travail du salarié par des temps d'entretien, d'observation du travail, d'analyse des documents internes (fiche de poste, organigramme, procès-verbal des réunions du comité social et économique [CSE] et/ ou de la commission santé sécurité et conditions de travail [CSSCT]).
+1. Analyser les conditions du travail et d'emploi de la situation de travail du salarié par des temps d'entretien, d'observation du travail, d'analyse des documents internes (fiche de poste, organigramme, procès-verbal des réunions du comité social et économique [CSE] et/ ou de la commission santé sécurité et conditions de travail [CSSCT]).
 
-5. Présenter ces résultats et ces propositions d'action de prévention au groupe de travail éventuellement mis en place, afin de les enrichir de leurs observations, qualifier collectivement la gravité du risque, valider la nature des actions de prévention.
+1. Présenter ces résultats et ces propositions d'action de prévention au groupe de travail éventuellement mis en place, afin de les enrichir de leurs observations, qualifier collectivement la gravité du risque, valider la nature des actions de prévention.
 
-Il est possible de transmettre ces informations au service prévention et de santé au travail, à la Carsat et à l'inspection du travail pour leur information et leurs propres actions.  
- 6. Formaliser les résultats et propositions d'action au sein du DUERP.
+Il est possible de transmettre ces informations au service prévention et de santé au travail, à la Carsat et à l'inspection du travail pour leur information et leurs propres actions.\
+6\. Formaliser les résultats et propositions d'action au sein du DUERP.
 
 7. Mettre en œuvre les actions de prévention définies.
 
 (Exemples non reproduits, consultables en ligne sur le site www. legifrance. gouv. fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives », **page 54**.)
 
- https://www.legifrance.gouv.fr/download/file/pdf/boc\_20240015\_0000\_0006.pdf/BOCC 
-
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC

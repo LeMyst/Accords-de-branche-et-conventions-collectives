@@ -6,9 +6,8 @@ Les employeurs informent les salariés sur les outils de prévention et les proc
 
 Il est également rappelé que dans les entreprises employant au moins 50 salariés le règlement intérieur doit contenir les dispositions relatives aux harcèlements moral et sexuel et aux agissements sexistes prévues par le code du travail.
 
-En complément de cela, la branche mettra à disposition des entreprises des outils de sensibilisation des salariés :  
- – une campagne de sensibilisation « clé en main » à déployer par les entreprises ;  
- – un questionnaire numérique anonyme, dépourvu de finalité statistique, que les entreprises pourront communiquer à leurs salariés afin de les sensibiliser et de questionner certains biais sexistes.
+En complément de cela, la branche mettra à disposition des entreprises des outils de sensibilisation des salariés :\
+– une campagne de sensibilisation « clé en main » à déployer par les entreprises ;\
+– un questionnaire numérique anonyme, dépourvu de finalité statistique, que les entreprises pourront communiquer à leurs salariés afin de les sensibiliser et de questionner certains biais sexistes.
 
 Ces outils de sensibilisation ont vocation notamment à expliciter les responsabilités de chacun en matière de santé et de sécurité dans l'entreprises, à clarifier ce que recouvrent les notions de harcèlement sexuel et d'agissements sexistes, à informer sur les conséquences de ces situations sur la santé mentale des victimes, d'aider l'ensemble des acteurs de l'entreprise à identifier les situations de harcèlement sexuel et les agissements sexistes et à réagir.
-

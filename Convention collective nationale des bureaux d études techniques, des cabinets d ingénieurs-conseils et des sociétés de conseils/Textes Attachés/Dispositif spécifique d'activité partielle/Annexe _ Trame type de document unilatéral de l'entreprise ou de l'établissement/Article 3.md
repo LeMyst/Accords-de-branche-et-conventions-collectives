@@ -1,6 +1,6 @@
 # Article 3
 
-3.1. Engagements en termes d'emploi
+3.1. Engagements en termes d'emploi
 
 La préservation des emplois et des compétences au sein de l'entreprise/de l'établissement [choisir] est le facteur essentiel de la poursuite de l'activité et d'un retour à un niveau d'activité normale.
 
@@ -8,7 +8,7 @@ C'est pourquoi l'entreprise s'interdit tout plan de sauvegarde de l'emploi au se
 
 Lorsque le seul volet du PSE est un plan de départs volontaires (PDV), l'interdiction prévue au paragraphe précédent ne s'applique pas. Cette interdiction ne s'applique pas non plus aux ruptures conventionnelles collectives.
 
-3.2. Formation professionnelle et mobilisation du compte personnel formation
+3.2. Formation professionnelle et mobilisation du compte personnel formation
 
 [Dans le cas d'une stricte application de l'accord de branche]
 
@@ -26,7 +26,6 @@ Il est rappelé que tous les dispositifs de formation en vigueur peuvent être m
 
 [En présence d'un (CSE).]
 
-Le comité social et économique (CSE) est informé :  
- – du bilan des actions au titre du plan de développement des compétences ;  
- – et du nombre de bénéficiaires d'un entretien professionnel.
-
+Le comité social et économique (CSE) est informé :\
+– du bilan des actions au titre du plan de développement des compétences ;\
+– et du nombre de bénéficiaires d'un entretien professionnel.

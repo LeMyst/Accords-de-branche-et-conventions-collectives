@@ -1,15 +1,12 @@
 # Article 1er
 
-Les salaires minimaux hiérarchiques mensuels bruts applicables aux emplois de la catégorie « ETAM » sont déterminés selon la formule suivante :  
- BASE FIXE + (VALEUR DU POINT ETAM × COEFFICIENT DE LA POSITION)
+Les salaires minimaux hiérarchiques mensuels bruts applicables aux emplois de la catégorie « ETAM » sont déterminés selon la formule suivante :\
+BASE FIXE + (VALEUR DU POINT ETAM × COEFFICIENT DE LA POSITION)
 
 En application de la formule ci-dessus, les valeurs des salaires minimaux hiérarchiques mensuels bruts sont les suivantes :
 
-  
-
-
-| Grille « ETAM » |
-| --- |
+| Grille « ETAM » |  |  |  |  |
+| -- | -- | -- | -- | -- |
 | Position | Coefficient | Valeur du point | Base fixe | Salaires minimaux |
 | 1.1 | 230 | 3,758 € | 850,50 € | 1 715 € |
 | 1.2 | 240 | 3,602 € | 850,50 € | 1 715 € |
@@ -20,5 +17,3 @@ En application de la formule ci-dessus, les valeurs des salaires minimaux hiéra
 | 3.1 | 400 | 3,138 € | 855,80 € | 2 111 € |
 | 3.2 | 450 | 3,133 € | 855,80 € | 2 266 € |
 | 3.3 | 500 | 3,118 € | 855,80 € | 2 415 € |
-
-  

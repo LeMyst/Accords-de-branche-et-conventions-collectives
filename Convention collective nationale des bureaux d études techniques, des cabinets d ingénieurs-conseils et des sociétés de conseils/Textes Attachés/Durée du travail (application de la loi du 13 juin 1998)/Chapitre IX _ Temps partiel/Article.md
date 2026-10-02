@@ -9,4 +9,3 @@ Les horaires de travail des salariés à temps partiel ne peuvent comporter au c
 Par ailleurs, les parties signataires conviennent que les salariés à temps partiel seront prioritaires pour le passage à temps plein de leur contrat dans le cadre des heures libérées par la réduction du temps de travail.
 
 *(1) Alinéa exclu de l'extension (arrêté du 21 décembre 1999, art. 1er).*
-

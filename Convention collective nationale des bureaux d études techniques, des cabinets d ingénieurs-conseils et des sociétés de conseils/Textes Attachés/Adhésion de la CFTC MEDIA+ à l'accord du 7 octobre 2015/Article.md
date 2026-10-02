@@ -10,9 +10,8 @@ Conformément à l'article L. 2261-3 du code du travail, nous vous informons que
 
 Veuillez agréer, Madame, Monsieur, nos salutations distinguées.
 
-SICSTI CFTC  
- Le président
+SICSTI CFTC\
+Le président
 
-Fédération CFTC MEDIA +  
- Vice-président
-
+Fédération CFTC MEDIA +\
+Vice-président

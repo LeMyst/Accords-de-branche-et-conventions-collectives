@@ -4,11 +4,11 @@ L'accord d'entreprise ou la charte
 
 Le présent accord offre un cadre pouvant servir de base à des adaptations au sein d'un accord d'entreprise ou d'une charte. En effet, chaque entreprise est encouragée à faire du harcèlement sexuel et des agissements sexistes des sujets de réflexion collective et de dialogue social. Elles pourront ainsi déterminer les outils de prévention et de formation, ainsi que les procédures de signalement et d'enquête adaptées à leurs contraintes, par le biais d'une négociation avec les organisations syndicales le cas échéant.
 
-Les entreprises non dotées d'un accord d'entreprise sur ces sujets sont encouragées à élaborer une charte relative aux risques de harcèlement sexuel et d'agissements sexistes, ayant pour objectifs :  
- – de prévenir et d'éliminer le harcèlement sexuel et les agissements dans toutes les situations en lien avec le travail ;  
- – de mobiliser et responsabiliser tous les acteurs de l'entreprise dans la prévention du harcèlement sexuel et des agissements sexistes ;  
- – de fournir aux personnes victimes de harcèlement sexuel et d'agissements sexistes les moyens de s'informer et de se défendre ;  
- – de permettre aux personnes victimes de harcèlement sexuel et d'agissements sexistes de faire appel à une procédure de traitement de leur situation.
+Les entreprises non dotées d'un accord d'entreprise sur ces sujets sont encouragées à élaborer une charte relative aux risques de harcèlement sexuel et d'agissements sexistes, ayant pour objectifs :\
+– de prévenir et d'éliminer le harcèlement sexuel et les agissements dans toutes les situations en lien avec le travail ;\
+– de mobiliser et responsabiliser tous les acteurs de l'entreprise dans la prévention du harcèlement sexuel et des agissements sexistes ;\
+– de fournir aux personnes victimes de harcèlement sexuel et d'agissements sexistes les moyens de s'informer et de se défendre ;\
+– de permettre aux personnes victimes de harcèlement sexuel et d'agissements sexistes de faire appel à une procédure de traitement de leur situation.
 
 Dans les entreprises où un accord ou une charte est élaboré, les employeurs s'engagent à mettre en œuvre les mesures nécessaires afin de porter à la connaissance des salariés le contenu de cet accord ou de cette charte (exemples : réunions d'information, remise contre décharge…).
 
@@ -30,29 +30,28 @@ Ce rapport est présenté chaque année au CSE et à la CSSCT, s'ils existent, d
 
 Le programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail et la liste des actions de prévention des risques et de protection des salariés *(3)*
 
-Pour les entreprises dont l'effectif est supérieur ou égal à 50 salariés, les résultats de l'évaluation des risques professionnels dans l'entreprise débouchent sur un programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail qui :  
- – fixe la liste détaillée des mesures devant être prises au cours de l'année à venir, qui comprennent les mesures de prévention des effets de l'exposition aux facteurs de risques professionnels ainsi que, pour chaque mesure, ses conditions d'exécution, des indicateurs de résultat et l'estimation de son coût ;  
- – identifie les ressources de l'entreprise pouvant être mobilisées ;  
- – comprend un calendrier de mise en œuvre.
+Pour les entreprises dont l'effectif est supérieur ou égal à 50 salariés, les résultats de l'évaluation des risques professionnels dans l'entreprise débouchent sur un programme annuel de prévention des risques professionnels et d'amélioration des conditions de travail qui :\
+– fixe la liste détaillée des mesures devant être prises au cours de l'année à venir, qui comprennent les mesures de prévention des effets de l'exposition aux facteurs de risques professionnels ainsi que, pour chaque mesure, ses conditions d'exécution, des indicateurs de résultat et l'estimation de son coût ;\
+– identifie les ressources de l'entreprise pouvant être mobilisées ;\
+– comprend un calendrier de mise en œuvre.
 
 Pour les entreprises dont l'effectif est inférieur à 50 salariés, les résultats de l'évaluation des risques professionnels dans l'entreprise débouchent sur la définition d'actions de prévention des risques et de protection des salariés. La liste de ces actions est consignée dans le document unique d'évaluation des risques professionnels et ses mises à jour.
 
 Le règlement intérieur
 
-Le règlement intérieur, obligatoirement établi dans les entreprises de 50 salariés et plus, rappelle *(4)* :  
- – les dispositions relatives aux droits de la défense des salariés définis aux articles L. 1332-1 à L. 1332-3 du code du travail ou par la convention collective applicable ;  
- – les dispositions relatives aux harcèlements moral et sexuel et aux agissements sexistes prévues par le code du travail ;  
- – l'existence du dispositif de protection des lanceurs d'alerte prévu au chapitre II de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique.
+Le règlement intérieur, obligatoirement établi dans les entreprises de 50 salariés et plus, rappelle *(4)* :\
+– les dispositions relatives aux droits de la défense des salariés définis aux articles L. 1332-1 à L. 1332-3 du code du travail ou par la convention collective applicable ;\
+– les dispositions relatives aux harcèlements moral et sexuel et aux agissements sexistes prévues par le code du travail ;\
+– l'existence du dispositif de protection des lanceurs d'alerte prévu au chapitre II de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique.
 
 Afin d'aider les entreprises à maintenir leur règlement intérieur à jour, l'annexe 4 au présent accord comprend les mentions obligatoires relatives au harcèlement et aux agissement sexistes devant figurer au règlement intérieur.
 
-Le règlement intérieur est porté, par tout moyen, à la connaissance des personnes ayant accès aux lieux de travail ou aux locaux où se fait l'embauche *(5)*.
+Le règlement intérieur est porté, par tout moyen, à la connaissance des personnes ayant accès aux lieux de travail ou aux locaux où se fait l'embauche *(5)* .
 
 À défaut d'accord d'entreprise ou de charte relatif aux risques de harcèlement sexuel et d'agissements sexistes, les entreprises sont encouragées à mentionner le présent accord de branche au sein du règlement intérieur.
 
-*(1) Article L. 4121-3 du code du travail.*  
-*(2) Article L. 2312-27 du code du travail.*  
-*(3) Article L. 4121-3-1 du code du travail.*  
-*(4) Article L. 1321-2 du code du travail.*  
+*(1) Article L. 4121-3 du code du travail.*\
+*(2) Article L. 2312-27 du code du travail.*\
+*(3) Article L. 4121-3-1 du code du travail.*\
+*(4) Article L. 1321-2 du code du travail.*\
 *(5) Article R. 1321-1 du code du travail.*
-

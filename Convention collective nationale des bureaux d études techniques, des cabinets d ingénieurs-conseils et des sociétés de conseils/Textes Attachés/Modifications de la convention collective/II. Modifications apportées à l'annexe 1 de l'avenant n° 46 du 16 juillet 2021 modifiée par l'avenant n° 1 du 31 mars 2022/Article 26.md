@@ -8,6 +8,5 @@
 
 *Les heures supplémentaires sont payées conformément aux majorations prévues par la loi. »*
 
- *(1) L'article 6.2 est étendu sous réserve du respect des dispositions du 1° du I de l'article L. 3121-33 du code du travail qui permettent à un accord d'entreprise ou d'établissement de fixer un taux de majoration des heures supplémentaires différent de celui prévu par l'accord de branche, dans la limite basse de 10 %.  
- (Arrêté du 5 avril 2023 - art. 1)*
-
+*(1) L'article 6.2 est étendu sous réserve du respect des dispositions du 1° du I de l'article L. 3121-33 du code du travail qui permettent à un accord d'entreprise ou d'établissement de fixer un taux de majoration des heures supplémentaires différent de celui prévu par l'accord de branche, dans la limite basse de 10 %.\
+(Arrêté du 5 avril 2023 - art. 1)*

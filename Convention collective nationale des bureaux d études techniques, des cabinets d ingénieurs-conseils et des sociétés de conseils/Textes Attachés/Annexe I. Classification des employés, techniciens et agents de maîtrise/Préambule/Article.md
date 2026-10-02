@@ -31,4 +31,3 @@ Les postes sont ordonnés sur une grille unique.
 Ce mode d'approche, contrairement au caractère figé des définitions de type classique, présente un caractère souple permettant de mieux saisir ou de mieux suivre l'enrichissement des tâches qui est susceptible de découler des modifications des circonstances de l'exercice des métiers.
 
 Les organisations signataires considèrent que c'est sur les bases de ce nouveau système garant de la cohérence que s'organisera dorénavant, au sein des entreprises, la classification de leur personnel.
-

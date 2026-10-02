@@ -9,4 +9,3 @@ Les partenaires sociaux se sont donc accordés sur la renégociation d'un certai
 Ce chantier de « modernisation » de la convention collective a permis la clarification des stipulations relatives au travail du dimanche et des jours fériés.
 
 Le présent avenant a été conclu dans la continuité du chantier de « modernisation » de la convention collective afin de rendre plus lisibles les règles applicables au secteur de l'événementiel en matière de travail le dimanche.
-

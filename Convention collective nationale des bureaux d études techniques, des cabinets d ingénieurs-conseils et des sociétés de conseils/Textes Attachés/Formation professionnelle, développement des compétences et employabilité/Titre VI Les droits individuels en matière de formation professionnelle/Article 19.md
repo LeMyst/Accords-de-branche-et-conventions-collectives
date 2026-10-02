@@ -7,4 +7,3 @@ Le conseil est gratuit et est mis en œuvre dans le cadre du service public rég
 Il accompagne les salariés dans le cadre de leurs projets de transition professionnelle.
 
 Afin de faciliter la mise en œuvre efficace du conseil en évolution professionnelle, la branche s'engage à mettre en valeur, auprès des opérateurs de conseil en évolution professionnelle, si besoin dans le cadre de conventions de partenariat, les spécificités des secteurs d'activités couverts par la branche et de la grande diversité des métiers.
-

@@ -15,4 +15,3 @@ Le règlement intérieur doit, en outre, notamment prévoir l'obligation pour le
 Afin de maintenir son lien avec le (la) salarié(e), l'employeur devra favoriser les travaux « en réseau », « communautés de métiers » ou « réseaux thématiques de métiers » permettant aux salariés d'échanger sur leurs pratiques professionnelles.
 
 Les partenaires sociaux mettront en place une action collective avec le FAFIEC destinée au management pour permettre à l'employeur d'assurer des actions notamment de « reconnaissance et qualité de vie au travail », de redynamisation du document unique, des actions de formation à l'attention du management afin de « conserver son efficacité dans les situations difficiles ».
-

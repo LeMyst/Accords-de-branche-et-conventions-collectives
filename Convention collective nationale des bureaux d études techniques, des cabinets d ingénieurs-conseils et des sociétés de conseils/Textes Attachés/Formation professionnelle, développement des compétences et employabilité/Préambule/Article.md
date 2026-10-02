@@ -6,11 +6,11 @@ Compte tenu du niveau élevé d'expertise des métiers de la branche et de la ra
 
 Dans ce contexte de transformations permanentes, les parties signataires entendent rendre efficients et opérationnels des dispositifs qui contribuent à la fois à la performance économique et sociale des entreprises et au développement des compétences des salariés, gage de leur employabilité à court et moyen terme.
 
-La branche a un rôle déterminant car elle doit, notamment par la mutualisation des fonds de la formation professionnelle :  
- – favoriser l'accès à l'emploi et développer l'alternance ;  
- – adapter les compétences des salariés, maintenir leur capacité à occuper un emploi et sécuriser les parcours professionnels ;  
- – reconnaître la nécessaire et permanente actualisation des compétences pour pallier leur obsolescence rapide notamment en mobilisant l'ensemble des moyens et dispositifs pédagogiques mis à disposition des entreprises et des salariés ;  
- – accompagner et stimuler les entreprises qui aujourd'hui disposent de moyens plus limités pour répondre à ces enjeux, particulièrement les TPE.
+La branche a un rôle déterminant car elle doit, notamment par la mutualisation des fonds de la formation professionnelle :\
+– favoriser l'accès à l'emploi et développer l'alternance ;\
+– adapter les compétences des salariés, maintenir leur capacité à occuper un emploi et sécuriser les parcours professionnels ;\
+– reconnaître la nécessaire et permanente actualisation des compétences pour pallier leur obsolescence rapide notamment en mobilisant l'ensemble des moyens et dispositifs pédagogiques mis à disposition des entreprises et des salariés ;\
+– accompagner et stimuler les entreprises qui aujourd'hui disposent de moyens plus limités pour répondre à ces enjeux, particulièrement les TPE.
 
 Le développement des compétences des salariés des entreprises de moins de 50 salariés est une priorité résultant de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Ainsi, la branche peut mettre en place des dispositifs spécifiques à ces entreprises adaptés à leurs pratiques, à leurs besoins et à leurs contraintes.
 
@@ -21,5 +21,3 @@ Lorsqu'il n'est pas fait référence, dans un article du présent accord, à une
 En tout état de cause, la branche mettra à disposition de l'ensemble des acteurs, des outils d'information adaptés, actualisés et fiables, sur les dispositifs de formation existants, afin de faciliter leur appropriation et leur mise en œuvre.
 
 Enfin, les partenaires sociaux se sont attachés à ce qu'aucune des dispositions du présent accord n'était susceptible d'induire des discriminations entre les femmes et les hommes.
-
-  

@@ -7,4 +7,3 @@ Toute entreprise envisageant de licencier plus de 10 salariés pour fin de chant
 Lors de la réunion du comité d'entreprise (ou, à défaut, les délégués du personnel) seront étudiées les possibilités de reclassement au sein de l'entreprise ou sur d'autres chantiers.
 
 Le procès-verbal de séance signé par le président et le secrétaire du comité d'entreprise mentionnera le contenu de cette information et consultation, notamment les éventuelles propositions de reclassement.
-

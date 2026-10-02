@@ -7,4 +7,3 @@ Dans le cas où une situation de harcèlement sexuel ou d'agissement sexiste est
 En cas de dénonciation calomnieuse avérée, la personne qui en est victime peut bénéficier des mêmes mesures d'accompagnement.
 
 Les conséquences éventuelles d'un harcèlement avéré peuvent être prise en charge au titre de la législation sur la prévention et la réparation des accidents du travail et des maladies professionnelles.
-

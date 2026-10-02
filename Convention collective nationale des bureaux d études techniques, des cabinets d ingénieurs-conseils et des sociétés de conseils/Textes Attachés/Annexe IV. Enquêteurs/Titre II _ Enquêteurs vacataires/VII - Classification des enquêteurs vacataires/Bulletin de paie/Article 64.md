@@ -25,4 +25,3 @@ Le bulletin de paie devra comporter les mentions légales et notamment :
 - le montant de la somme effectivement perçue par l'enquêteur vacataire et sa date de paiement ;
 
 - la mention incitant l'enquêteur vacataire à conserver ce bulletin de paie sans limitation de durée.
-

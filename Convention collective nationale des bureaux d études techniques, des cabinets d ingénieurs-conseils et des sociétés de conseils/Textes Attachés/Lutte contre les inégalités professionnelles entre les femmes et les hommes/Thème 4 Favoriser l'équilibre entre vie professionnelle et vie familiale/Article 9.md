@@ -6,15 +6,15 @@ La loi du 30 juin 2025 visant à protéger les personnes engagées dans un proje
 
 Aucun salarié ou candidat à l'embauche n'est tenu de révéler sa situation personnelle. Aucune information liée à un projet parental ne peut être recherchée, ni utilisée à des fins discriminatoires.
 
-En complément, les salariés engagés dans un projet parental bénéficient d'autorisations d'absence spécifiques pour se rendre aux actes médicaux ou entretiens d'agrément nécessaires dans le cadre :  
- – d'un parcours de PMA ;  
- – ou d'une démarche d'adoption.
+En complément, les salariés engagés dans un projet parental bénéficient d'autorisations d'absence spécifiques pour se rendre aux actes médicaux ou entretiens d'agrément nécessaires dans le cadre :\
+– d'un parcours de PMA ;\
+– ou d'une démarche d'adoption.
 
 Le conjoint, partenaire de Pacs ou concubin salarié de la personne engagée dans un projet parental bénéficie des mêmes droits à autorisation d'absence spécifiques dans les conditions prévues par le code du travail.
 
 Ces absences n'entraînent aucune diminution de rémunération et sont assimilées à une période de travail effectif pour le calcul des congés payés et des droits liés à l'ancienneté.
 
-9.1. Faciliter le recours au congé paternité et d'accueil de l'enfant
+9.1. Faciliter le recours au congé paternité et d'accueil de l'enfant
 
 Cette démarche revêt une importance cruciale pour instaurer un équilibre des responsabilités au sein de la sphère privée. Elle vise à éliminer les stéréotypes de genre et à favoriser une répartition équilibrée des charges familiales, participant à la réduction des disparités professionnelles.
 
@@ -22,7 +22,7 @@ Afin de permettre un exercice partagé de la parentalité, les partenaires socia
 
 Cette facilitation peut prendre la forme de modalités de remplacement adaptées ou d'aménagements organisationnels.
 
-9.2. Anticiper le départ et le retour de congé
+9.2. Anticiper le départ et le retour de congé
 
 Les partenaires sociaux soulignent l'importance, pour les salariés comme pour les entreprises, d'anticiper les départs et retours de congés liés à la parentalité.
 
@@ -32,19 +32,19 @@ Cet échange est une opportunité pour planifier le travail durant l'absence du 
 
 En cas de naissance ou d'adoption multiple, une attention particulière sera portée à l'accompagnement du salarié concerné, notamment en matière d'organisation du travail et d'évolution professionnelle.
 
-Par ailleurs, il est rappelé que l'employeur est tenu d'organiser un entretien professionnel, pour les salariés au retour de congé maternité, au retour de congé parental d'éducation ou au retour d'un congé d'adoption *(1)*. Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi *(2)*. Il peut en résulter, si nécessaire, la planification d'une ou plusieurs formations.
+Par ailleurs, il est rappelé que l'employeur est tenu d'organiser un entretien professionnel, pour les salariés au retour de congé maternité, au retour de congé parental d'éducation ou au retour d'un congé d'adoption *(1)* . Cet entretien est consacré aux perspectives d'évolution professionnelle du salarié, notamment en termes de qualifications et d'emploi *(2)* . Il peut en résulter, si nécessaire, la planification d'une ou plusieurs formations.
 
 La mise en place d'une communication claire et ouverte autour des congés liés à la parentalité et à l'importance de correctement les préparer contribue à lutter contre les stéréotypes ou discriminations liés à la parentalité.
 
 Enfin, en particulier en cas de départ en congé parental d'éducation, l'employeur informe le salarié du maintien ou non de la couverture souscrite par l'entreprise en matière de frais de santé et de prévoyance lourde, selon l'accord d'entreprise ou de la décision unilatérale applicable.
 
-9.3. Maintenir le lien avec l'entreprise
+9.3. Maintenir le lien avec l'entreprise
 
 Afin d'encourager la prise des congés liés à la parentalité et de dissiper les inquiétudes des salariés quant à une éventuelle mise à l'écart en raison de leur absence, les entreprises créent les conditions nécessaires permettant aux salariés en congé, de maintenir, s'ils le désirent, un lien avec l'entreprise.
 
 Ainsi, avec l'accord du salarié concerné, les entreprises pourront maintenir, pendant la période de congé, la diffusion des informations générales transmises aux salariés concernant la vie de l'entreprise, selon un mode de communication préalablement défini entre les parties. En cas d'accord du salarié, les organisations syndicales et les représentants du personnel pourront également lui adresser des informations.
 
-9.4. Garantir les droits liés à la parentalité et à la prise de congés parentaux
+9.4. Garantir les droits liés à la parentalité et à la prise de congés parentaux
 
 Les salariés parents ou futurs parents bénéficient de congés (maternité, adoption, paternité et accueil de l'enfant) indemnisés dans les conditions prévues par la convention collective. Les partenaires sociaux conviennent d'améliorer ces conditions par un avenant à la convention collective modifiant son article 9.3.
 
@@ -62,6 +62,5 @@ Les salariés de retour d'un congé maternité ou d'un congé d'adoption ont dro
 
 Il est recommandé aux entreprises de sensibiliser les personnels des ressources humaines, lorsqu'ils existent, sur tous ces aspects relatifs aux congés liés à la parentalité.
 
-*(1) Articles L. 1225-27, L. 1225-57 et L. 1225-46-1 du code du travail.*  
+*(1) Articles L. 1225-27, L. 1225-57 et L. 1225-46-1 du code du travail.*\
 *(2) Article L. 6315-1 du code du travail.*
-

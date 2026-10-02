@@ -10,13 +10,13 @@ La rémunération des heures de travail effectuées le dimanche se voit applique
 
 Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche dans l'entreprise et soumis à cotisations sociales.
 
-*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.*  (1) 
+*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.* (1)
 
-*Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours fériés devront percevoir une rémunération mensuelle brute au moins égale de 1,25 % du salaire minimum hiérarchique correspondant à leur classification.*  (1) 
+*Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours fériés devront percevoir une rémunération mensuelle brute au moins égale de 1,25 % du salaire minimum hiérarchique correspondant à leur classification.* (1)
 
 2. Durée maximale journalière de travail effectif
 
-La durée journalière de travail effectif de 10 heures pourra être portée à 12 heures sur 6 jours consécutifs au maximum, sous réserve du respect d'un temps de repos de 11 heures consécutives pouvant être ramené à 9 heures sur 2 jours consécutifs au maximum, dans les conditions fixées par les articles D. 220-1 et D. 220-2 du code du travail *(2)*.
+La durée journalière de travail effectif de 10 heures pourra être portée à 12 heures sur 6 jours consécutifs au maximum, sous réserve du respect d'un temps de repos de 11 heures consécutives pouvant être ramené à 9 heures sur 2 jours consécutifs au maximum, dans les conditions fixées par les articles D. 220-1 et D. 220-2 du code du travail *(2)* .
 
 Pendant les périodes de préparation du matériel, montage, déroulement, démontage, les opérations exceptionnelles et pour les salariés travaillant sur le site de la manifestation ou affectés à cette dernière, pour une durée journalière de travail effectif au moins égale à 10 heures, l'amplitude maximale de présence est égale à la durée journalière effective de travail réalisée plus une heure.
 
@@ -44,7 +44,7 @@ Le choix de la répartition sera défini pour une année.
 
 Par dérogation à l'accord national du 22 juin 1999, la modulation ne peut conduire, sauf accord d'entreprise ou d'établissement, à des semaines travaillées inférieures à 24 heures de travail effectif, sauf accord du salarié. En deçà de 24 heures travaillées par semaine, l'organisation du temps de travail s'opère par paliers de demi-journées de travail effectif. L'organisation du temps de travail peut également comprendre des semaines non travaillées.
 
-5. Dépassement pour fin de prestation *(5)* 
+5. Dépassement pour fin de prestation *(5)*
 
 Dans certains cas où la manifestation l'exige, la durée du travail telle que programmée ne peut pas être respectée. En effet, la technicité du personnel, la complexité des tâches, les relations privilégiées avec les clients qui reposent sur la confiance réciproque rendent difficiles les permutations des salariés. Pour ces raisons, il apparaît nécessaire que les durées de travail programmées puissent dans certaines conditions être prolongées.
 
@@ -68,16 +68,15 @@ Il ne pourra y avoir plus de 3 dépassements de l'horaire programmé par semaine
 
 Le contingent d'heures supplémentaires non soumis à autorisation de l'inspecteur du travail est fixé à 130 heures par année civile ; le contingent est ramené à 90 heures en cas de modulation *sauf accord d'entreprise* *(6)* ou application de l'article L. 212-6 du code du travail.
 
- *(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.  
- (Arrêté du 23 septembre 2022 - art. 1)* 
+*(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.\
+(Arrêté du 23 septembre 2022 - art. 1)*
 
-*(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 212-7 du code du travail, selon lesquelles, au cours d'une même semaine, la durée du travail ne peut dépasser 48 heures (arrêté du 15 novembre 2001, art. 1er).* 
+*(2) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 212-7 du code du travail, selon lesquelles, au cours d'une même semaine, la durée du travail ne peut dépasser 48 heures (arrêté du 15 novembre 2001, art. 1er).*
 
-*(3) Alinéa étendu sous réserve de l'application des dispositions du troisième alinéa de l'article L. 212-5-1 du code du travail, selon lesquelles les heures supplémentaires effectuées au-delà du contingent pour les entreprises de plus de dix salariés ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 100 % de ces heures supplémentaires (arrêté du 15 novembre 2001, art. 1er).* 
+*(3) Alinéa étendu sous réserve de l'application des dispositions du troisième alinéa de l'article L. 212-5-1 du code du travail, selon lesquelles les heures supplémentaires effectuées au-delà du contingent pour les entreprises de plus de dix salariés ouvrent droit à un repos compensateur obligatoire dont la durée est égale à 100 % de ces heures supplémentaires (arrêté du 15 novembre 2001, art. 1er).*
 
-*(4) Tiret étendu sous réserve de l'application de l'article L. 212-5-1 du code du travail, qui dispose que les heures supplémentaires effectuées dans le cadre de cet article ouvrent droit à une prise de repos et non à récupération (arrêté du 15 novembre 2001, art. 1er).* 
+*(4) Tiret étendu sous réserve de l'application de l'article L. 212-5-1 du code du travail, qui dispose que les heures supplémentaires effectuées dans le cadre de cet article ouvrent droit à une prise de repos et non à récupération (arrêté du 15 novembre 2001, art. 1er).*
 
-*(5) Article étendu sous réserve qu'en application des dispositions du septième alinéa de l'article L. 212-8 du code du travail, un accord complémentaire de branche étendu ou d'entreprise précise, en cas de modification du programme de modulation, d'une part, le délai réduit qui serait appliqué dans ce cas et, d'autre part, les contreparties en faveur des salariés (arrêté du 15 novembre 2001, art. 1er).* 
+*(5) Article étendu sous réserve qu'en application des dispositions du septième alinéa de l'article L. 212-8 du code du travail, un accord complémentaire de branche étendu ou d'entreprise précise, en cas de modification du programme de modulation, d'une part, le délai réduit qui serait appliqué dans ce cas et, d'autre part, les contreparties en faveur des salariés (arrêté du 15 novembre 2001, art. 1er).*
 
 *(6) Termes exclus de l'extension (arrêté du 15 novembre 2001, art. 1er).*
-

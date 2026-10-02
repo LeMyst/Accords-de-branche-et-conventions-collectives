@@ -5,5 +5,3 @@ Conformément aux dispositions légales et réglementaires en vigueur, 2 % du mo
 Le fonds d'action sociale des organismes assureurs recommandés bénéficie exclusivement aux salariés couverts par ceux-ci.
 
 Les actions visées à l'article 1.3.2 ainsi que la communication y afférente sont financées par le fonds susmentionné.
-
-  

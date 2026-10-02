@@ -6,7 +6,7 @@ Sont considérés comme ayant une valeur égale, les travaux qui exigent des sal
 
 L'égalité de traitement entre les sexes concerne également le versement de primes sur objectifs. Les salariés remplissant les mêmes critères de performance doivent recevoir des primes égales. Cela signifie que les critères d'attribution des primes (primes variables, sur objectifs) doivent être objectifs, transparents et non discriminants. Les entreprises doivent veiller à ce qu'aucune différence de traitement injustifiée n'existe entre les hommes et les femmes, notamment en évitant des critères qui pourraient désavantager l'un ou l'autre des sexes.
 
-3.1. Sensibiliser et former les managers
+3.1. Sensibiliser et former les managers
 
 Afin de garantir l'application effective de ce principe, il est recommandé aux entreprises de sensibiliser et de former l'ensemble des managers à la question de l'égalité professionnelle, en particulier en amont des périodes d'évaluation et d'augmentation individuelle. En effet, l'encadrement intermédiaire joue un rôle déterminant dans la construction et la mise en œuvre de la politique salariale.
 
@@ -18,9 +18,9 @@ Dans les micro-entreprises, ces sujets peuvent être abordés par un dialogue di
 
 Les entreprises peuvent s'appuyer sur l'offre de services de l'opérateur de compétences Atlas et notamment sur le catalogue de formations « campusAtlas ». Les thématiques « leadership et management » et « recrutement, intégration et développement de l'élément humain » contiennent, par exemple, des modules de formation en lien avec l'égalité professionnelle entre les femmes et les hommes.
 
-Les partenaires sociaux invitent également les entreprises et les salariés de la branche à consulter les contenus pédagogiques disponibles sur la plateforme numérique « Savoirs d'avenirs » *(2)*, dont plusieurs traitent des enjeux de l'égalité professionnelle entre les femmes et les hommes.
+Les partenaires sociaux invitent également les entreprises et les salariés de la branche à consulter les contenus pédagogiques disponibles sur la plateforme numérique « Savoirs d'avenirs » *(2)* , dont plusieurs traitent des enjeux de l'égalité professionnelle entre les femmes et les hommes.
 
-3.2. Garantir l'égalité tout au long de la carrière
+3.2. Garantir l'égalité tout au long de la carrière
 
 Lors du recrutement de la salariée
 
@@ -30,9 +30,9 @@ Pour un même emploi, un positionnement identique au sein de la classification d
 
 Au retour des congés maternité ou d'adoption
 
-À l'issue du congé de maternité ou d'adoption, la personne salariée bénéficie :  
- – des augmentations générales éventuellement accordées au sein de l'entreprise pendant son congé ;  
- – ainsi que de la moyenne (ou de la médiane si celle-ci est plus favorable au salarié) des augmentations individuelles perçues pendant la durée de ce congé par les salariés de l'entreprise relevant de la même catégorie professionnelle, à ancienneté et compétence équivalentes.
+À l'issue du congé de maternité ou d'adoption, la personne salariée bénéficie :\
+– des augmentations générales éventuellement accordées au sein de l'entreprise pendant son congé ;\
+– ainsi que de la moyenne (ou de la médiane si celle-ci est plus favorable au salarié) des augmentations individuelles perçues pendant la durée de ce congé par les salariés de l'entreprise relevant de la même catégorie professionnelle, à ancienneté et compétence équivalentes.
 
 Lorsque cette comparaison n'est pas possible du fait de la taille ou de la structure de l'entreprise, il est possible de retenir une moyenne calculée sur un groupe élargi ou représentatif, dans le respect du principe d'égalité de traitement.
 
@@ -46,6 +46,5 @@ Lors des révisions salariales périodiques, les entreprises dont la taille perm
 
 Les effectifs à temps partiel étant constitués d'une part significative de femmes, une vigilance particulière est portée à ces salariés lors des révisions de salaires, afin de ne pas les pénaliser par rapport aux salariés travaillant à temps complet.
 
-*(1) Conformément à l'article 3.1 de la convention collective.  
- (2) Plateforme « Savoirs d'avenirs ».*
-
+*(1) Conformément à l'article 3.1 de la convention collective.\
+(2) Plateforme « Savoirs d'avenirs ».*

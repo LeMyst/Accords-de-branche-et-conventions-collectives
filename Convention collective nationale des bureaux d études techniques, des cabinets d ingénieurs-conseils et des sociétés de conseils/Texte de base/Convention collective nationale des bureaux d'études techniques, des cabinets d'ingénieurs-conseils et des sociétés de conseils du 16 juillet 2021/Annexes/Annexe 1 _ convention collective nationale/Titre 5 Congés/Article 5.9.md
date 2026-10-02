@@ -7,4 +7,3 @@ Les modalités d'application et de fin de ce congé doivent faire l'objet d'une 
 Le congé sans solde entraîne la suspension des effets du contrat de travail.
 
 À l'expiration de ce congé, le salarié retrouve ses droits et ses avantages acquis antérieurement.
-

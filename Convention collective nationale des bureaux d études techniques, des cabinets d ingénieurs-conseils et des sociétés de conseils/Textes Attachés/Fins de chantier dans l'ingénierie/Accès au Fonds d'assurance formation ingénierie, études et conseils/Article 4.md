@@ -15,4 +15,3 @@ Le FAFIEC déterminera les conditions de prise en charge des coûts liés à cet
 Une enveloppe budgétaire annuelle sera prévue à cet effet, dont le montant sera déterminé par le conseil de gestion du FAFIEC.
 
 Un bilan annuel sera présenté par le président du FAFIEC à la commission paritaire de la convention collective qui pourra prendre toute disposition utile en cas de difficulté de mise en oeuvre du présent accord.
-

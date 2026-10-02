@@ -7,5 +7,3 @@ Les heures d'absence sont fixées pour moitié par l'employeur et pour moitié p
 Ces heures d'absence ne donnent pas lieu à réduction de rémunération en cas de licenciement. Cependant, aucune indemnité n'est due en l'absence d'utilisation de ces heures.
 
 En cas de démission, ces heures d'absence ne donnent pas lieu à rémunération.
-
-  

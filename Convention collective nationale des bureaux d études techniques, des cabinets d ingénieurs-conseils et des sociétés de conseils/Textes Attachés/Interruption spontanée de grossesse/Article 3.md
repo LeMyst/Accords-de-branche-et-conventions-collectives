@@ -1,6 +1,6 @@
 # Article 3
 
-Date d'effet. Durée de l'accord
+Date d'effet. Durée de l'accord
 
 Le présent accord est conclu pour une durée indéterminée. Il prend effet le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
@@ -31,4 +31,3 @@ Peuvent adhérer au présent accord toute organisation syndicale de salariés re
 Stipulations spécifiques aux entreprises de moins de cinquante salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
-

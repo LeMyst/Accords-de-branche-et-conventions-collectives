@@ -9,5 +9,3 @@ Le plus rapidement possible et, au plus tard, dans un délai de trois mois à pa
 Les stipulations qui font l'objet de la demande de révision, resteront en vigueur jusqu'à la conclusion d'un tel avenant.
 
 Cet avenant est soumis aux mêmes règles de validité et de publicité que le présent accord.
-
-  

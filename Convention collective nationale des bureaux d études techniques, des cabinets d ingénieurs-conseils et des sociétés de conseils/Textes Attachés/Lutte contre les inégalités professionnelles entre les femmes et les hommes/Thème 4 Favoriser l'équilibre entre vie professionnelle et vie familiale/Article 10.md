@@ -4,7 +4,7 @@ L'articulation entre le temps de vie personnelle et le temps de vie professionne
 
 Les partenaires sociaux tiennent à souligner la nécessité de prendre en compte les familles monoparentales et les familles d'enfant en situation de handicap, dans la mise en place de dispositifs de facilitation de la conciliation des vies professionnelles et personnelles.
 
-10.1. Mettre en place des dispositifs d'accompagnements en entreprise
+10.1. Mettre en place des dispositifs d'accompagnements en entreprise
 
 Les partenaires sociaux encouragent les entreprises et les comités sociaux et économiques (CSE), lorsqu'ils existent, à recenser et mobiliser les dispositifs permettant de soutenir les salariés dans la gestion de leur vie quotidienne.
 
@@ -16,10 +16,10 @@ Il peut également s'agir de la mise en place des services de proximité visant 
 
 Il est rappelé que les partenaires sociaux ont défini des services d'accompagnement à la parentalité dans le cadre du régime de branche de complémentaire santé.
 
-Ces services comprennent :  
- – un dispositif de garde d'enfant ;  
- – un dispositif de soutien scolaire ;  
- – un dispositif générique d'aide à la gestion de la parentalité.
+Ces services comprennent :\
+– un dispositif de garde d'enfant ;\
+– un dispositif de soutien scolaire ;\
+– un dispositif générique d'aide à la gestion de la parentalité.
 
 Les organismes assureurs chargés de mettre en œuvre ce régime sont ainsi tenus de proposer ces services. Conformément au règlement intérieur du comité paritaire de surveillance, il convient toutefois de noter que les actions sociales afférentes à la parentalité sont susceptibles d'évoluer sur décision de l'instance.
 
@@ -27,7 +27,7 @@ Les partenaires sociaux tiennent cependant à réaffirmer leurs engagements en l
 
 Ces informations sont accessibles sur les sites des organisations professionnelles.
 
-10.2. Adapter l'organisation du travail
+10.2. Adapter l'organisation du travail
 
 L'organisation du travail doit être compatible avec l'objectif de conciliation des vies professionnelles et personnelles. En particulier, les managers veillent à planifier les réunions à des horaires compatibles avec les contraintes personnelles, telles que les obligations familiales ou les temps de trajet. Des horaires de réunion adaptés permettent de réduire le stress, d'augmenter la satisfaction au travail et contribuent également à une meilleure gestion du temps, optimisant ainsi la productivité globale de l'équipe.
 
@@ -37,7 +37,7 @@ Les salariés qui le souhaitent peuvent demander à leur employeur d'adapter leu
 
 Les entreprises veillent à prendre en compte les contraintes de la vie personnelle dans l'organisation des déplacements professionnels. Chaque salarié soumis aux horaires collectifs et ayant un enfant de moins de 3 ans peut solliciter un examen particulier de sa situation et la mise en place d'un aménagement de ses horaires de travail. Le cas échéant, cet aménagement est organisé en collaboration avec la direction ou la hiérarchie de façon à être compatible avec les impératifs de l'activité du service. Il peut concerner notamment une plus grande flexibilité des horaires d'entrée/sortie de l'entreprise, de la durée de la pause déjeuner…
 
-Le salarié concerné devra faire sa demande par écrit à la direction ou à sa hiérarchie et recevra une réponse précisant les horaires applicables dans le mois suivant sa demande. S'il est accepté, cet horaire individualisé est mis en place après avis conforme du comité social et économique s'il existe, ou bien après autorisation de l'inspecteur du travail *(1)*. Sauf accord formel de prolongation, il est expressément convenu que cet aménagement temporaire des horaires collectifs cessera dans les 2 mois suivant la date anniversaire des 3 ans de l'enfant.
+Le salarié concerné devra faire sa demande par écrit à la direction ou à sa hiérarchie et recevra une réponse précisant les horaires applicables dans le mois suivant sa demande. S'il est accepté, cet horaire individualisé est mis en place après avis conforme du comité social et économique s'il existe, ou bien après autorisation de l'inspecteur du travail *(1)* . Sauf accord formel de prolongation, il est expressément convenu que cet aménagement temporaire des horaires collectifs cessera dans les 2 mois suivant la date anniversaire des 3 ans de l'enfant.
 
 Étudier les demandes de travail à temps partiel
 
@@ -47,23 +47,22 @@ Lors de la révision des salaires, une attention particulière sera portée aux 
 
 Étudier les demandes d'aménagement de l'organisation hybride du travail
 
-Les partenaires sociaux rappellent qu'afin de faciliter la conciliation des vies professionnelles et personnelles des nouveaux parents, ceux-ci peuvent solliciter un examen particulier de leur situation vis-à-vis des critères d'éligibilité à l'organisation hybride du travail mise en place dans leur entreprise. Ils peuvent également solliciter la mise en place d'un rythme de télétravail individualisé, dérogeant au rythme de télétravail établi dans l'entreprise *(2)*.
+Les partenaires sociaux rappellent qu'afin de faciliter la conciliation des vies professionnelles et personnelles des nouveaux parents, ceux-ci peuvent solliciter un examen particulier de leur situation vis-à-vis des critères d'éligibilité à l'organisation hybride du travail mise en place dans leur entreprise. Ils peuvent également solliciter la mise en place d'un rythme de télétravail individualisé, dérogeant au rythme de télétravail établi dans l'entreprise *(2)* .
 
-Ceci s'applique :  
- – aux salariées enceintes, à compter du 3e mois de grossesse ;  
- – aux salariées bénéficiant d'un congé de maternité dans les 3 mois suivant le congé ;  
- – aux salariés bénéficiant d'un congé de paternité, dans les 3 mois précédant et suivant le congé ;  
- – aux salariés bénéficiant d'un congé d'adoption, afin de faciliter la conciliation des vies professionnelles et personnelles des parents dans les 3 mois précédant et suivant le congé.
+Ceci s'applique :\
+– aux salariées enceintes, à compter du 3e mois de grossesse ;\
+– aux salariées bénéficiant d'un congé de maternité dans les 3 mois suivant le congé ;\
+– aux salariés bénéficiant d'un congé de paternité, dans les 3 mois précédant et suivant le congé ;\
+– aux salariés bénéficiant d'un congé d'adoption, afin de faciliter la conciliation des vies professionnelles et personnelles des parents dans les 3 mois précédant et suivant le congé.
 
-Et également :  
- – aux salariés en situation de handicap ou atteints d'une maladie chronique évolutive ou invalidante (pouvant notamment nécessiter un temps partiel thérapeutique) ;  
- – aux salariés ayant la qualité de proche aidant ;  
- – aux salariés de retour d'arrêt de travail d'une durée supérieure à 6 mois continus faisant suite à une maladie ou un accident, afin de faciliter leur retour sur leur poste pendant les 3 mois suivant la fin de l'arrêt de travail.
+Et également :\
+– aux salariés en situation de handicap ou atteints d'une maladie chronique évolutive ou invalidante (pouvant notamment nécessiter un temps partiel thérapeutique) ;\
+– aux salariés ayant la qualité de proche aidant ;\
+– aux salariés de retour d'arrêt de travail d'une durée supérieure à 6 mois continus faisant suite à une maladie ou un accident, afin de faciliter leur retour sur leur poste pendant les 3 mois suivant la fin de l'arrêt de travail.
 
 Anticiper les potentielles mobilités géographiques
 
 Avant toute décision de mobilité géographique, l'employeur s'assure auprès du salarié concerné, que cette mobilité ou bien les modalités de sa mise en œuvre, sont compatibles avec les contraintes de la parentalité (par exemple : charge d'enfants en bas âge, situation de grossesse…) ou de la qualité d'aidant.
 
-*(1) Article L. 3121-48 du code du travail.*  
+*(1) Article L. 3121-48 du code du travail.*\
 *(2) Article 20 de l'accord du 13 décembre 2023 relatif à l'organisation hybride du travail.*
-

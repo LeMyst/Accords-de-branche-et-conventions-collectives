@@ -1,8 +1,8 @@
 # Article 76
 
-Le calcul de la rémunération des chargés d'enquête (CE) est basé :  
- – d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;  
- – d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
+Le calcul de la rémunération des chargés d'enquête (CE) est basé :\
+– d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;\
+– d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
 
 Les CE sont assurés d'une rémunération mensuelle minimum garantie.
 
@@ -25,4 +25,3 @@ Toutefois, les activités mensuelles dépassant 110 % de la garantie mensuelle q
 La grille des rémunérations figurant en annexe de la convention collective (annexe III) précise les rémunérations minimales garanties des chargés d'enquête en fonction des divers types d'enquêtes pouvant être réalisées.
 
 La durée moyenne d'interview est la durée de passation du questionnaire. La rémunération tient compte à la fois du temps moyen réel nécessaire au recueil de l'information, du temps moyen de recherche et de mise au propre du questionnaire.
-

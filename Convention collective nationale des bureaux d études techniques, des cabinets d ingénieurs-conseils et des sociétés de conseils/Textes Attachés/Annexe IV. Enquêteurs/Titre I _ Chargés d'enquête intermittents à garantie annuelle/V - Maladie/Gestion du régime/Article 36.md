@@ -5,4 +5,3 @@ A la signature de l'annexe "Enquêteurs", l'organisme gestionnaire habilité à 
 Les sociétés sont tenues d'y adhérer et ce, au plus tard, le premier jour du mois suivant l'arrêté d'extension de l'annexe " Enquêteurs " par le ministère du travail.
 
 L'organisme gestionnaire communiquera au moins une fois par an à la commission paritaire professionnelle les éléments d'informations permettant un contrôle sur les plans statistique, économique et financier.
-

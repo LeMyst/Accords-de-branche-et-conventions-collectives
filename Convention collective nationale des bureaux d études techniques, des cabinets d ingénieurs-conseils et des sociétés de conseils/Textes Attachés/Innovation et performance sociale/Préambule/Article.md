@@ -11,4 +11,3 @@ Au sein du présent accord-cadre, les signataires conviennent donc des thématiq
 *(1) Accord de branche du 19 février 2013 relatif à la santé et aux risques psychosociaux, accord de branche relatif à l'égalité entre les femmes et les hommes du 27 octobre 2014, accord de branche relatif à la complémentaire santé du 7 octobre 2015, accord de branche relatif à la formation professionnelle du 31 octobre 2019.*
 
 *(2) Études « Santé au travail, prévention des risques professionnels et qualité de vie au travail » de juin 2020, « Handicap et emploi » de décembre 2018, « Déplacements professionnels et articulation temps de vie des salariés » de décembre 2020, « État des lieux de la diversité en entreprise » de mars 2021.*
-

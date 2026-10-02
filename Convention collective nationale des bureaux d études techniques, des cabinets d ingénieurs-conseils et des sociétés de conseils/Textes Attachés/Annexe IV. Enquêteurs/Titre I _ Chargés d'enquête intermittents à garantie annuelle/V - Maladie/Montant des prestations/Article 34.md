@@ -11,4 +11,3 @@ Le montant des prestations versées au chargé d'enquête intermittent à garant
 Les allocations ci-dessus fixées constituent le maximum auquel aura droit tout chargé d'enquête intermittent à garantie annuelle pour toute période de 12 mois consécutifs au cours de laquelle il aura eu une ou plusieurs absences pour maladie ou accident.
 
 La garantie annuelle prévue à l'article 5 est réduite pro rata temporis durant toute suspension du contrat de travail et notamment pendant les périodes de maladie ou accident indemnisées ou non.
-

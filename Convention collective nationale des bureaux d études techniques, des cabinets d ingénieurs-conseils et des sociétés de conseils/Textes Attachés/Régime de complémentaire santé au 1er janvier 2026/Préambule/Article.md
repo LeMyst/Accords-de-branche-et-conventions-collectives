@@ -9,4 +9,3 @@ Les partenaires sociaux ont alors souhaité, sur la base de ces constats, repens
 Le présent avenant a donc pour objet d'adapter le régime conventionnel à la diversité des caractéristiques des entreprises de la branche, afin d'envisager l'appel d'offres en toute sérénité. L'accord modifié *(1)* du 7 octobre 2015 relatif à la mise en place d'un régime de complémentaire santé dans la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486) sera donc amendé en conséquence.
 
 *(1) Par l'avenant n° 7 du 18 décembre 2024 portant revalorisation des cotisations au régime au 1er avril 2025.*
-

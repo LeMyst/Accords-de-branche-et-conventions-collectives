@@ -4,8 +4,8 @@ L'article 26 de l'accord de branche du 31 octobre 2019 est intégralement révis
 
 « Article 26
 
-Article 26.1  
- La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche
+Article 26.1\
+La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche
 
 Pour la mise en œuvre de sa politique d'emploi et de formation au service des salariés et des entreprises, la branche a décidé de se doter d'une ressource spécifique prenant la forme d'une contribution supplémentaire dite “ contribution conventionnelle ”.
 
@@ -15,8 +15,8 @@ La contribution légale à la formation professionnelle due par les entreprises 
 
 La contribution légale à la formation professionnelle due par les entreprises employant de 1 à 49 salariés est complétée par une contribution conventionnelle de 0,050 % de la masse salariale annuelle brute avec un versement minimum par entreprise de 25 €.
 
-Article 26.2  
- Affectations des contributions conventionnelles pour le développement des compétences dans les entreprises de la branche
+Article 26.2\
+Affectations des contributions conventionnelles pour le développement des compétences dans les entreprises de la branche
 
 Les priorités d'affectation des fonds conventionnels en termes de salariés, entreprises, dispositifs et compétences sont définies annuellement par la note politique de formation élaborée paritairement dans le cadre de la commission paritaire nationale de l'emploi et la formation professionnelle (CPNEFP).
 
@@ -32,10 +32,9 @@ Les partenaires sociaux poursuivent leur action de renforcement de l'offre de fo
 
 Cette contribution conventionnelle doit permettre, en partie, de relever les défis de notre siècle, tant au niveau énergétique qu'environnemental. La note de politique élaborée chaque année devra impérativement concrétiser cette orientation.
 
-Article 26.3  
- Recouvrement des contributions conventionnelles au développement des compétences dans les entreprises de la branche
+Article 26.3\
+Recouvrement des contributions conventionnelles au développement des compétences dans les entreprises de la branche
 
 Les partenaires sociaux gèrent et organisent la mutualisation de ces fonds au sein de l'Opco Atlas “ Soutenir les compétences ”, opérateur de compétences auquel ils confient également la mise en œuvre de la collecte de cette contribution.
 
 Il est convenu que la première collecte des contributions conventionnelles susvisées interviendra au cours de l'année suivant la date d'entrée en vigueur du présent accord, et au plus tôt pour la collecte au titre de masse salariale annuelle brute 2023. »
-

@@ -11,4 +11,3 @@ La nature des activités d'enquête et de sondage ne permet pas de connaître av
 Les périodes de travail n'étant pas définies au contrat, l'employeur devra respecter un délai de prévenance de trois jours ouvrables. Toutefois, l'employeur pourra faire appel aux chargés d'enquêtes intermittents à garantie annuelle pour toutes les enquêtes qui ne permettent pas le respect de ce délai, mais dans ces cas, la non-acceptation du salarié ne pourra pas être considérée comme un refus de travail et sera sans conséquence sur la relation contractuelle entre le salarié et son employeur.
 
 Dans la mesure du possible, priorité sera donnée aux chargés d'enquête intermittents à garantie annuelle dans la distribution du travail.
-

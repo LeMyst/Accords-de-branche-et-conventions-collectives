@@ -35,4 +35,3 @@ Les minima sont calculés sur le plafond de la sécurité sociale en vigueur au 
 5.4. Paiement de la rente éducation
 
 La rente éducation est cumulative avec le capital décès. Elle est due et payable mensuellement à compter du premier jour du mois qui suit la date du décès.
-

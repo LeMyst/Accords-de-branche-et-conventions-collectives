@@ -18,5 +18,4 @@ Pour le personnel régi par les modalités standard et notamment pour le personn
 
 -une comptabilisation mensuelle du temps de travail est opérée dans l'entreprise. Les entreprises qui mettent en oeuvre la modulation instituée par le présent accord garantissent aux salariés concernés un lissage de leur rémunération mensuelle sur toute la période de modulation, indépendamment de l'horaire réellement accompli. Si le volume annuel des heures travaillées est inférieur à l'horaire annuel normal de l'entreprise ou de l'établissement pour un salarié, le reliquat n'est pas reportable sur la période annuelle suivante.
 
-*(1) Tiret étendu sous réserve de l'application des articles L. 212-8-5,2 e alinéa, du code du travail (*arrêté du 21 décembre 1999, art. 1 er)*.*
-
+*(1) Tiret étendu sous réserve de l'application des articles L. 212-8-5,2 <sup>e</sup> alinéa, du code du travail (*arrêté du 21 décembre 1999, art. 1 <sup>er</sup>)*.*

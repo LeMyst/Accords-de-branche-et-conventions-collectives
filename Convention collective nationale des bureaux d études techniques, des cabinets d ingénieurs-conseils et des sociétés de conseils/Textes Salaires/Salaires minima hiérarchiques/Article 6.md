@@ -11,4 +11,3 @@ Le présent accord est conclu pour une durée indéterminée. Il prend effet le 
 Le présent accord est déposé par la partie la plus diligente et fera l'objet d'une demande d'extension auprès du ministre du travail dans le cadre des dispositions légales et réglementaires.
 
 Après avoir lu et paraphé chacune des pages précédentes, les représentants signataires ont approuvé l'accord au nom de leur organisation.
-

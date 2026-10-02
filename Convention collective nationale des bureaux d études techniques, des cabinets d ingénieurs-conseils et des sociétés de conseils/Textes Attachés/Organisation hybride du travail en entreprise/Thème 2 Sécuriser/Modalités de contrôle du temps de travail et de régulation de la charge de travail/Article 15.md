@@ -1,6 +1,5 @@
 # Article 15
 
-  
 Le travail hybride s'exerce dans le respect des dispositions légales et conventionnelles applicables en matière de temps de travail.
 
 Les dispositions du code du travail imposent à l'employeur de contrôler la durée du travail du salarié.
@@ -18,5 +17,3 @@ Les modalités de mise en œuvre de cet entretien sont définies au niveau de l'
 Les différents entretiens devant être programmés annuellement entre l'employeur et le salarié peuvent être tenus le même jour (entretien individuel dans le cadre du forfait-jours, entretien de suivi des salariés en télétravail, éventuel entretien individuel d'évaluation…).
 
 Enfin, il résulte des dispositions légales que si un moyen de contrôle de l'activité du salarié et de contrôle du temps de travail est mis en place, il doit être justifié par la nature de la tâche à accomplir et proportionné au but recherché, et le salarié doit en être informé. La mise en place de dispositifs numériques spécifiques nécessite le respect de 2 conditions cumulatives : la consultation préalable du CSE, lorsqu'il existe, et l'information préalable des salariés. Il est rappelé que ces outils doivent être utilisés dans le respect des droits fondamentaux des salariés, en particulier celui de leur vie privée.
-
-  

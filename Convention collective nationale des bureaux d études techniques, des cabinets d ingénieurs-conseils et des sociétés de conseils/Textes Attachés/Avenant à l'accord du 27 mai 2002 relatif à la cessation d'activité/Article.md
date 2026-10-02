@@ -23,5 +23,3 @@ Considérant le courrier du 12 mai 2003 adressé à la fédération SYNTEC par l
 (voir cet article)
 
 Le présent avenant s'applique de plein droit aux accords d'entreprises donnant lieu aux conventions avec l'Etat conclues après le 1er juin 2003.
-
-  

@@ -19,4 +19,3 @@ Accompagnement spécifique apporté par la branche
 Les partenaires sociaux s'engagent à créer et mettre à disposition des acteurs du dialogue social de la branche des outils (guide pratiques, trames d'entretiens) permettant la conduite d'entretiens au regard des objectifs du présent accord et des dispositions de la loi.
 
 Les partenaires sociaux s'engagent à identifier ces outils et les moyens de leur développement dans un délai de 12 mois suivant la signature du présent accord de branche.
-

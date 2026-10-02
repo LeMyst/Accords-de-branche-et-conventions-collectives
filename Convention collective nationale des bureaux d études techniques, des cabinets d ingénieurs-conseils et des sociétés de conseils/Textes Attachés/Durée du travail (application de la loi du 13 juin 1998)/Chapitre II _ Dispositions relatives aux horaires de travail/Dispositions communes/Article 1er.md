@@ -2,9 +2,9 @@
 
 Les entreprises de l'ingénierie, de l'informatique et du conseil offrent la particularité de compter une majorité de cadres, compte tenu des prestations intellectuelles de haut niveau qu'elles sont à même de proposer. Par ailleurs, les moyens bureautiques modernes font évoluer l'exercice traditionnel de l'activité professionnelle et le contrôle traditionnel des horaires de travail, par l'employeur. Cette évolution paraît rencontrer les aspirations des salariés qui souhaitent travailler selon un rythme propre, néanmoins compatible avec les contraintes de l'entreprise.
 
-Concernant l'encadrement, compte tenu de la nature des fonctions et responsabilités confiées au personnel concerné, la référence à une mesure de temps exprimé en nombre de journées ou demi-journées de travail peut être plus adaptée que le calcul en heures et vient compléter utilement les dispositions légales (notamment les durées maximales légales qui continuent à s'appliquer). 
+Concernant l'encadrement, compte tenu de la nature des fonctions et responsabilités confiées au personnel concerné, la référence à une mesure de temps exprimé en nombre de journées ou demi-journées de travail peut être plus adaptée que le calcul en heures et vient compléter utilement les dispositions légales (notamment les durées maximales légales qui continuent à s'appliquer).
 
-Afin à la fois de faire bénéficier l'ensemble des salariés d'une réduction réelle du temps de travail et de favoriser l'émergence de nouvelles organisations du travail dans les entreprises, les parties signataires conviennent de mettre à la disposition des entreprises les mesures ci-après qui viennent compléter les articles 32 ETAM et IC de la convention collective. 
+Afin à la fois de faire bénéficier l'ensemble des salariés d'une réduction réelle du temps de travail et de favoriser l'émergence de nouvelles organisations du travail dans les entreprises, les parties signataires conviennent de mettre à la disposition des entreprises les mesures ci-après qui viennent compléter les articles 32 ETAM et IC de la convention collective.
 
 Tous les salariés qui relèvent du champ d'application du présent accord voient leur durée hebdomadaire de travail réduite selon les modalités définies ci-après. Les réductions d'horaire seront obtenues notamment en réduisant l'horaire hebdomadaire puis en réduisant le nombre de jours travaillés dans l'année par l'octroi de jours disponibles pris de façon individuelle ou collective.
 
@@ -27,4 +27,3 @@ Les définitions de ces différentes modalités sont précisées dans les articl
 Pour relever des modalités de réalisation de missions, les personnels doivent tout d'abord répondre aux conditions d'autonomie définies à l'article 3 ou à l'article 4.
 
 Les salariés lors de la mise en oeuvre du présent accord sont informés des modalités qui les concernent après information, lorsqu'elles existent, des institutions représentatives du personnel. Les changements suivent l'évolution professionnelle du collaborateur et tiennent compte de leurs souhaits.
-

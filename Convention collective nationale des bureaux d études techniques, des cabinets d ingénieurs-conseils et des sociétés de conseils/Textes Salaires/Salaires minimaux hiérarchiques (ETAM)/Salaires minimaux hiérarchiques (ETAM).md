@@ -1,2 +1,1 @@
 # Salaires minimaux hiérarchiques (ETAM)
-

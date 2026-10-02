@@ -1,8 +1,8 @@
 # Article 5.4
 
-L'employeur peut après consultation du comité social et économique (CSE) s'il existe :  
- – soit procéder à la fermeture totale de l'entreprise ;  
- – soit établir les congés payés par roulement.
+L'employeur peut après consultation du comité social et économique (CSE) s'il existe :\
+– soit procéder à la fermeture totale de l'entreprise ;\
+– soit établir les congés payés par roulement.
 
 En cas de fermeture totale de l'entreprise pour congés payés sur la période du 1er mai au 31 octobre, la date de fermeture doit être portée à la connaissance des salariés au plus tard le 1er mars de chaque année.
 
@@ -17,4 +17,3 @@ Les époux et les partenaires liés par un pacte civil de solidarité (Pacs) tra
 Lorsque plusieurs membres d'une même famille travaillent dans la même entreprise, les congés payés peuvent leur être accordés simultanément, dans la mesure du possible.
 
 Toute modification des dates de congés payés, demandée dans un délai inférieur à 2 mois avant le départ, nécessite l'accord des parties, sauf en cas de circonstances exceptionnelles. Lorsque l'employeur prend l'initiative de cette modification, il s'engage à verser une indemnisation totale des frais occasionnés sur présentation de justificatifs.
-

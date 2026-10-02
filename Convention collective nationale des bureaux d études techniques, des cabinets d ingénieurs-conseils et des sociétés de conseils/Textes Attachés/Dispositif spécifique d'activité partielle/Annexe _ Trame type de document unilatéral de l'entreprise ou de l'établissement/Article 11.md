@@ -7,4 +7,3 @@ Le présent document est également transmis, anonymisé, par voie électronique
 Fait à Paris, le 10 septembre 2020.
 
 (Suivent les signatures.)
-

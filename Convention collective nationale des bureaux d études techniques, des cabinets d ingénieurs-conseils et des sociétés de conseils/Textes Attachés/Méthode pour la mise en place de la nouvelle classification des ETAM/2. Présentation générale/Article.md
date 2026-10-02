@@ -1,6 +1,5 @@
 # Article
 
-  
 Ce nouveau système organise la hiérarchie des fonctions quel que soit la filière ou le métier considéré :
 
 - suivant une grille unique pour toutes les fonctions ;
@@ -9,9 +8,9 @@ Ce nouveau système organise la hiérarchie des fonctions quel que soit la fili�
 
 1. Fonctions d'exécution ;
 
-2. Fonctions d'études ou de préparation ;
+1. Fonctions d'études ou de préparation ;
 
-3. Fonctions de conception ou de gestion élargie,
+1. Fonctions de conception ou de gestion élargie,
 
 elles-mêmes subdivisées en positions internes (12 positions au total).
 
@@ -25,32 +24,18 @@ Dans la forme et le contenu du nouveau système, ont été recherchées :
 
 Les définitions des types de fonctions découlent toutes d'une conception unique qui analyse les fonctions au travers de leurs aspects fondamentaux :
 
-  
-  
 Objet du travail ;
 
-  
-  
 Modèles d'actions ;
 
-  
-  
 Démarches intellectuelles.
 
 Pour en tirer des définitions générales portant sur les :
 
-  
-  
 Contenu ;
 
-  
-  
 Caractéristiques communes (autonomie, responsabilité...) ;
 
-  
-  
 Connaissances requises.
 
 Les définitions de positions dérivent également d'une conception commune : elles sont établies principalement à partir de la complexité et de la difficulté du travail à accomplir.
-
-  

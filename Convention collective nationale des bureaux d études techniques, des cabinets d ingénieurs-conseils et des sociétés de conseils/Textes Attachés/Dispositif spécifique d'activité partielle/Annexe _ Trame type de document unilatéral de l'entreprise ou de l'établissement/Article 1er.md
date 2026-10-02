@@ -12,11 +12,11 @@ La période du 17 mars 2020 au 17 novembre 2020 est neutralisée pour l'applicat
 
 Option n° 2
 
-Le dispositif spécifique d'activité partielle a vocation à bénéficier exclusivement aux activités et salariés suivants de l'entreprise/de l'établissement :  
- – activités commerciales [détailler les catégories d'activités et de salariés concernés] ;  
- – fonctions supports *(1)* [détailler les catégories d'activités et de salariés concernés] ;  
- – consultants [détailler les catégories d'activités et de salariés concernés] ;  
- – [éventuellement : détailler d'autres catégories d'activités et de salariés concernés].
+Le dispositif spécifique d'activité partielle a vocation à bénéficier exclusivement aux activités et salariés suivants de l'entreprise/de l'établissement :\
+– activités commerciales [détailler les catégories d'activités et de salariés concernés] ;\
+– fonctions supports *(1)* [détailler les catégories d'activités et de salariés concernés] ;\
+– consultants [détailler les catégories d'activités et de salariés concernés] ;\
+– [éventuellement : détailler d'autres catégories d'activités et de salariés concernés].
 
 Tous les salariés de l'entreprise affectés à ces activités ont vocation à bénéficier du dispositif spécifique d'activité partielle quelle que soit la nature de leur contrat de travail (CDD, CDI, contrat d'apprentissage, contrat de professionnalisation).
 
@@ -35,4 +35,3 @@ Dans les entreprises dont l'activité principale correspond au code NAF 70.22Z, 
 Pour ce calcul, le taux d'occupation est défini comme le rapport entre le temps passé par le salarié à des missions et le temps de travail total de ce dernier.
 
 *(1) Exemples : services comptabilité, ressources humaines, marketing, communication…*
-

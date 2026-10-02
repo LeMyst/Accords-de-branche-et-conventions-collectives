@@ -21,4 +21,3 @@ Ces classifications s'imposent à toutes les entreprises soumises à la conventi
 La fonction remplie est seule prise en considération pour son classement dans les emplois prévus par la classification en cause.
 
 Le salarié dont les fonctions relèvent de façon continue de diverses catégories est considéré comme appartenant à la catégorie la plus élevée parmi celles-ci.
-

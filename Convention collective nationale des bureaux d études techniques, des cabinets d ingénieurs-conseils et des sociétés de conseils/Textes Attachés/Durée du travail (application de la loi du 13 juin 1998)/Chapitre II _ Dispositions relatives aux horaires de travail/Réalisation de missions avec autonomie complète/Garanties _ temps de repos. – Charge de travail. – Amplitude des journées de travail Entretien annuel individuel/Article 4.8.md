@@ -1,6 +1,5 @@
 # Article 4.8
 
-  
 4.8.1. Temps de repos
 
 Les salariés ayant conclu une convention de forfait en jours sur l'année bénéficient, au même titre que les autres salariés, des dispositions légales relatives au repos quotidien et hebdomadaire. À cet égard, ils bénéficient d'un repos quotidien minimum de 11 heures consécutives et d'un repos hebdomadaire de 35 heures (24 heures + 11 heures) minimums consécutives, étant rappelé que l'amplitude quotidienne maximale de travail est de 13 heures.
@@ -42,5 +41,3 @@ Afin de se conformer aux dispositions légales et de veiller à la santé et à 
 Au cours de cet entretien sont évoquées la charge individuelle de travail du salarié, l'organisation du travail dans l'entreprise, l'articulation entre l'activité professionnelle et la vie privée et, enfin, la rémunération du salarié. Lors de cet entretien, le salarié et son employeur font le bilan des modalités d'organisation du travail du salarié, de la durée des trajets professionnels, de sa charge individuelle de travail, de l'amplitude des journées de travail, de l'état des jours non travaillés pris et non pris à la date des entretiens et l'équilibre entre vie privée et vie professionnelle. Une liste indicative des éléments devant être abordés lors de cet entretien est également transmise au salarié.
 
 Au regard des constats effectués, le salarié et son responsable hiérarchique arrêtent ensemble les mesures de prévention et de règlement des difficultés (lissage sur une plus grande période, répartition de la charge, etc.). Les solutions et mesures sont alors consignées dans le compte rendu de cet entretien annuel. Le salarié et le responsable hiérarchique examinent si possible également à l'occasion de cet entretien la charge de travail prévisible sur la période à venir et les adaptations éventuellement nécessaires en termes d'organisation du travail.
-
-  

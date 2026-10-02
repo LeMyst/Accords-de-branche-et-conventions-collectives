@@ -1,12 +1,9 @@
 # Article 2
 
-Les partenaires sociaux décident de mettre à la disposition des entreprises visées à l'article 1er du présent avenant un dispositif facultatif d'activités sociales et culturelles visant à l'amélioration des conditions de bien-être, de travail, de vie et de santé des salariés et de leur famille, désignés ci-après « les bénéficiaires ». Ce dispositif peut prendre la forme d'un catalogue de prestations d'offres de services et d'activités ayant notamment pour objet de faciliter pour les bénéficiaires :  
- – l'accès à la culture ;  
- – l'accès à la pratique des activités physiques et sportives ;  
- – le départ en vacances ;  
- – l'éducation et la garde des enfants ;  
- – les loisirs ;  
- – les services sociaux.
+Il est créé une commission paritaire dite « Commission paritaire des TPE & PME » (« CP-TPME ») ayant pour objet, par ses travaux et avis consultatifs, de proposer à l'ensemble des instances paritaires de la branche des orientations dédiées aux TPE-PME au sens de l'article 3 du décret n° 2008-1354 du 18 décembre 2008.
 
-Le dispositif doit permettre au plus grand nombre de bénéficiaires, et sur l'ensemble du champ territorial visé à l'article 1er du présent avenant, d'accéder à une pluralité de services et d'activités relevant de domaines différents.
+Ces orientations concernent notamment la politique sociale, emploi-formation et de protection sociale complémentaire de la branche.
 
+Les avis consultatifs visent en particulier les projets d'accords soumis à extension qui doivent, conformément à l'article L. 2261-23-1 du code du travail contenir des dispositions spécifiques aux entreprises de moins de 50 salariés, ou justifier de leur absence.
+
+D'une manière générale, la commission traite de tous les sujets qu'ont à connaître les partenaires sociaux en raison de la loi, de la réglementation, ou en opportunité.

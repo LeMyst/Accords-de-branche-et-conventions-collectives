@@ -1,7 +1,6 @@
 # Article 25
 
-  
-Date d'effet. Durée de l'accord
+Date d'effet. Durée de l'accord
 
 Le présent accord est conclu pour une durée indéterminée. Il prend effet le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
@@ -32,5 +31,3 @@ Le présent accord fera l'objet d'une demande d'extension par la partie la plus 
 Conditions d'adhésion à l'accord
 
 Peuvent adhérer au présent accord toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail.
-
-  

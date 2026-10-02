@@ -23,4 +23,3 @@ Depuis, un dispositif spécifique d'activité partielle plus avantageux a été 
 Forts de l'expérience positive qu'a représentée le recours à l'activité partielle, les partenaires sociaux de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseil (IDCC 1486), se sont emparés de ce nouveau dispositif en concluant un accord le 10 septembre 2020 permettant aux entreprises de la branche de mettre en œuvre ce nouveau dispositif par l'intermédiaire d'un document unilatéral.
 
 L'objet du présent document, élaboré sur la base du diagnostic évoqué ci-dessus et dans le respect des stipulations de l'accord de branche [en cas de présence du comité social économique dans l'entreprise : ajouter « et après consultation du CSE »] est de mettre en œuvre ce nouveau dispositif en fonction de la situation et des spécificités de l'entreprise.
-

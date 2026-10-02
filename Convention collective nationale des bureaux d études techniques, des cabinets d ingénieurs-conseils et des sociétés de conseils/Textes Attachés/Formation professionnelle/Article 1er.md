@@ -1,5 +1,4 @@
 # Article 1er
 
-  
-Le présent avenant de révision a pour objet de compléter l'accord de branche du 31 octobre 2019, dans sa version résultant de l'avenant n° 1 conclu le 15 mai 2020, dans les conditions définies par les présentes.
-
+A la suite du titre III « Le développement de la professionnalisation et de l'apprentissage » sont ajoutées les dispositions suivantes :\
+« Ces ressources devront respecter l'affectation d'un minimum de 50 % au financement des actions de formation liées aux contrats de professionnalisation, à des périodes de professionnalisation d'une durée minimum de 120 heures visant une qualification soit enregistrée dans le répertoire national des certifications, soit ouvrant droit à un certificat de qualification professionnelle, au regard des orientations définies par le fonds de sécurisation des parcours professionnels, sous réserves des dispositions législatives et réglementaires en vigueur. »

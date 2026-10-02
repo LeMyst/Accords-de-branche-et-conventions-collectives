@@ -7,4 +7,3 @@ La promotion sociale ou professionnelle ou une reconversion professionnelle sont
 Les certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance (« Pro-A ») dans la branche sont indiquées en annexe au présent accord.
 
 Les partenaires sociaux souhaitent soutenir l'ensemble certifications de branche permettant de répondre à ces besoins de compétences listées en annexe.
-

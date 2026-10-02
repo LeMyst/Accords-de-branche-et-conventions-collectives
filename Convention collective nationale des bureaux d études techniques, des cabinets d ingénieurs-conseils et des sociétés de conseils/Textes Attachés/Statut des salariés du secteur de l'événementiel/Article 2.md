@@ -12,10 +12,9 @@ La rémunération des heures de travail effectuées le dimanche se voit applique
 
 Pour apprécier si cette majoration est perçue par l'intéressé, il est tenu compte des avantages particuliers déjà accordés au titre du travail du dimanche dans l'entreprise et soumis à cotisations sociales.
 
-*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.* (1) 
+*Chaque salarié concerné bénéficie au minimum d'un dimanche de repos par mois civil et de 23 dimanches de repos par année civile ou sur une période quelconque de 12 mois, période servant de référence en cas d'aménagement du temps de travail sur l'année.* (1)
 
 *Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours fériés devront percevoir une rémunération mensuelle brute au moins égale de 1,25 % du salaire minimum hiérarchique correspondant à leur classification.* (1) »
 
- *(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.   
- (Arrêté du 23 septembre 2022 - art. 1)*
-
+*(1) Alinéas étendus sous réserve du respect de l'article L. 2253-3 du code du travail.\
+(Arrêté du 23 septembre 2022 - art. 1)*

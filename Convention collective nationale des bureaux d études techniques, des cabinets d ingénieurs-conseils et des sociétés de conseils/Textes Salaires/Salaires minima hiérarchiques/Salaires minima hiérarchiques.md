@@ -1,2 +1,1 @@
 # Salaires minima hiérarchiques
-

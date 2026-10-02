@@ -32,10 +32,9 @@ La présente convention collective s'applique à toute entité ayant adhéré à
 
 Préambule relatif aux entreprises représentées par les fédérations Syntec et Cinov
 
-Les parties signataires déclarent que les entreprises de la branche ont la particularité commune de prendre en charge des interventions d'études et de réalisation très diverses :  
- – dans leur ampleur : de quelques journées de travail à plusieurs années d'activité pour des équipes complètes ;  
- – dans leur technicité, une même intervention pouvant exiger des spécialistes de profil pointu dans des disciplines variées ;  
- – dans leur localisation, la France entière et le monde entier ;  
- – dans le temps, les dates de déroulement et la durée d'une intervention étant variables et souvent susceptibles d'être remises en cause,  
- et que, par conséquent, pour faire face à ces réalités dans les meilleures conditions d'efficacité et de compétitivité, ces sociétés proposent pour certains de leurs emplois des contrats spécifiant une mission d'intervention.
-
+Les parties signataires déclarent que les entreprises de la branche ont la particularité commune de prendre en charge des interventions d'études et de réalisation très diverses :\
+– dans leur ampleur : de quelques journées de travail à plusieurs années d'activité pour des équipes complètes ;\
+– dans leur technicité, une même intervention pouvant exiger des spécialistes de profil pointu dans des disciplines variées ;\
+– dans leur localisation, la France entière et le monde entier ;\
+– dans le temps, les dates de déroulement et la durée d'une intervention étant variables et souvent susceptibles d'être remises en cause,\
+et que, par conséquent, pour faire face à ces réalités dans les meilleures conditions d'efficacité et de compétitivité, ces sociétés proposent pour certains de leurs emplois des contrats spécifiant une mission d'intervention.

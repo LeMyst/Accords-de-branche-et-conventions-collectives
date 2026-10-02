@@ -30,7 +30,7 @@ Les droits figurant au sein du présent avenant sont accordés dans le cadre dé
 
 Toute demande de révision est obligatoirement accompagnée d'une proposition de rédaction nouvelle. Celle-ci est notifiée par lettre recommandée avec accusé de réception à chacune des autres parties signataires.
 
-*Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir de la réception par l'ensemble des parties de cette lettre, les parties devront s'être rencontrées en vue de la conclusion éventuelle d'un avenant de révision.*  (1) 
+*Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir de la réception par l'ensemble des parties de cette lettre, les parties devront s'être rencontrées en vue de la conclusion éventuelle d'un avenant de révision.* (1)
 
 Cet avenant est soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
@@ -38,6 +38,5 @@ Dénonciation
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 6 mois. Ce préavis doit être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
 
- *(1) L'alinéa 4 du paragraphe « Conditions de révision de l'accord » de l'article 3 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.    
+*(1) L'alinéa 4 du paragraphe « Conditions de révision de l'accord » de l'article 3 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.\
 (Arrêté du 26 mars 2026 - art. 1)*
-

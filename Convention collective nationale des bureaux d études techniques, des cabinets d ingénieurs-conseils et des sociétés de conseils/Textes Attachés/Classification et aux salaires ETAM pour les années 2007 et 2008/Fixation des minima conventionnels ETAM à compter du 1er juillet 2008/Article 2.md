@@ -1,16 +1,13 @@
 # Article 2
 
-A compter du 1er juillet 2008, les salaires minima conventionnels seront déterminés selon la formule suivante :  
-Salaire minimum conventionnel = partie fixe + (valeur du point ETAM × coefficient de la position).  
+A compter du 1er juillet 2008, les salaires minima conventionnels seront déterminés selon la formule suivante :\
+Salaire minimum conventionnel = partie fixe + (valeur du point ETAM × coefficient de la position).\
 La valeur du point est fixée à compter du 1er juillet 2008 à 2,66 Euros brut et la partie fixe à 734 Euros brut ; les minima conventionnels découlant de l'application de la formule ETAM s'établissent pour toutes les entreprises de la branche, adhérentes ou non à une organisation patronale, aux valeurs suivantes :
 
-Minima conventionnels à compter du 1er juillet 2008 
-
-  
-
+Minima conventionnels à compter du 1er juillet 2008
 
 | POSITION | COEFFICIENT | SALAIRE MINIMUM BRUT |
-| --- | --- | --- |
+| -- | -- | -- |
 | 1.3.1 | 220 | 1 319 |
 | 1.3.2 | 230 | 1 346 |
 | 1.4.1 | 240 | 1 372 |

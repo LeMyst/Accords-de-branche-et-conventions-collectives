@@ -9,4 +9,3 @@ En application de l'article R. 242-1-1, alinéa 2 du code de la sécurité socia
 Le présent accord est déposé par la partie la plus diligente et fera l'objet d'une demande d'extension auprès du ministre chargé de la sécurité sociale dans le cadre des dispositions légales et réglementaires en vigueur.
 
 Après avoir lu et paraphé chacune des pages précédentes, les représentants signataires ont approuvé l'accord au nom de leur organisation.
-

@@ -11,4 +11,3 @@ b) Pour les salariés dont le temps de travail est décomposé selon les modalit
 Pour ces salariés, les heures ainsi effectuées sont rémunérées, augmentées d'une majoration.
 
 Cette majoration peut prendre, au choix du salarié, la forme d'une compensation pécuniaire à hauteur de 100 % du taux horaire du salarié concerné ou d'un repos accordé dans la même proportion de 100 %.
-

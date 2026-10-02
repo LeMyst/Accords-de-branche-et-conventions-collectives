@@ -22,19 +22,16 @@ Chaque mise en oeuvre effective d'une UTE constitue un engagement de mise en app
 
 4.4. Taux de rémunération ou récupération : les unités de travaux exceptionnels (UTE) réalisées sont récupérées ou rémunérées au choix du salarié, avec les coefficients de majoration suivants :
 
-:------------------:-------:-------:
+:\------------------:-------:-------:
 
-
-
+|  | EN | DE 20 H |
+| -- | -- | -- |
+|  | JOURNEE | A 6 H |
+| Semaine | - | 1,50 |
+| Samedi | 1,25 | 1,75 |
 |  |  |  |
-| --- | --- | --- |
-|  | EN  | DE 20 H |
-|  | JOURNEE | A 6 H  |
-| Semaine  | -  | 1,50  |
-| Samedi  | 1,25  | 1,75  |
-|  |  |  |
-| Dimanche et jours  |  |  |
-| fériés  | 1,75  | 2,00  |
+| Dimanche et jours |  |  |
+| fériés | 1,75 | 2,00 |
 
 A partir de la troisième UTE effectuée dans la semaine, les taux précédents sont majorés de 0,25.
 
@@ -46,5 +43,4 @@ La récupération devra s'effectuer dans un délai de 10 semaines à une date fi
 
 4.6. Conditions pratiques d'exercice des droits : les conditions pratiques d'exercice des droits ci-dessus sont précisées au sein de chaque entreprise dans le cadre de la législation en vigueur.
 
- *NOTA : Arrêté du 30 mars 1999 art. 1 : Le deuxième alinéa du paragraphe 4.2 de l'article 4 est étendu sous réserve de l'application des articles L. 212-5 et suivants du code du travail.*
-
+*NOTA : Arrêté du 30 mars 1999 art. 1 : Le deuxième alinéa du paragraphe 4.2 de l'article 4 est étendu sous réserve de l'application des articles L. 212-5 et suivants du code du travail.*

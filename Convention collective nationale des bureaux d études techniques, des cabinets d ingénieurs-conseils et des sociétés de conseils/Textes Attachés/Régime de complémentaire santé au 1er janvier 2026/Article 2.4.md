@@ -4,5 +4,4 @@
 
 (Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, **page 21**.)
 
- https://www.legifrance.gouv.fr/download/file/pdf/boc\_20250015\_0000\_0005.pdf/BOCC 
-
+https://www.legifrance.gouv.fr/download/file/pdf/boc_20250015_0000_0005.pdf/BOCC

@@ -17,4 +17,3 @@ Entrent dans le cadre de formations pouvant donner lieu à coïnvestissement :
 Des dispositions propres à l'entreprise ou à l'établissement peuvent être établies par voie d'accord avec les représentants des organisations syndicales signataires avant l'élaboration du plan de formation.
 
 *(1) Alinéa étendu sous réserve de l'application de l'article L. 932-1 du code du travail (*arrêté du 21 décembre 1999, art. 1er)*.*
-

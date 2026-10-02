@@ -1,6 +1,6 @@
 # Article 11.6
 
-1. Modification du lieu de travail
+1. Modification du lieu de travail
 
 En l'absence de clause de mobilité dans le contrat de travail
 
@@ -24,7 +24,7 @@ Lorsqu'elle est mise en œuvre de bonne foi, la modification du lieu de travail 
 
 La clause de mobilité s'impose au salarié, sauf si la modification du lieu de travail entraîne des conséquences sur tout autre élément essentiel du contrat de travail. Dans ce cas, un avenant au contrat de travail doit être proposé au salarié conformément à l'article 3.5 de la convention collective.
 
-2. Modification du lieu de travail entraînant un changement de résidence
+2. Modification du lieu de travail entraînant un changement de résidence
 
 Remboursement des frais
 
@@ -51,4 +51,3 @@ L'évaluation de la limite maximale de prise en charge des frais occasionnés pa
 Décès du salarié dont le lieu de travail a été modifié
 
 En cas de décès d'un salarié au lieu de sa nouvelle résidence, les frais occasionnés, par le retour de sa famille (conjoint[e] et personne[s] à charge) ainsi que les frais éventuels de retour du corps au lieu de résidence initiale sont à la charge de l'employeur, dans les conditions fixées au 2 du présent article.
-

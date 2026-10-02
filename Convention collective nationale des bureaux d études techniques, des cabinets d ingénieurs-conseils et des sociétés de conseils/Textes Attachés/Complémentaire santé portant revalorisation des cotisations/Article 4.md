@@ -7,4 +7,3 @@ Le présent avenant est conclu pour une durée indéterminée et prend effet à 
 Il s'incorpore à l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail.
-

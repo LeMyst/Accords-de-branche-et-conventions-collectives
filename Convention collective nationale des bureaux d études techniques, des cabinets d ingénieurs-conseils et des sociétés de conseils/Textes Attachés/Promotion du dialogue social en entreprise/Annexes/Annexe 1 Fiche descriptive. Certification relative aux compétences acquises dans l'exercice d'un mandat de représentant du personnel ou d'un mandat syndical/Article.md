@@ -10,11 +10,11 @@ Résumé de la certification
 
 À travers l'exercice de leur mandat, qui réclame des connaissances et des aptitudes variées, les représentants du personnel et les délégués syndicaux développent des compétences multiples. La certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical constitue pour ces bénéficiaires un véritable atout pour faire valoir leurs compétences, acquérir une nouvelle qualification et évoluer professionnellement. Elle vise, par équivalence directe avec une partie d'une certification professionnelle existante, à créer des passerelles vers des métiers qui ne sont pas nécessairement les métiers d'origine des mandataires. Elle peut permettre ainsi la prise en compte des compétences acquises au cours d'un mandat syndical ou de représentant du personnel dans une suite de parcours professionnel.
 
-Pour le candidat :  
- – chaque certificats de compétences professionnelles (CCP) transférable acquis facilite le positionnement sur une certification professionnelle en lien avec son expérience de mandataire et son projet de transition professionnelle ;  
- – chaque CCP transférable acquis est un moyen de réduire un parcours de formation menant à une certification professionnelle ;  
- – chaque CCP transférable acquis favorise une reconnaissance métier qui peut conforter la recevabilité d'une demande de VAE pour l'obtention d'une certification professionnelle ;  
- – les conditions d'obtention des CCP transférables seront garanties et contrôlées par le ministère du travail. En ce sens, les certifications délivrées seront un gage de validité des compétences déclarées.
+Pour le candidat :\
+– chaque certificats de compétences professionnelles (CCP) transférable acquis facilite le positionnement sur une certification professionnelle en lien avec son expérience de mandataire et son projet de transition professionnelle ;\
+– chaque CCP transférable acquis est un moyen de réduire un parcours de formation menant à une certification professionnelle ;\
+– chaque CCP transférable acquis favorise une reconnaissance métier qui peut conforter la recevabilité d'une demande de VAE pour l'obtention d'une certification professionnelle ;\
+– les conditions d'obtention des CCP transférables seront garanties et contrôlées par le ministère du travail. En ce sens, les certifications délivrées seront un gage de validité des compétences déclarées.
 
 • Compétences attestées :
 
@@ -48,11 +48,11 @@ Périmètre de la validation partielle : la certification est composée de six (
 
 Secteur d'activité
 
-Références juridiques des règlementations d'activité :  
- – arrêté du 18 juin 2018 portant création de la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical NOR : MTRD1816141A ;  
- https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816141A/ jo/ texte ;  
- – arrêté du 18 juin 2018 fixant les modalités d'équivalence entre la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical et plusieurs titres professionnels du ministère chargé de l'emploi NOR : MTRD1816142A.  
- https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816142A/ jo/ texte.
+Références juridiques des règlementations d'activité :\
+– arrêté du 18 juin 2018 portant création de la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical NOR : MTRD1816141A ;\
+https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816141A/ jo/ texte ;\
+– arrêté du 18 juin 2018 fixant les modalités d'équivalence entre la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical et plusieurs titres professionnels du ministère chargé de l'emploi NOR : MTRD1816142A.\
+https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816142A/ jo/ texte.
 
 Voies d'accès
 
@@ -60,23 +60,18 @@ Le cas échant, prérequis à l'entrée en formation : justifier de l'exercice d
 
 Validité des composantes acquises :
 
-
-
 | Voie d'accès à la certification | Oui | Non | Composition des jurys |
-| --- | --- | --- | --- |
+| -- | -- | -- | -- |
 | Après un parcours de formation sous statut d'élève ou d'étudiant |  | X |  |
 | En contrat d'apprentissage |  | X |  |
 | Après un parcours de formation continue |  | X |  |
 | En contrat de professionnalisation |  | X |  |
-| Par candidature individuelle | X |  | Le candidat est évalué par un jury composé de membres habilités par le certificateur dont au moins un professionnel habilité pour le titre professionnel dont un ou plusieurs certificats de compétences professionnelles font l'objet d'une équivalence avec le certificat de compétences professionnelles visé Un membre issu d'une organisation syndicale représentative au niveau national ayant exercé un mandat de représentant du personnel ou un mandat syndical. Celui-ci est habilité, sur la base des propositions des organisations syndicales représentatives au niveau national et des demandes individuelles adressées au certificateur pour l'ensemble des certificats de compétences professionnelles constitutifs de la certification et pour la durée de validité de la certification |
+| Par candidature individuelle | X |  | Le candidat est évalué par un jury composé de membres habilités par le certificateur dont au moins un professionnel habilité pour le titre professionnel dont un ou plusieurs certificats de compétences professionnelles font l'objet d'une équivalence avec le certificat de compétences professionnelles visé<br>Un membre issu d'une organisation syndicale représentative au niveau national ayant exercé un mandat de représentant du personnel ou un mandat syndical. Celui-ci est habilité, sur la base des propositions des organisations syndicales représentatives au niveau national et des demandes individuelles adressées au certificateur pour l'ensemble des certificats de compétences professionnelles constitutifs de la certification et pour la durée de validité de la certification |
 
 Base légale
 
-
-
-|  |  |
-| --- | --- |
 | Date de décision | 15/10/2021 |
+| -- | -- |
 | Durée de l'enregistrement en années | 5 |
 | Date d'échéance de l'enregistrement | 15/10/2026 |
 
@@ -84,10 +79,8 @@ Pour plus d'informations
 
 • Statistiques :
 
-
-
-| Année d'obtention de la certification | Nombre de certifiés | Nombre de certifiés par reconnaissance de l'expérience professionnelle |
-| --- | --- | --- |
+| Année d'obtention<br>de la certification | Nombre de certifiés | Nombre de certifiés par reconnaissance<br>de l'expérience professionnelle |
+| -- | -- | -- |
 | 2020 | 47 | 0 |
 | 2019 | 46 | 0 |
 | 2018 | 16 | 0 |
@@ -96,21 +89,18 @@ Pour plus d'informations
 
 Page dédiée sur le site du ministère du travail :
 
- https :// travail-emploi. gouv. fr/ dialogue-social/ le-comite-social-et-economique/ certification-mandates 
+https :// travail-emploi. gouv. fr/ dialogue-social/ le-comite-social-et-economique/ certification-mandates
 
 Liste complète des organismes préparant à la certification :
 
- https :// certifpro. francecompetences. fr/ webapp/ services/ edition/ exportPartenaireSp/21680/ true 
+https :// certifpro. francecompetences. fr/ webapp/ services/ edition/ exportPartenaireSp/21680/ true
 
 • Certification (s) antérieure (s) :
 
-
-
 | N° de la fiche | Intitulé de la certification remplacée |
-| --- | --- |
+| -- | -- |
 | RS4214 | Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical. |
 
 • Référentiel d'activité, de compétences et d'évaluation :
 
- https :// certifpro. francecompetences. fr/ api/ enregistrementDroit/ refActivity/21680/288518 
-
+https :// certifpro. francecompetences. fr/ api/ enregistrementDroit/ refActivity/21680/288518

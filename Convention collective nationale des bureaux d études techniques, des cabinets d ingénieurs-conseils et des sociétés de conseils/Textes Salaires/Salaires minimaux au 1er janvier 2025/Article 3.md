@@ -45,4 +45,3 @@ Peuvent adhérer au présent accord toute organisation syndicale de salariés re
 Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 Les stipulations du présent accord relatives aux salaires minimaux de branche permettant une régulation économique équitable entre toutes les entreprises de la branche s'appliquent indistinctement à tous les salariés des entreprises relevant de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils, quel que soit leur effectif (art. L. 2261-23-1 du code du travail). Certaines stipulations découlant d'obligations légales concernent néanmoins les seules entreprises de 50 salariés et plus.
-

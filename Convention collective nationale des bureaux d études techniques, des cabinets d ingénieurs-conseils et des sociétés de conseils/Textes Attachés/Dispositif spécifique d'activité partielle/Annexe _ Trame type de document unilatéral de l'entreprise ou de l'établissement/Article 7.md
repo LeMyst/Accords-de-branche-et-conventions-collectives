@@ -17,4 +17,3 @@ Cette stipulation s'applique également aux salariés figurant sur la liste des 
 La question des dividendes a été examinée par [le conseil d'administration, le conseil de surveillance… – préciser] en tenant pleinement compte des circonstances économiques de l'entreprise et des efforts demandés aux salariés.
 
 [Compléter en précisant la nature des efforts ou l'absence d'efforts]
-

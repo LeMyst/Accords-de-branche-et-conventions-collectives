@@ -1,15 +1,14 @@
 # Article 7.1
 
-  
 Le salaire est basé sur la durée légale ou conventionnelle du travail.
 
-Les salaires minimaux hiérarchiques excluent :  
- – les primes d'assiduité, de participation et d'intéressement ;  
- – les primes et gratifications de caractère exceptionnel ;  
- – les remboursements de frais ;  
- – les indemnités en cas de déplacement ou détachement ;  
- – la rémunération des heures supplémentaires et complémentaires ;  
- – l'indemnité compensatrice de congés payés.
+Les salaires minimaux hiérarchiques excluent :\
+– les primes d'assiduité, de participation et d'intéressement ;\
+– les primes et gratifications de caractère exceptionnel ;\
+– les remboursements de frais ;\
+– les indemnités en cas de déplacement ou détachement ;\
+– la rémunération des heures supplémentaires et complémentaires ;\
+– l'indemnité compensatrice de congés payés.
 
 Les salaires minimaux hiérarchiques incluent les avantages en nature évalués d'un commun accord et mentionnés dans le contrat de travail.
 
@@ -24,6 +23,3 @@ Les salaires minimaux hiérarchiques des ETAM sont déterminés selon la formule
 Salaire minimal hiérarchique = base fixe + (valeur du point ETAM × coefficient de la position)
 
 Les salaires minimaux hiérarchiques relatifs à chaque emploi des ingénieurs et cadres sont déterminés par l'application aux coefficients hiérarchiques des valeurs du point de rémunération correspondantes.
-
-  
-  

@@ -31,4 +31,3 @@ Article 26.3 Recouvrement des contributions conventionnelles au développement d
 Les partenaires sociaux gèrent et organisent la mutualisation de ces fonds au sein de l'Opco Atlas « Soutenir les compétences », opérateur de compétences auquel ils confient également la mise en œuvre de la collecte de cette contribution.
 
 Il est convenu que la première collecte des contributions conventionnelles susvisées interviendra au cours de l'année suivant la date d'entrée en vigueur du présent accord, et au plus tôt pour la collecte au titre de masse salariale annuelle brute 2023.
-

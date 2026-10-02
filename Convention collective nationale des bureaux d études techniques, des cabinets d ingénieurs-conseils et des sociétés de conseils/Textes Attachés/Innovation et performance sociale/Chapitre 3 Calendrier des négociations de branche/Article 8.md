@@ -22,5 +22,4 @@ En fonction de l'actualité et de l'ambition partagée des partenaires sociaux �
 
 (Tableau non reproduit, consultable en ligne sur le site www.legifrance.gouv.fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives ».)
 
- https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc\_20210048\_0000\_0008.pdf 
-
+https://www.legifrance.gouv.fr/download/pdf/bocc?id=boc_20210048_0000_0008.pdf

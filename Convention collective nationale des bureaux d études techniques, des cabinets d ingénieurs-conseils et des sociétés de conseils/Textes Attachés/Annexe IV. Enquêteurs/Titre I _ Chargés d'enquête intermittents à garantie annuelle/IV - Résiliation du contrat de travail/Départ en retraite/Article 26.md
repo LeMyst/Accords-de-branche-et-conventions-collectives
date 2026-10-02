@@ -13,4 +13,3 @@ Si l'employeur ne procède pas à cette notification, le contrat de travail se p
 - 2 mois, s'il a au moins 2 ans d'ancienneté.
 
 3° La résiliation du contrat de travail, à l'initiative de l'employeur ou du chargé d'enquête intermittent à garantie annuelle dans les conditions fixées aux alinéas 1 et 2 ci-dessus, ne donne pas lieu à attribution d'heures d'absence pour recherche d'emploi.
-

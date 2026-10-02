@@ -9,4 +9,3 @@ En cas de fusion, de cession, de scission ou de changement d'activité, les stip
 Cette négociation d'adaptation aux nouvelles stipulations a pour objet de mettre en place un statut unique du personnel et d'éviter ainsi la constitution de deux catégories de salariés, les salariés « anciens » continuant à bénéficier des clauses antérieures qui n'évoluent plus et des salariés « nouveaux » auxquels s'appliquerait la nouvelle convention collective.
 
 En cas d'échec de la négociation visée à l'alinéa précédent, les salariés concernés par cette mise en cause bénéficient, conformément aux dispositions du code du travail, d'une garantie de rémunération dont le montant annuel, pour une durée de travail équivalente à celle prévue par leur contrat de travail, ne peut être inférieur à la rémunération versée, en application de la convention collective mise en cause, lors des 12 derniers mois.
-

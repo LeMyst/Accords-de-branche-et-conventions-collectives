@@ -1,5 +1,4 @@
 # Article 4
 
-  
-Les modalités de suivi du présent avenant sont identiques à celles prévues à l'article 28 de l'accord de branche du 31 octobre 2019 dans sa version complétée, résultant de l'avenant n° 1 conclu le 15 mai 2020.
-
+Le présent avenant entrera en vigueur à compter du premier jour du mois civil qui suit la publication de son arrêté ministériel d'extension au Journal officiel.\
+Il sera déposé par la partie la plus diligente, conformément aux articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2232 du code du travail (art. L. 132-10 ancien du code du travail) et les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.

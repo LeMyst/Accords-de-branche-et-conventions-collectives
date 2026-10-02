@@ -2,13 +2,10 @@
 
 Annexe
 
-Salaires minimaux des «  ETAM  »
-
-  
-
+Salaires minimaux des « ETAM »
 
 | Position | Coefficient | Salaires minimaux |
-| --- | --- | --- |
+| -- | -- | -- |
 | 1.1 | 240 | 1 815 € |
 | 1.2 | 250 | 1 845 € |
 | 2.1 | 275 | 1 875 € |
@@ -20,13 +17,10 @@ Salaires minimaux des «  ETAM  »
 
 À l'occasion du prochain cycle de négociation sur les salaires minimaux devant s'ouvrir en 2025, en application de l'article 7.1 de la convention collective, les organisations professionnelles s'engagent à présenter une proposition d'augmentation des salaires minimaux de la grille des ETAM de 20 euros par mois.
 
-Salaires minimaux des « Ingénieurs et cadres  »
-
-  
-
+Salaires minimaux des « Ingénieurs et cadres »
 
 | Position | Coefficient | Salaires minimaux |
-| --- | --- | --- |
+| -- | -- | -- |
 | 1.1 | 95 | 2 135 € |
 | 1.2 | 100 | 2 240 € |
 | 2.1 | 105 | 2 315 € |
@@ -38,4 +32,3 @@ Salaires minimaux des « Ingénieurs et cadres  »
 | 3.3 | 270 | 5 755 € |
 
 À l'occasion du prochain cycle de négociation sur les salaires minimaux devant s'ouvrir en 2025, en application de l'article 7.1 de la convention collective, les organisations professionnelles s'engagent à présenter une proposition d'augmentation des salaires minimaux de la grille des ingénieurs et cadres (IC) de 20 euros par mois.
-

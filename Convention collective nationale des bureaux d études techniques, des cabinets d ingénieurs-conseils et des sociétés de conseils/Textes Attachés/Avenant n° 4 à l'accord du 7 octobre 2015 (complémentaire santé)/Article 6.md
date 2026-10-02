@@ -9,4 +9,3 @@ Les dispositions du présent accord permettent une régulation économique équi
 Le présent avenant est conclu pour une durée indéterminée. Il prend effet à compter du 1er janvier 2021. Il s'incorpore à l'accord de branche du 7 octobre 2015 qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail.
-

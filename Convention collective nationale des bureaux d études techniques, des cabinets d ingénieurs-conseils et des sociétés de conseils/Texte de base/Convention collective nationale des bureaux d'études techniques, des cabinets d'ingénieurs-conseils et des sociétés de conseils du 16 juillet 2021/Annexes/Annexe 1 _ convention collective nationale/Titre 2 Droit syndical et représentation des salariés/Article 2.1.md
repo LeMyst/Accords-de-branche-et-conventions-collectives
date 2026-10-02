@@ -2,7 +2,7 @@
 
 L'exercice du droit syndical est reconnu dans toutes les entreprises et s'effectue conformément aux dispositions légales en vigueur.
 
-1. Liberté d'opinion
+1. Liberté d'opinion
 
 Les parties contractantes reconnaissent le droit pour tous de s'associer et d'agir librement pour la défense collective de leurs intérêts professionnels.
 
@@ -18,7 +18,7 @@ Si le bien-fondé d'un licenciement est contesté parce que ce licenciement aura
 
 Cette intervention ne fait pas obstacle au droit pour les parties d'obtenir judiciairement réparation du préjudice causé.
 
-2. Absences autorisées
+2. Absences autorisées
 
 Des absences non rémunérées sont accordées aux salariés mandatés par leurs organisations syndicales pour participer, d'une part, à leurs réunions statutaires et, d'autre part, à une réunion préparatoire pour chaque réunion de la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
@@ -34,7 +34,7 @@ Le nombre de salariés d'une même entreprise autorisés à s'absenter simultan�
 
 Les employeurs et les organisations syndicales représentatives au niveau national en cause s'efforceront, dans les cas visés aux alinéas 1 et 4 ci-dessus, de faire en sorte que ces absences n'apportent pas de gêne appréciable à la marche générale de l'entreprise ou au libre exercice du droit syndical.
 
-3. Communication syndicale
+3. Communication syndicale
 
 L'affichage des communications syndicales s'effectue librement sur des panneaux réservés à cet usage et distincts de ceux qui sont affectés aux communications du comité social et économique (CSE). Un exemplaire de ces communications syndicales est transmis à l'employeur simultanément à l'affichage.
 
@@ -46,14 +46,13 @@ Conformément à l'article L. 2142-6 du code du travail, un accord d'entreprise 
 
 À défaut d'accord, les organisations syndicales présentes dans l'entreprise et satisfaisant aux critères de respect des valeurs républicaines et d'indépendance, légalement constituées depuis au moins 2 ans peuvent mettre à disposition des publications et tracts sur un site syndical accessible à partir de l'intranet de l'entreprise, lorsqu'il existe.
 
-L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit satisfaire l'ensemble des conditions suivantes :  
- – être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'entreprise ;  
- – ne pas avoir des conséquences préjudiciables à la bonne marche de l'entreprise ;  
- – préserver la liberté de choix des salariés d'accepter ou de refuser un message.
+L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit satisfaire l'ensemble des conditions suivantes :\
+– être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'entreprise ;\
+– ne pas avoir des conséquences préjudiciables à la bonne marche de l'entreprise ;\
+– préserver la liberté de choix des salariés d'accepter ou de refuser un message.
 
 Ces communications, publications et tracts doivent avoir exclusivement pour objet l'étude et la défense des intérêts des salariés et ne doivent revêtir aucun caractère injurieux et/ou diffamatoire.
 
 La direction, les délégués syndicaux et les représentants de sections syndicales prendront en commun toutes les dispositions utiles pour assurer, au moins semestriellement, aux salariés en mission de longue durée pour raisons professionnelles, la transmission de l'information syndicale propre à l'entreprise.
 
 La collecte des cotisations syndicales peut être effectuée à l'intérieur de l'entreprise.
-

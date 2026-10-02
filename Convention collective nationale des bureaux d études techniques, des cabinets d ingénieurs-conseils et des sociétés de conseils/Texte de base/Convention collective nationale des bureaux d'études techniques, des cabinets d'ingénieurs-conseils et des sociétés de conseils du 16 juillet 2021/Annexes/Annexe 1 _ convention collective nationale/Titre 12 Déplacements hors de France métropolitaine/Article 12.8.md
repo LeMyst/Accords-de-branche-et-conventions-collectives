@@ -9,4 +9,3 @@ Le salarié a droit à une indemnité compensatrice à partir du moment où les 
 En cours de déplacement, dans le cas de maladie ou d'accident graves ou de décès du salarié, l'employeur donne toutes les facilités, notamment pour le remboursement des frais de transport, à la venue aux côtés du salarié de toute personne désignée par ses soins.
 
 Les salariés envoyés hors de France métropolitaine sont, sur leur demande, couverts par une assurance, souscrite par l'employeur, contre les risques d'accident (décès, incapacité temporaire, invalidité totale ou partielle), suivant des modalités fixées par l'ordre de mission, et ceci pendant toute la durée de la mission, voyages compris, et, quels que soient les moyens de transport utilisés.
-

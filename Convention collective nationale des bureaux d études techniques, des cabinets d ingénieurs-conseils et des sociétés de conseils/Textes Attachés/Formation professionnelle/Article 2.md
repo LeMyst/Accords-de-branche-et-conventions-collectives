@@ -1,33 +1,16 @@
 # Article 2
 
-L'article 7 de l'accord de branche du 31 octobre 2019 est complété par un article 7.3 comme suit :
+Les dispositions de l'article 3.1.6 « Critères d'éligibilité et prise en charge financière par le FAFIEC » sont annulées et remplacées par les dispositions suivantes :\
+« Les contrats de professionnalisation pris en charge par le FAFIEC concernent les métiers de la branche ainsi que les métiers transverses.\
+Les montants de prises en charge par le FAFIEC sont définis annuellement par la CPNE dans sa note de politique de formation.\
+Les montants et les critères de prise en charge des contrats de professionnalisation par le FAFIEC sont les suivants.
 
-« Article 7.3  
- Allongement de la durée de l'action de professionnalisation et augmentation de la durée des actions en proportion de la durée totale du contrat
-
-Conformément à l'article 7.1 « Objet et durée du contrat de professionnalisation », les partenaires sociaux conviennent d'allonger la durée de l'action de professionnalisation pour certaines qualifications et bénéficiaires.
-
-En application de l'article L. 6325-12 du code du travail, l'allongement de la durée de l'action de professionnalisation est possible pour d'autres personnes que celles mentionnées à l'article L. 6325-11 du code du travail, lesquelles bénéficient déjà d'un allongement légal de l'action de professionnalisation jusqu'à 36 mois depuis l'entrée en vigueur de la loi n° 2018-771 du 5 septembre 2018.
-
-Dans le cadre du présent accord, il est convenu d'un allongement de la durée de l'action de professionnalisation jusqu'à 24 mois pour les bénéficiaires suivants :  
- – les personnes âgées de 16 à 25 ans révolus qui concluent un contrat de professionnalisation afin de compléter leur formation initiale en vue d'acquérir un diplôme ou un titre enregistré au répertoire national des certifications professionnelles (RNCP), ou encore un certificat de qualification professionnelle de branche ou interbranche, y compris lorsque ces personnes ont déjà validé un second cycle de l'enseignement secondaire et sont déjà titulaires d'un diplôme de l'enseignement technologique ou professionnel ;  
- – les demandeurs d'emploi âgés de 26 ans et plus, quelle que soit leur durée d'inscription sur la liste des demandeurs d'emploi, qui concluent un contrat de professionnalisation en vue d'acquérir un diplôme ou un titre enregistré au répertoire national des certifications professionnelles (RNCP), ou encore un certificat de qualification professionnelle de branche ou interbranche.
-
-Il est également convenu d'un allongement de la durée de l'action de professionnalisation jusqu'à 18 mois pour les bénéficiaires suivants :  
- – les personnes âgées de 16 à 25 ans révolus qui concluent un contrat de professionnalisation afin de compléter leur formation initiale en vue d'acquérir l'une des qualifications professionnelles reconnues dans les classifications de la convention collective nationale, y compris lorsque ces personnes ont déjà validé un second cycle de l'enseignement secondaire et sont déjà titulaires d'un diplôme de l'enseignement technologique ou professionnel.
-
-Dans le cadre du présent accord et en application de l'article L. 6325-14 du code du travail, il est convenu de permettre une augmentation jusqu'à à 50 % la durée des actions de positionnement, d'évaluation et d'accompagnement, ainsi que des enseignements généraux, technologiques et professionnels en proportion de la durée totale du contrat de professionnalisation (appréciée par rapport au nombre d'heures de travail découlant dudit contrat de professionnalisation) pour les bénéficiaires suivants :  
- – les personnes âgées de 16 à 25 ans révolus qui concluent un contrat de professionnalisation afin de compléter leur formation initiale en vue d'acquérir un diplôme ou un titre enregistré au répertoire national des certifications professionnelles (RNCP), ou encore un certificat de qualification professionnelle de branche ou interbranche, y compris lorsque ces personnes ont déjà validé un second cycle de l'enseignement secondaire et sont déjà titulaires d'un diplôme de l'enseignement technologique ou professionnel ;  
- – les demandeurs d'emploi âgés de 26 ans et plus, quelle que soit leur durée d'inscription sur la liste des demandeurs d'emploi, qui concluent un contrat de professionnalisation en vue d'acquérir un diplôme ou un titre enregistré au répertoire national des certifications professionnelles (RNCP), ou encore un certificat de qualification professionnelle de branche ou interbranche.
-
-Le tableau ci-après exposé récapitule les différentes règles légales et conventionnelles découlant du présent accord :
-
-  
-
-
-|  | Bénéficiaires | Qualification visée/ sanction de la formation | Amplitude/ durée de l'action de professionnalisation | Durée de la formation (en pourcentage du temps de travail) [1] |
-| --- | --- | --- | --- | --- |
-| Niveau du bénéficiaire | Tous niveaux d'entrée | Diplôme ou titre enregistré au RNCP CQP et CQPI (art. L. 6314-1 du code du travail) | De 6 à 24 mois | De 15 % à 50 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |
-| Tous niveaux d'entrée | Qualifications reconnues dans les classifications de la convention collective nationale | De 6 à 18 mois | De 15 % à 25 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |
-| [1] La durée de la formation s'apprécie en fonction du nombre de semaines prévues au contrat de professionnalisation \* la durée hebdomadaire \* le coefficient (par exemple 0,15, 0,25, ou 0,50 selon les cas). |
-
+| Qualification visée sanction de la formation | Métiers de la branche et métiers transverses | Niveau d'entrée<br>du bénéficiaire | Amplitude/<br>durée du contrat | Durée de la formation (en % du temps du contrat) | Prise en charge PAR L'OPCA (2) |
+| -- | -- | -- | -- | -- | -- |
+| Diplôme<br>Titre (RNCP) CQP (art. L. 6314-1 et D. 6314-1) | Tous | Bac + 2 et au-delà | De 6 à 24 mois | 15 à 50 %<br>> 150 heures | 14 € par heure et 9,15 € pour les métiers transverses |
+|  | Tous | < ou = bac/ bac + 1 |  |  | 10 € par heure et 9,15 € pour les métiers transverses |
+| Qualifications :<br>– reconnues par la CPNE ;<br>– ou correspondant aux métiers décrits dans les référentiels des métiers de la branche, et les métiers transverses. | Tous | Tous niveaux | De 6 à 18 mois | 15 à 25 % | 10 € par heure et 9,15 € pour les métiers transverses |
+|  |  |  |  | > 150 heures |  |
+|  |  |  | Au-delà du 18e mois | Pas de prise en charge |  |
+| Nouveaux publics (1) | Tous |  | Jusqu'à 24 mois | 15 € par heure |  |
+| (1) Le contrat de professionnalisation est étendu aux bénéficiaires du revenu de solidarité active, de l'allocation de solidarité spécifique, de l'allocation pour adultes handicapés, aux bénéficiaires du RMI et de l'allocation parent isolé en outre-mer, ainsi qu'aux personnes ayant bénéficié du contrat unique d'insertion.<br>L'accès au contrat de professionnalisation est également facilité pour certains jeunes sans qualification.<br>Pour ces publics, la durée du contrat de professionnalisation peut être portée à 24 mois.<br>La prise en charge des contrats de professionnalisation conclus avec ces publics fait l'objet d'une prise en charge spécifique de 15 €.<br>Ces dispositions s'appliquent sous réserve des dispositions législatives et réglementaires en vigueur.<br>(2) Les montants de prise en charge par le FAFIEC applicables en 2011 figurent dans le tableau ci-dessus.<br>Ils pourront être révisés par la CPNE dans sa note de politique de formation, pour les prises en charges postérieures au 31 décembre 2011, dans les limites suivantes :<br>– le montant de 9,15 €, de 9,15 € à 15 € ;<br>– le montant de 10 €, de 10 € à 15 € ;<br>– le montant de 14 €, de 14 € à 20 €.<br>Ces montants ne peuvent être inférieurs à ceux fixés par les dispositions légales et réglementaires en vigueur.<br>Le coût moyen annuel de prise en charge des contrats de professionnalisation ne pouvant excéder 6 800 € au regard des critères de prise en charge du FPSPP (3), la CPNE fixe annuellement et par catégories telles que définies dans le tableau de prise en charge ci-dessus, des plafonds de prise en charge permettant de respecter le montant moyen annuel.<br>(3) Le coût moyen annuel maximum de prise en charge des contrats de professionnalisation est modifié de droit par les critères de péréquation du FPSPP et sous réserve des dispositions légales et réglementaires en vigueur. » |  |  |  |  |  |

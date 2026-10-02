@@ -4,7 +4,7 @@ Les partenaires sociaux de la branche affirment leur souhait de combattre la vio
 
 Les partenaires sociaux ayant conclu l'accord national interprofessionnel du 26 mars 2010 relatif au harcèlement et à la violence au travail, affirmaient « que la persistance des stéréotypes et des tabous ainsi que la non-reconnaissance des phénomènes de harcèlement sexuel, nécessitent une forte sensibilisation à tous les niveaux de la hiérarchie et la mise en place de politiques de prévention, et d'accompagnement dans les entreprises. Il s'agit notamment d'identifier ces stéréotypes et de les démystifier en réfutant les représentations erronées de la place des femmes dans le travail. Une telle démarche s'inscrit notamment dans une approche volontariste et opérationnelle pour combattre ces phénomènes qui peuvent se révéler dans le cadre du travail au travers de situations de harcèlement et de violence au travail ».
 
-Les derniers rapports du Haut conseil à l'égalité (HCE) sur l'état du sexisme en France *(1)* et une étude de l'OPIIEC parue en 2023 sur l'attractivité des métiers du numérique et de l'ingénierie pour les femmes en France, démontrent la persistance de ces phénomènes sexistes *(2)*. Il est rappelé que la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils est composée de cinq secteurs d'activités (numérique, ingénierie, conseil, évènementiel et traduction). La branche ne disposant pas de données statistiques concernant chacun de ces cinq secteurs, seuls les secteurs du numérique et de l'ingénierie seront évoqués au travers de l'étude OPIIEC citée ci-dessus.
+Les derniers rapports du Haut conseil à l'égalité (HCE) sur l'état du sexisme en France *(1)* et une étude de l'OPIIEC parue en 2023 sur l'attractivité des métiers du numérique et de l'ingénierie pour les femmes en France, démontrent la persistance de ces phénomènes sexistes *(2)* . Il est rappelé que la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils est composée de cinq secteurs d'activités (numérique, ingénierie, conseil, évènementiel et traduction). La branche ne disposant pas de données statistiques concernant chacun de ces cinq secteurs, seuls les secteurs du numérique et de l'ingénierie seront évoqués au travers de l'étude OPIIEC citée ci-dessus.
 
 Selon les derniers rapports du HCE, 46 % des femmes ont déjà eu l'impression d'avoir été moins bien traitées au travail en raison de leur sexe et 22 % de femmes ont dû faire face à une situation de harcèlement sexuel dans leur vie professionnelle. Spécifiquement pour les secteurs de numérique et de l'ingénierie, l'étude de l'OPIIEC démontre que les femmes sont plus nombreuses que les hommes à indiquer avoir été victime ou témoin d'agissements sexistes (41 % de femmes contre 18 % d'hommes dans le numérique, et 47 % de femmes contre 21 % d'hommes dans l'ingénierie).
 
@@ -16,12 +16,11 @@ Ces données révèlent donc plusieurs enjeux pour les entreprises de la branche
 
 Conscients de l'impact néfaste des agissements sexistes et du harcèlement sexuel au travail aussi bien sur la santé et la qualité de vie et des conditions de travail des salariés, que sur l'attractivité des métiers de la branche, les partenaires sociaux de la branche des bureaux d'études techniques manifestent, par la conclusion du présent accord de branche, leur volonté de poursuivre l'ambition des négociateurs de l'ANI de 2010 consistant à renforcer la prévention de ces risques, et d'encourager la prise en compte de ces sujets au sein des entreprises de la branche.
 
-Le présent accord de branche a donc deux ambitions :  
- – améliorer la sensibilisation, la compréhension et la prise de conscience des employeurs, des salariés et de leurs représentants à l'égard du harcèlement sexuel et des agissements sexistes afin de mieux prévenir ces phénomènes et les éliminer ;  
- – apporter aux employeurs, aux salariés et à leurs représentants les outils favorisant l'identification, la prévention et la gestion des problèmes de harcèlement sexuel et d'agissements sexistes.
+Le présent accord de branche a donc deux ambitions :\
+– améliorer la sensibilisation, la compréhension et la prise de conscience des employeurs, des salariés et de leurs représentants à l'égard du harcèlement sexuel et des agissements sexistes afin de mieux prévenir ces phénomènes et les éliminer ;\
+– apporter aux employeurs, aux salariés et à leurs représentants les outils favorisant l'identification, la prévention et la gestion des problèmes de harcèlement sexuel et d'agissements sexistes.
 
 Conscients de la spécificité de la branche et de la position de certaines entreprises comme sous-traitantes, les partenaires sociaux ont souhaité aborder cet aspect tout au long de l'accord de branche.
 
-*(1) Études Viavoice pour les rapports HCE 2023 et 2024 sur l'état du sexisme en France.*  
+*(1) Études Viavoice pour les rapports HCE 2023 et 2024 sur l'état du sexisme en France.*\
 *(2) Étude OPIIEC sur l'attractivité des métiers du numérique et de l'ingénierie pour les femmes en France, mai 2023.*
-

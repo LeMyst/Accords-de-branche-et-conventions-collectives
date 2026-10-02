@@ -9,4 +9,3 @@ En complément des actions demandées par le médecin du travail et de ses oblig
 L'employeur confie au médecin du travail ou à des experts des conditions de travail (ergonomes) la réalisation d'une étude sur les postes de travail de l'entreprise.
 
 L'employeur incite les membres du CHSCT, ou à défaut, les délégués du personnel, dans le cadre d'une expertise, à participer aux portes ouvertes organisées par les services de santé. De son côté, l'employeur pourra s'impliquer dans les conseils d'administration et assemblées générales des services de santé au travail.
-

@@ -4,7 +4,7 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-Date d'effet. Durée de l'avenant
+Date d'effet. Durée de l'avenant
 
 Le présent avenant est conclu pour une durée indéterminée.
 
@@ -31,4 +31,3 @@ Cet avenant sera soumis aux règles de validité et de publicité en vigueur au 
 Dénonciation
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 6 mois. Ce préavis devra être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
-

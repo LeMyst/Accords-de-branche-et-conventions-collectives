@@ -5,4 +5,3 @@ Les absences au titre des périodes d'activité accomplies dans la réserve mili
 Pendant ces périodes, les salariés seront rémunérés sur la base de leur salaire mensuel, déduction faite de la solde perçue qui devra être déclarée à l'employeur.
 
 Les absences au titre des périodes d'activité accomplies dans la réserve militaire sont régies par les articles L. 3142-89 à L. 3142-94-1 du code du travail.
-

@@ -7,4 +7,3 @@ La certification professionnelle, qu'elle soit enregistrée au sein du répertoi
 Les diplômes, titres à finalité professionnelle d'une part et les certificats de qualification professionnelle créés par la branche d'autre part participent donc de l'adéquation entre les besoins en compétences du secteur et à la reconnaissance des qualifications de son titulaire.
 
 Depuis plusieurs années, la branche développe une politique de certification professionnelle adaptée à ses métiers. Elle souhaite intensifier la création et l'utilisation de ces certifications, notamment sur les métiers en tension. Au regard de la réorientation des financements de l'alternance vers l'apprentissage, elle étudiera l'opportunité de faire évoluer ces CQP en titres professionnels.
-

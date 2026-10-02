@@ -7,4 +7,3 @@ En cas de licenciement, tout salarié peut quitter son emploi dès l'obtention d
 L'employeur peut dispenser le salarié de l'exécution du préavis. Dans ce cas, une indemnité compensatrice de préavis pour la période de préavis non effectuée est due. À la demande du salarié, l'indemnité compensatrice de préavis, ainsi que toute indemnité éventuellement due en application de la présente convention collective et de son contrat de travail, peut être payée immédiatement et en totalité.
 
 La dispense d'exécution du préavis par l'employeur n'a pas d'incidence sur la date de terme du contrat de travail. Celui-ci prend fin au terme du préavis.
-

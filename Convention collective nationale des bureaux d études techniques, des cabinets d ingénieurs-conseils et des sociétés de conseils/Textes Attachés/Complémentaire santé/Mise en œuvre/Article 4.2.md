@@ -7,5 +7,3 @@ Les entreprises dépourvues de couverture de remboursements complémentaires des
 Les entreprises en création disposent d'un délai de 3 mois pour satisfaire aux garanties prévues par la couverture minimum de branche, et ce auprès de tout organisme de leur choix.
 
 Le présent accord de branche s'impose aux accords d'entreprises, quelle que soit la date de leur conclusion, sauf si l'accord d'entreprise contient des garanties au moins équivalentes.
-
-  

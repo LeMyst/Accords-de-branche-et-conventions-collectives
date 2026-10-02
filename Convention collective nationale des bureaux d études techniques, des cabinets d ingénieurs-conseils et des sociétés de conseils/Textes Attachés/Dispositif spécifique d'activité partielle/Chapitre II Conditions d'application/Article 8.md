@@ -39,4 +39,3 @@ La procédure d'homologation est renouvelée en cas de reconduction ou d'adaptat
 La décision d'homologation ou de validation vaut autorisation d'activité partielle spécifique pour une durée de 6 mois maximum. L'autorisation est renouvelée par période de 6 mois, au vu du bilan mentionné ci-dessous.
 
 L'employeur adresse à l'autorité administrative, avant l'échéance de chaque période d'autorisation d'activité partielle spécifique, un bilan portant sur le respect de ses engagements en termes d'emploi et de formation professionnelle, ainsi que sur les modalités d'information du CSE, s'il existe, sur la mise en œuvre de l'accord. Ce bilan est accompagné d'un diagnostic actualisé de la situation économique et des perspectives d'activité de l'établissement, de l'entreprise ou du groupe, ainsi que du procès-verbal de la dernière réunion au cours de laquelle le CSE, s'il existe, a été informé sur la mise en œuvre du DSAP.
-

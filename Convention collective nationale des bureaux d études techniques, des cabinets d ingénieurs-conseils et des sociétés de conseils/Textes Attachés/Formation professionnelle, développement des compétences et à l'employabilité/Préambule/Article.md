@@ -15,4 +15,3 @@ Il s'inscrit dans la volonté des parties signataires de favoriser le développe
 En particulier, il acte le doublement du taux de la contribution conventionnelle de branche des entreprises de moins de 50 salariés visant à améliorer le niveau de prise en charge des actions de formation de cette catégorie d'entreprises, et donc d'y faire progresser sensiblement le taux de départ en formation.
 
 Cet objectif, qui s'appuie également sur la mutualisation de branche, s'inscrit dans la politique de branche définie annuellement.
-
