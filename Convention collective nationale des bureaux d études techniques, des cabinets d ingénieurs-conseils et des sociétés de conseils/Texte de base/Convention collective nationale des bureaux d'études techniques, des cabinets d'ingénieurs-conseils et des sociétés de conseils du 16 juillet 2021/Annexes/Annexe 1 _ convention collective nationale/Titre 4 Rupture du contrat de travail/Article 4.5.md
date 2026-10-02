@@ -8,13 +8,14 @@ Cette indemnité n'est pas due en cas de faute grave ou lourde.
 
 2. Montant
 
-L'indemnité de licenciement se calcule en mois de rémunération sur les bases suivantes :\
-– concernant les ETAM :\
-– – pour une ancienneté jusqu'à 10 ans : 1/4 de mois pour chaque année de présence ;\
-– – après 10 ans d'ancienneté : 1/3 de mois pour chaque année de présence ;\
-– concernant les ingénieurs et cadres :\
-– – pour une ancienneté inférieure à 2 ans : 1/4 de mois pour chaque année de présence ;\
-– – pour une ancienneté égale ou supérieure à 2 ans : 1/3 de mois pour chaque année de présence.
+L'indemnité de licenciement se calcule en mois de rémunération sur les bases suivantes :
+
+- concernant les ETAM :
+- – pour une ancienneté jusqu'à 10 ans : 1/4 de mois pour chaque année de présence ;
+- – après 10 ans d'ancienneté : 1/3 de mois pour chaque année de présence ;
+- concernant les ingénieurs et cadres :
+- – pour une ancienneté inférieure à 2 ans : 1/4 de mois pour chaque année de présence ;
+- – pour une ancienneté égale ou supérieure à 2 ans : 1/3 de mois pour chaque année de présence.
 
 Le mois de rémunération s'entend comme 1/12 de la rémunération des 12 derniers mois précédant la notification de la rupture du contrat de travail. Cette rémunération inclut les primes prévues par le contrat de travail. Sont exclues les majorations pour heures supplémentaires et les majorations de salaire ou les indemnités liées à un déplacement ou à un détachement.
 

@@ -9,7 +9,8 @@ Ces enveloppes permettront d'assurer des services spécifiques autofinancés par
 Un suivi particulier sera mis en œuvre pour les entreprises de moins de 10 salariés afin qu'elles puissent déployer les formations nécessaires à leurs salariés et, si nécessaire, le conseil d'administration du FAFIEC pourra être amené à utiliser la possibilité de fongibilité descendante prévue par la loi.\
 Les partenaires sociaux finaliseront au cours du premier semestre 2011 les négociations engagées sur :
 
-– la refonte de l'accord formation suite à la loi du 24 novembre 2009 sur la formation professionnelle ;\
-– l'accord sur le renouvellement de l'agrément de l'OPCA de la branche pour répondre aux nouveaux dispositifs de gestion et de mission à travers les contrats d'objectifs et de moyens avec l'Etat.
+- la refonte de l'accord formation suite à la loi du 24 novembre 2009 sur la formation professionnelle ;
 
-*(1) Alinéa exclu de l'extension comme étant contraire aux dispositions des articles L. 6332-3-1 et R. 6332-16 du code du travail* *(arrêté du 14 juin 2011, art. 1er).*
+- l'accord sur le renouvellement de l'agrément de l'OPCA de la branche pour répondre aux nouveaux dispositifs de gestion et de mission à travers les contrats d'objectifs et de moyens avec l'Etat.
+
+  *(1) Alinéa exclu de l'extension comme étant contraire aux dispositions des articles L. 6332-3-1 et R. 6332-16 du code du travail* *(arrêté du 14 juin 2011, art. 1er).*

@@ -6,9 +6,10 @@ Une indemnité est accordée lorsque le contrat de travail prend fin dans les co
 
 Le montant de l'indemnité de départ à la retraite est fixé en fonction de l'ancienneté acquise à la date du départ à la retraite.
 
-Concernant le départ à la retraite :\
-– à 5 ans révolus : 1 mois ;\
-– au-delà, s'y ajoute : 1/5 de mois par année d'ancienneté supplémentaire à compter de la 6e année d'ancienneté.
+Concernant le départ à la retraite :
+
+- à 5 ans révolus : 1 mois ;
+- au-delà, s'y ajoute : 1/5 de mois par année d'ancienneté supplémentaire à compter de la 6e année d'ancienneté.
 
 Le mois de rémunération s'entend comme 1/12 de la rémunération des 12 derniers mois précédant la notification de la rupture du contrat de travail.
 

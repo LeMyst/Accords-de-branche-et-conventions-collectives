@@ -4,9 +4,10 @@
 
 Conscients des enjeux politiques et financiers induits par le sujet, ces derniers ont embrassé les responsabilités qui leur incombaient et ont choisi, d'une part, de moduler les taux de cotisations au régime et, d'autre part, d'adapter le périmètre de couverture minimal à l'évolution des risques sociaux.
 
-À la suite d'une année de réflexions paritaires et, *après avoir été éclairés par leur actuaire-conseil* (1), lesdits partenaires ont, plus spécifiquement, décidé de :\
-– modifier le montant des capitaux décès, afin d'introduire davantage d'équité dans leurs modalités de calcul ;\
-– promouvoir un dispositif d'assistance aux aidants, en vue de prendre en compte l'augmentation de la probabilité de réalisation du risque de dépendance.
+À la suite d'une année de réflexions paritaires et, *après avoir été éclairés par leur actuaire-conseil* (1), lesdits partenaires ont, plus spécifiquement, décidé de :
+
+- modifier le montant des capitaux décès, afin d'introduire davantage d'équité dans leurs modalités de calcul ;
+- promouvoir un dispositif d'assistance aux aidants, en vue de prendre en compte l'augmentation de la probabilité de réalisation du risque de dépendance.
 
 Par ailleurs, il a également été décidé de réviser les modalités de revalorisation des prestations périodiques, afin que ces dernières soient mises en conformité avec les exigences portées par la règlementation assurantielle.
 

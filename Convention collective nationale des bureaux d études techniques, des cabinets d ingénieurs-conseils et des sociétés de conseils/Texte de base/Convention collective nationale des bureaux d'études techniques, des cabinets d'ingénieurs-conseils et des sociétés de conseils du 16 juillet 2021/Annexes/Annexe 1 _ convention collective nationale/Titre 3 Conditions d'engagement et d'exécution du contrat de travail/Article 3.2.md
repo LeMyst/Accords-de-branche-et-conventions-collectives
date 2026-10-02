@@ -1,15 +1,16 @@
 # Article 3.2
 
-Il est remis à tout salarié au moment de son engagement un contrat de travail, comportant notamment les indications suivantes :\
-– la durée du contrat ;\
-– la date d'entrée dans l'entreprise ;\
-– la fonction occupée ;\
-– la classification et le coefficient hiérarchique ;\
-– le lieu d'emploi ;\
-– la période d'essai, le cas échéant ;\
-– le montant du salaire mensuel et/ou annuel ;\
-– les éventuels autres éléments de rémunération directs ou indirects ;\
-– la clause de mobilité géographique, le cas échéant.
+Il est remis à tout salarié au moment de son engagement un contrat de travail, comportant notamment les indications suivantes :
+
+- la durée du contrat ;
+- la date d'entrée dans l'entreprise ;
+- la fonction occupée ;
+- la classification et le coefficient hiérarchique ;
+- le lieu d'emploi ;
+- la période d'essai, le cas échéant ;
+- le montant du salaire mensuel et/ou annuel ;
+- les éventuels autres éléments de rémunération directs ou indirects ;
+- la clause de mobilité géographique, le cas échéant.
 
 Des mentions spécifiques doivent être ajoutées dans le contrat de travail notamment en cas de travail à temps partiel, travail à durée déterminée, travail dans le cadre d'un forfait en jours ou en heures.
 

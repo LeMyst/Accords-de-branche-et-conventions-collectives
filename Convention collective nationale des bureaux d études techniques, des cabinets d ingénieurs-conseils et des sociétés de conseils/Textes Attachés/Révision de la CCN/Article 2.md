@@ -4,10 +4,11 @@ L'article 3.4 de l'annexe 1 de l'avenant n° 46 à la convention collective nati
 
 « La période d'essai et la possibilité de la renouveler ne se présument pas. Elles sont expressément stipulées dans la proposition d'embauche ou le contrat de travail.
 
-La durée de la période d'essai et de son renouvellement est la suivante :\
-– du coefficient 230 au coefficient 355 inclus de la grille de classification des emplois ETAM, la période d'essai est de 2 mois maximum. Elle peut être renouvelée pour une durée de 2 mois maximum ;\
-– du coefficient 400 au coefficient 500 inclus de la grille de classification des emplois ETAM, la période d'essai est de 3 mois maximum. Elle peut être renouvelée pour une durée de 3 mois maximum ;\
-– du coefficient 95 au coefficient 270 de la grille de classification des emplois ingénieurs et cadres, la période d'essai est de 4 mois maximum. Elle peut être renouvelée pour une durée de 4 mois maximum.
+La durée de la période d'essai et de son renouvellement est la suivante :
+
+- du coefficient 230 au coefficient 355 inclus de la grille de classification des emplois ETAM, la période d'essai est de 2 mois maximum. Elle peut être renouvelée pour une durée de 2 mois maximum ;
+- du coefficient 400 au coefficient 500 inclus de la grille de classification des emplois ETAM, la période d'essai est de 3 mois maximum. Elle peut être renouvelée pour une durée de 3 mois maximum ;
+- du coefficient 95 au coefficient 270 de la grille de classification des emplois ingénieurs et cadres, la période d'essai est de 4 mois maximum. Elle peut être renouvelée pour une durée de 4 mois maximum.
 
 Le renouvellement de la période d'essai est exceptionnel et doit faire l'objet d'un accord écrit du salarié et de l'employeur.
 

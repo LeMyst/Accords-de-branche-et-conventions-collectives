@@ -30,9 +30,10 @@ Pour un même emploi, un positionnement identique au sein de la classification d
 
 Au retour des congés maternité ou d'adoption
 
-À l'issue du congé de maternité ou d'adoption, la personne salariée bénéficie :\
-– des augmentations générales éventuellement accordées au sein de l'entreprise pendant son congé ;\
-– ainsi que de la moyenne (ou de la médiane si celle-ci est plus favorable au salarié) des augmentations individuelles perçues pendant la durée de ce congé par les salariés de l'entreprise relevant de la même catégorie professionnelle, à ancienneté et compétence équivalentes.
+À l'issue du congé de maternité ou d'adoption, la personne salariée bénéficie :
+
+- des augmentations générales éventuellement accordées au sein de l'entreprise pendant son congé ;
+- ainsi que de la moyenne (ou de la médiane si celle-ci est plus favorable au salarié) des augmentations individuelles perçues pendant la durée de ce congé par les salariés de l'entreprise relevant de la même catégorie professionnelle, à ancienneté et compétence équivalentes.
 
 Lorsque cette comparaison n'est pas possible du fait de la taille ou de la structure de l'entreprise, il est possible de retenir une moyenne calculée sur un groupe élargi ou représentatif, dans le respect du principe d'égalité de traitement.
 

@@ -2,9 +2,10 @@
 
 Les dispositions légales et conventionnelles relatives à la santé et la sécurité au travail sont applicables à une organisation de travail hybride. Ces règles s'appliquent sur l'ensemble des temps, aussi bien ceux passés par le salarié dans les locaux de l'entreprise que ceux passés en télétravail.
 
-Ainsi, le travailleur hybride bénéficie notamment :\
-– des services de prévention et santé au travail (SPST), selon les mêmes conditions que les salariés exerçant leur activité dans les locaux de l'entreprise ;\
-– des dispositions légales, réglementaires et conventionnelles relatives aux accidents du travail et maladies professionnelles.
+Ainsi, le travailleur hybride bénéficie notamment :
+
+- des services de prévention et santé au travail (SPST), selon les mêmes conditions que les salariés exerçant leur activité dans les locaux de l'entreprise ;
+- des dispositions légales, réglementaires et conventionnelles relatives aux accidents du travail et maladies professionnelles.
 
 Est considéré comme accident du travail, quelle qu'en soit la cause, l'accident survenu par le fait ou à l'occasion du travail à toute personne salariée ou travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs ou chefs d'entreprise.
 

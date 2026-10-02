@@ -30,11 +30,12 @@ Le référent harcèlement
 
 Dans toutes les entreprises d'au moins 250 salariés, l'employeur doit désigner un référent harcèlement sexuel. Celui-ci est chargé d'orienter, d'informer et d'accompagner les salariés en matière de lutte contre le harcèlement sexuel et les agissements sexistes *(6)* .
 
-Concrètement, ses missions peuvent notamment porter sur :\
-– la réalisation d'actions de sensibilisation et de formation auprès des salariés et du personnel encadrant ;\
-– l'orientation des salariés vers les autorités compétentes décrites à l'article 3 du présent accord ;\
-– la mise en œuvre de procédures internes visant à favoriser le signalement et le traitement des situations de harcèlement sexuel ou d'agissement sexiste (modalités de signalement, d'enquête, organisation du travail pendant la phase d'enquête…) ;\
-– la réalisation d'une enquête interne à la suite du signalement de faits de harcèlement sexuel dans l'entreprise.
+Concrètement, ses missions peuvent notamment porter sur :
+
+- la réalisation d'actions de sensibilisation et de formation auprès des salariés et du personnel encadrant ;
+- l'orientation des salariés vers les autorités compétentes décrites à l'article 3 du présent accord ;
+- la mise en œuvre de procédures internes visant à favoriser le signalement et le traitement des situations de harcèlement sexuel ou d'agissement sexiste (modalités de signalement, d'enquête, organisation du travail pendant la phase d'enquête…) ;
+- la réalisation d'une enquête interne à la suite du signalement de faits de harcèlement sexuel dans l'entreprise.
 
 Le référent harcèlement est informé de tout signalement de situation de harcèlement, sous réserve de l'accord de l'auteur du signalement et de la victime présumée.
 
@@ -54,15 +55,17 @@ Les attributions de la délégation du personnel au CSE, s'exercent au profit de
 
 Ainsi, en cas de harcèlement impliquant deux salariés d'entreprises distinctes, notamment dans le cadre d'une prestation effectuée au sein des locaux d'une entreprise cliente, les salariés peuvent s'adresser au référent harcèlement de l'entreprise utilisatrice et/ou de l'entreprise prestataire.
 
-Le CSE, lorsqu'il est mis en place dans une entreprise de 50 salariés ou plus, dispose de prérogatives supplémentaires :\
-– il procède à l'analyse des risques professionnels auxquels peuvent être exposés les salariés, comprenant les situations de harcèlement sexuel et les agissements sexistes *(12)* ;\
-– il peut susciter toute initiative qu'il estime utile et propose des actions de prévention du harcèlement sexuel et des agissements sexistes *(13)* ;\
-– il peut nommer un expert en cas de risque grave, identifié et actuel, révélé ou non par un accident du travail ou une maladie professionnelle *(14)* .
+Le CSE, lorsqu'il est mis en place dans une entreprise de 50 salariés ou plus, dispose de prérogatives supplémentaires :
 
-Afin d'accomplir les missions attachées à leur mandat, les membres du CSE bénéficient mensuellement d'un crédit d'heures de délégation. Un élu du CSE peut accomplir des heures de délégation au-delà du volume d'heures lui étant attribué. Le dépassement doit alors être justifié par une circonstance exceptionnelle, définie par la jurisprudence *(15)* comme :\
-– une situation inhabituelle ;\
-– nécessitant un surcroît de démarches et d'activité au regard des tâches habituelles ;\
-– motivée, notamment, par la soudaineté de l'événement ou l'urgence des mesures à prendre.
+- il procède à l'analyse des risques professionnels auxquels peuvent être exposés les salariés, comprenant les situations de harcèlement sexuel et les agissements sexistes *(12)* ;
+- il peut susciter toute initiative qu'il estime utile et propose des actions de prévention du harcèlement sexuel et des agissements sexistes *(13)* ;
+- il peut nommer un expert en cas de risque grave, identifié et actuel, révélé ou non par un accident du travail ou une maladie professionnelle *(14)* .
+
+Afin d'accomplir les missions attachées à leur mandat, les membres du CSE bénéficient mensuellement d'un crédit d'heures de délégation. Un élu du CSE peut accomplir des heures de délégation au-delà du volume d'heures lui étant attribué. Le dépassement doit alors être justifié par une circonstance exceptionnelle, définie par la jurisprudence *(15)* comme :
+
+- une situation inhabituelle ;
+- nécessitant un surcroît de démarches et d'activité au regard des tâches habituelles ;
+- motivée, notamment, par la soudaineté de l'événement ou l'urgence des mesures à prendre.
 
 La Cour de cassation a admis que la mise en œuvre du droit d'alerte pouvait être qualifiée de circonstance exceptionnelle permettant le dépassement du crédit d'heure de délégation *(16)* .
 

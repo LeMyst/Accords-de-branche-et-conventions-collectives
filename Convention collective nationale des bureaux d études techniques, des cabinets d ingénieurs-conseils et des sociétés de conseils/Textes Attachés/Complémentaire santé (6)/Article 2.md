@@ -8,10 +8,11 @@ Choix des organismes assureurs recommandés et de la société apéritrice
 Article 1er\
 Choix des organismes assureurs recommandés
 
-La commission paritaire de la branche des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils retient à l'issue de sa procédure de mise en concurrence des organismes assureurs dans le cadre de la recommandation prévue à l'article L. 912-1 du code de la sécurité sociale, au titre de la complémentaire santé, les organismes assureurs suivants :\
-– Aésio mutuelle ;\
-– Harmonie mutuelle ;\
-– Malakoff Humanis prévoyance.
+La commission paritaire de la branche des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils retient à l'issue de sa procédure de mise en concurrence des organismes assureurs dans le cadre de la recommandation prévue à l'article L. 912-1 du code de la sécurité sociale, au titre de la complémentaire santé, les organismes assureurs suivants :
+
+- Aésio mutuelle ;
+- Harmonie mutuelle ;
+- Malakoff Humanis prévoyance.
 
 Article 2\
 Société apéritrice

@@ -6,9 +6,10 @@ Conformément à l'article 2, alinéa 2 de l'accord de branche du 30 avril 2025,
 
 Réserve spéciale de participation = 10 % de l'excédent brut d'exploitation (ci-après EBE), dans la limite de 10 % du résultat net fiscal (RNF).
 
-En tout état de cause, la RSP est distribuée sous réserve que les deux conditions cumulatives suivantes soient remplies :\
-– le résultat net fiscal (RNF) est positif ;\
-– le ratio EBE/chiffre d'affaires (CA) est supérieur à 5 %.
+En tout état de cause, la RSP est distribuée sous réserve que les deux conditions cumulatives suivantes soient remplies :
+
+- le résultat net fiscal (RNF) est positif ;
+- le ratio EBE/chiffre d'affaires (CA) est supérieur à 5 %.
 
 Conformément aux dispositions légales ainsi qu'aux stipulations de l'accord de branche, cette formule est susceptible de déroger à la règle d'équivalence des avantages.
 

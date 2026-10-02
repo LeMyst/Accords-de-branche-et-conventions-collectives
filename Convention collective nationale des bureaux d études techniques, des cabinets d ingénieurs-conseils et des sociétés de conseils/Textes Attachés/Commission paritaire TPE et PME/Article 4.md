@@ -1,8 +1,9 @@
 # Article 4
 
-La CP-TPME est composée paritairement de deux collèges :\
-– un collège « salariés » comprenant un représentant titulaire, et un suppléant, de chacune des organisations syndicales de salariés représentatives dans la branche (chaque organisation syndicale est encouragée à mandater au moins un représentant employé dans une entreprise de moins de 250 salariés) ;\
-– un collège « employeurs » comprenant le même nombre de représentants, désignés par les organisations professionnelles d'employeurs représentatives dans la branche (deux représentants au moins de chaque organisation étant dirigeant d'une entreprise de moins de 250 salariés).
+La CP-TPME est composée paritairement de deux collèges :
+
+- un collège « salariés » comprenant un représentant titulaire, et un suppléant, de chacune des organisations syndicales de salariés représentatives dans la branche (chaque organisation syndicale est encouragée à mandater au moins un représentant employé dans une entreprise de moins de 250 salariés) ;
+- un collège « employeurs » comprenant le même nombre de représentants, désignés par les organisations professionnelles d'employeurs représentatives dans la branche (deux représentants au moins de chaque organisation étant dirigeant d'une entreprise de moins de 250 salariés).
 
 La commission est présidée par un représentant du collège patronal dirigeant une TPE-PME.
 

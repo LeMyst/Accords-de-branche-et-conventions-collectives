@@ -14,9 +14,10 @@ Les services de prévention et de santé au travail (SPST)
 
 Les SPST peuvent agir en amont des situations de harcèlement sexuel ou d'agissements sexistes. À ce titre, ils assistent les employeurs dans leur rôle de prévention des risques psycho-sociaux, notamment par des actions de sensibilisation des salariés et des employeurs aux phénomènes de harcèlement sexuel et d'agissements sexistes. Ils participent éventuellement à l'évaluation des risques professionnels, à la réalisation d'actions de prévention ainsi qu'à l'élaboration de formations adaptées et d'une politique de sécurité appropriée.
 
-Lorsqu'un salarié est victime de harcèlement sexuel ou d'agissements sexistes, il peut solliciter une visite auprès du SPST. Dans le cadre de ses fonctions, le médecin du travail peut :\
-– déclarer une inaptitude si le maintien sur le poste est gravement préjudiciable à la santé du salarié et proposer des solutions dans le cadre des indications relatives au reclassement ;\
-– proposer à l'employeur du salarié concerné, des mesures visant à préserver sa santé.
+Lorsqu'un salarié est victime de harcèlement sexuel ou d'agissements sexistes, il peut solliciter une visite auprès du SPST. Dans le cadre de ses fonctions, le médecin du travail peut :
+
+- déclarer une inaptitude si le maintien sur le poste est gravement préjudiciable à la santé du salarié et proposer des solutions dans le cadre des indications relatives au reclassement ;
+- proposer à l'employeur du salarié concerné, des mesures visant à préserver sa santé.
 
 L'employeur est tenu de prendre en considération les propositions émises par le médecin du travail. En cas de refus, il fait connaître par écrit au travailleur et au médecin du travail les motifs qui s'opposent à ce qu'il y soit donné suite *(3)* .
 

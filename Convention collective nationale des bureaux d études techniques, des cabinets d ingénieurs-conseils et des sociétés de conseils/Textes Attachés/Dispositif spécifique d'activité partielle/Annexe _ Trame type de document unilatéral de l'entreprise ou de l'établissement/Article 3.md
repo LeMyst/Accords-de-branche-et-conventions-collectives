@@ -26,6 +26,7 @@ Il est rappelé que tous les dispositifs de formation en vigueur peuvent être m
 
 [En présence d'un (CSE).]
 
-Le comité social et économique (CSE) est informé :\
-– du bilan des actions au titre du plan de développement des compétences ;\
-– et du nombre de bénéficiaires d'un entretien professionnel.
+Le comité social et économique (CSE) est informé :
+
+- du bilan des actions au titre du plan de développement des compétences ;
+- et du nombre de bénéficiaires d'un entretien professionnel.

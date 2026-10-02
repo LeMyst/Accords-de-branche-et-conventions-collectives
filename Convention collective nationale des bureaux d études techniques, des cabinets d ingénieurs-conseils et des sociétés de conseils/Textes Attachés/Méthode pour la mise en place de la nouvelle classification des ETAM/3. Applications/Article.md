@@ -64,23 +64,23 @@ En effet, la notion fondamentale est la notion de type de fonction et de positio
 
 1. Rechercher le type de fonction dans lequel entre la fonction à analyser. Pour cela, se reporter aux définitions du nouveau système de classification : en effet, il y a un seuil de qualification important entre chacun des 3 types et celui-ci doit être aisément repérable à l'aide des critères suivants :
 
-- objet du travail ;
+   - objet du travail ;
 
-- modèles d'action et démarches intellectuelles ;
+   - modèles d'action et démarches intellectuelles ;
 
-- autonomie : nature des instructions hiérarchiques et contrôle des résultats ;
+   - autonomie : nature des instructions hiérarchiques et contrôle des résultats ;
 
-- responsabilités ;
+   - responsabilités ;
 
 -connaissances requises.
 
 5. Préciser ensuite la position à l'intérieur du type de fonction. Cette identification se fait principalement à l'aide des critères suivants de la nouvelle classification :
 
-- complexité, difficulté du travail à accomplir ;
+   - complexité, difficulté du travail à accomplir ;
 
-- autonomie ;
+   - autonomie ;
 
-- compétences requises, expérience.
+   - compétences requises, expérience.
 
 Pour effectuer ce classement, on pourra se référer :
 

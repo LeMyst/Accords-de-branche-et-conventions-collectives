@@ -4,10 +4,11 @@ Responsabilités en matière de santé et de sécurité au travail
 
 La notion de risque psychosocial n'est pas juridiquement définie. Elle est apparue à la suite du constat établi par des médecins et des psychologues que l'organisation du travail, indépendamment du comportement de la personne, peut nuire à la santé mentale du salarié.
 
-Selon l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS), les risques psychosociaux (RPS) correspondent à des situations de travail où sont présents, combinés ou non :\
-– du stress : déséquilibre entre la perception qu'une personne a des contraintes de son environnement de travail et la perception qu'elle a de ses propres ressources pour y faire face ;\
-– des violences internes commises au sein de l'entreprise par des salariés : harcèlement moral ou sexuel, conflits exacerbés entre des personnes ou entre des équipes ;\
-– des violences externes commises sur des salariés par des personnes externes à l'entreprise (insultes, menaces, agressions …).
+Selon l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS), les risques psychosociaux (RPS) correspondent à des situations de travail où sont présents, combinés ou non :
+
+- du stress : déséquilibre entre la perception qu'une personne a des contraintes de son environnement de travail et la perception qu'elle a de ses propres ressources pour y faire face ;
+- des violences internes commises au sein de l'entreprise par des salariés : harcèlement moral ou sexuel, conflits exacerbés entre des personnes ou entre des équipes ;
+- des violences externes commises sur des salariés par des personnes externes à l'entreprise (insultes, menaces, agressions …).
 
 À ce titre, le harcèlement sexuel et les agissements sexistes sont donc des exemples de risques psychosociaux.
 
@@ -75,12 +76,13 @@ Les faits de harcèlement sexuel et les agissements sexistes sont passibles de s
 
 Par ailleurs, en cas d'action pénale devant le tribunal correctionnel, les faits de harcèlement sexuel sont punis de deux ans d'emprisonnement et de 30 000 € d'amende *(9)* .
 
-Ces peines sont portées à 3 ans d'emprisonnement et 45 000 € d'amende notamment lorsque les faits sont commis :\
-– par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;\
-– sur une personne dont la particulière vulnérabilité due à un état de grossesse est apparente ou connue de leur auteur ;\
-– sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de leur auteur ;\
-– par plusieurs personnes agissant en qualité d'auteur ou de complice ;\
-– par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique.
+Ces peines sont portées à 3 ans d'emprisonnement et 45 000 € d'amende notamment lorsque les faits sont commis :
+
+- par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+- sur une personne dont la particulière vulnérabilité due à un état de grossesse est apparente ou connue de leur auteur ;
+- sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de leur auteur ;
+- par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+- par l'utilisation d'un service de communication au public en ligne ou par le biais d'un support numérique ou électronique.
 
 Agissement sexiste
 
@@ -88,10 +90,11 @@ L'agissement sexiste est légalement défini *(10)* « comme tout agissement li�
 
 Cela recouvre par exemple des faits tels que des remarques et blagues sexistes, les incivilités à raison du sexe, le sexisme bienveillant, les considérations sexistes sur la maternité ou les charges familiale, ainsi que la dévalorisation de la personne, de ses compétences, de son travail ou de son implication dans le travail sur des bases sexistes, pouvant entraîner des pratiques discriminatoires.
 
-Selon l'Institut national de recherche et de sécurité (INRS), trois formes d'agissements sexistes sont distinguées, selon que ces agissements sont plus ou moins visibles, intentionnels ou explicites :\
-– les agissements sexistes ouvertement hostiles, souvent associés au machisme et à la misogynie. Ils sont intentionnels, explicites, flagrants. Cette forme de sexisme est irrespectueuse, méprisante, et ne respecte pas les codes de civilité. Elle peut également viser la maternité ou les charges familiales ;\
-– les agissements sexistes plus subtils, masqués, souvent sous couvert d'humour, pour éviter le jugement social ;\
-– les agissements sexistes ambivalents voire bienveillants. Il s'agit d'attitudes, de propos ou de comportements qui semblent différencier favorablement les femmes ou les hommes en leur attribuant des qualités positives. Cette forme de sexisme met en avant la supposée complémentarité des compétences féminines et masculines ou repose sur la présumée vulnérabilité des femmes. Il peut parfois se présenter comme du paternalisme infantilisant ou de la fausse séduction. Cependant, cette forme de sexisme renoue avec une division sexuée des rôles au travail. Les femmes s'écartant des stéréotypes de sexe sont alors perçues négativement.
+Selon l'Institut national de recherche et de sécurité (INRS), trois formes d'agissements sexistes sont distinguées, selon que ces agissements sont plus ou moins visibles, intentionnels ou explicites :
+
+- les agissements sexistes ouvertement hostiles, souvent associés au machisme et à la misogynie. Ils sont intentionnels, explicites, flagrants. Cette forme de sexisme est irrespectueuse, méprisante, et ne respecte pas les codes de civilité. Elle peut également viser la maternité ou les charges familiales ;
+- les agissements sexistes plus subtils, masqués, souvent sous couvert d'humour, pour éviter le jugement social ;
+- les agissements sexistes ambivalents voire bienveillants. Il s'agit d'attitudes, de propos ou de comportements qui semblent différencier favorablement les femmes ou les hommes en leur attribuant des qualités positives. Cette forme de sexisme met en avant la supposée complémentarité des compétences féminines et masculines ou repose sur la présumée vulnérabilité des femmes. Il peut parfois se présenter comme du paternalisme infantilisant ou de la fausse séduction. Cependant, cette forme de sexisme renoue avec une division sexuée des rôles au travail. Les femmes s'écartant des stéréotypes de sexe sont alors perçues négativement.
 
 Le harcèlement sexuel et les agissements sexistes sont à distinguer des infractions pénales d'outrage sexiste et sexuel et d'agression sexuelle.
 
@@ -99,13 +102,14 @@ Outrage sexiste et sexuel
 
 Selon le code pénal, constitue un outrage sexiste ou sexuel « le fait d'imposer à une personne tout propos ou comportement à connotation sexuelle ou sexiste qui soit porte atteinte à sa dignité en raison de son caractère dégradant ou humiliant, soit créé à son encontre une situation intimidante, hostile ou offensante. »
 
-L'outrage sexiste et sexuel est puni de l'amende prévue pour les contraventions de la 5e classe *(11)* . Il est puni de 3 750 € d'amende notamment lorsqu'il est commis :\
-– par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;\
-– sur une personne dont la particulière vulnérabilité due à un état de grossesse est apparente ou connue de son auteur ;\
-– sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de son auteur ;\
-– par plusieurs personnes agissant en qualité d'auteur ou de complice ;\
-– en raison de l'orientation sexuelle ou de l'identité de genre, vraie ou supposée, de la victime ;\
-– par une personne déjà condamnée pour la contravention d'outrage sexiste et sexuel et qui commet la même infraction en étant en état de récidive.
+L'outrage sexiste et sexuel est puni de l'amende prévue pour les contraventions de la 5e classe *(11)* . Il est puni de 3 750 € d'amende notamment lorsqu'il est commis :
+
+- par une personne qui abuse de l'autorité que lui confèrent ses fonctions ;
+- sur une personne dont la particulière vulnérabilité due à un état de grossesse est apparente ou connue de son auteur ;
+- sur une personne dont la particulière vulnérabilité ou dépendance résultant de la précarité de sa situation économique ou sociale est apparente ou connue de son auteur ;
+- par plusieurs personnes agissant en qualité d'auteur ou de complice ;
+- en raison de l'orientation sexuelle ou de l'identité de genre, vraie ou supposée, de la victime ;
+- par une personne déjà condamnée pour la contravention d'outrage sexiste et sexuel et qui commet la même infraction en étant en état de récidive.
 
 Injure à raison du sexe
 

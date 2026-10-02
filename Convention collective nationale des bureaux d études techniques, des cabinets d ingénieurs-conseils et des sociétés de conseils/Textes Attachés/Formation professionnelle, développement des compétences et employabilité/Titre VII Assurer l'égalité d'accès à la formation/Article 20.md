@@ -10,10 +10,11 @@ Afin d'accompagner la mise en œuvre des entretiens professionnels, il sera mis 
 
 Au plus tard tous les 6 ans, l'entretien professionnel fait un état des lieux récapitulatif du parcours professionnel du salarié.
 
-Cet état des lieux, conforme à la réglementation en vigueur, permet de vérifier que le salarié a bénéficié au cours des 6 dernières années des entretiens professionnels obligatoires et d'apprécier s'il a :\
-– suivi au moins une action de formation telle que définie par la loi ;\
-– acquis des éléments de certification par la formation ou par une VAE ;\
-– bénéficié d'une progression salariale ou professionnelle.
+Cet état des lieux, conforme à la réglementation en vigueur, permet de vérifier que le salarié a bénéficié au cours des 6 dernières années des entretiens professionnels obligatoires et d'apprécier s'il a :
+
+- suivi au moins une action de formation telle que définie par la loi ;
+- acquis des éléments de certification par la formation ou par une VAE ;
+- bénéficié d'une progression salariale ou professionnelle.
 
 En application des dispositions légales en vigueur, une pénalité financière prenant la forme d'un abondement correctif au CPF s'applique dans les entreprises d'au moins 50 salariés, lorsque, au cours de ces 6 années, le salarié n'a pas bénéficié des entretiens prévus et d'au moins une formation ne conditionnant pas l'exercice d'une activité ou d'une fonction. Dans ce cas, le CPF du salarié concerné est en effet abondé dans les conditions définies à l'article L. 6323-13 du code du travail.
 

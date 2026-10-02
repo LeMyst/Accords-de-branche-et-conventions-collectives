@@ -6,9 +6,10 @@ Conformément aux dispositions du code de la sécurité sociale, les catégories
 
 Le corpus légal, réglementaire et conventionnel permet toutefois d'étendre les régimes de protection sociale complémentaire destinés aux cadres à des salariés ne relevant pas de cette catégorie professionnelle, sans que cela ne contrevienne au principe de fixation des cotisations et garanties par catégories objectives.
 
-Jusqu'ici, la convention collective de retraite et de prévoyance des cadres du 14 mars 1947 mentionnait deux types de publics non-cadres susceptibles de bénéficier des régimes de protection sociale complémentaire des cadres :\
-– les ETAM « assimilés cadres » (dits article 4 bis de la convention) ;\
-– les ETAM non visés par l'assimilation mais bénéficiant d'une extension de régime (dits article 36 de l'annexe I à la convention).
+Jusqu'ici, la convention collective de retraite et de prévoyance des cadres du 14 mars 1947 mentionnait deux types de publics non-cadres susceptibles de bénéficier des régimes de protection sociale complémentaire des cadres :
+
+- les ETAM « assimilés cadres » (dits article 4 bis de la convention) ;
+- les ETAM non visés par l'assimilation mais bénéficiant d'une extension de régime (dits article 36 de l'annexe I à la convention).
 
 Bien que cette convention ait été abrogée, l'accord national interprofessionnel du 17 novembre 2017 et le décret n° 2021-1002 du 30 juillet 2021 ont tempéré les effets de cette abrogation et ont repris un certain nombre de principes portés par le texte.
 

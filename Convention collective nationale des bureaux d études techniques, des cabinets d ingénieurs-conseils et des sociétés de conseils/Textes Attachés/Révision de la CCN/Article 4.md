@@ -4,13 +4,14 @@ L'article 7.1 « Généralités » est rédigé comme suit :
 
 « Le salaire est basé sur la durée légale ou conventionnelle du travail.
 
-Les salaires minimaux hiérarchiques excluent :\
-– les primes d'assiduité, de participation et d'intéressement ;\
-– les primes et gratifications de caractère exceptionnel ;\
-– les remboursements de frais ;\
-– les indemnités en cas de déplacement ou détachement ;\
-– la rémunération des heures supplémentaires et complémentaires ;\
-– l'indemnité compensatrice de congés payés.
+Les salaires minimaux hiérarchiques excluent :
+
+- les primes d'assiduité, de participation et d'intéressement ;
+- les primes et gratifications de caractère exceptionnel ;
+- les remboursements de frais ;
+- les indemnités en cas de déplacement ou détachement ;
+- la rémunération des heures supplémentaires et complémentaires ;
+- l'indemnité compensatrice de congés payés.
 
 Les salaires minimaux hiérarchiques incluent les avantages en nature évalués d'un commun accord et mentionnés dans le contrat de travail.
 
@@ -28,9 +29,10 @@ Les salaires minimaux hiérarchiques relatifs à chaque emploi des ingénieurs e
 
 Rémunération des chargés d'enquête
 
-Le calcul de la rémunération des chargés d'enquête est basé :\
-– d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe 3) ;\
-– d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête) sur le coefficient hiérarchique correspondant à la classification attribuée.
+Le calcul de la rémunération des chargés d'enquête est basé :
+
+- d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe 3) ;
+- d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête) sur le coefficient hiérarchique correspondant à la classification attribuée.
 
 Les chargés d'enquête sont assurés d'une rémunération mensuelle minimum garantie.
 

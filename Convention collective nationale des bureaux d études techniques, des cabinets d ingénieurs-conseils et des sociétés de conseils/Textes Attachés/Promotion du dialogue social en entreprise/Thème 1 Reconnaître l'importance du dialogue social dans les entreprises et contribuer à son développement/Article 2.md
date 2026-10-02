@@ -32,9 +32,10 @@ Formation en matière de santé, sécurité et conditions de travail
 
 Conformément aux dispositions légales, les membres de la délégation du personnel du comité social et économique (CSE) et le référent en matière de lutte contre le harcèlement sexuel et les agissements sexistes désigné par le CSE bénéficient de la formation nécessaire à l'exercice de leurs missions en matière de santé, de sécurité et de conditions de travail.
 
-La formation est d'une durée minimale de 5 jours lors du premier mandat des membres de la délégation du personnel. En cas de renouvellement de ce mandat, la formation est d'une durée minimale :\
-– de 3 jours pour chaque membre de la délégation du personnel, quelle que soit la taille de l'entreprise ;\
-– de 5 jours pour les membres de la commission santé, sécurité et conditions de travail dans les entreprises d'au moins 300 salariés.
+La formation est d'une durée minimale de 5 jours lors du premier mandat des membres de la délégation du personnel. En cas de renouvellement de ce mandat, la formation est d'une durée minimale :
+
+- de 3 jours pour chaque membre de la délégation du personnel, quelle que soit la taille de l'entreprise ;
+- de 5 jours pour les membres de la commission santé, sécurité et conditions de travail dans les entreprises d'au moins 300 salariés.
 
 Le financement de la formation ainsi que les frais de séjour et de déplacement du salarié sont pris en charge par l'employeur dans les conditions prévues par le code du travail.
 

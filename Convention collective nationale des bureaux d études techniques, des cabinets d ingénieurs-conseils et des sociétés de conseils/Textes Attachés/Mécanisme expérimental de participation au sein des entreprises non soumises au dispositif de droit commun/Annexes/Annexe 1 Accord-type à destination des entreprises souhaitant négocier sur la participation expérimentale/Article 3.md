@@ -4,11 +4,12 @@ En application de l'article L. 3324-5 du code du travail, la répartition de la 
 
 □ Option 1 : proportionnelle à la rémunération perçue par le bénéficiaire, au sens de l'article L. 3324-10 du code du travail.
 
-Conformément à l'article D. 3324-11 du même code, le salaire que le bénéficiaire aurait perçu est reconstitué pour les périodes d'absence liées :\
-– au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;\
-– au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;\
-– à un accident du travail ou à une maladie professionnelle ;\
-– à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique.
+Conformément à l'article D. 3324-11 du même code, le salaire que le bénéficiaire aurait perçu est reconstitué pour les périodes d'absence liées :
+
+- au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;
+- au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;
+- à un accident du travail ou à une maladie professionnelle ;
+- à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique.
 
 Par ailleurs, aux termes de l'article R. 5122-11 du code du travail, en cas de placement en activité partielle, sont pris en compte les salaires qui auraient été perçus si le contrat de travail n'avait pas été suspendu.
 
@@ -24,12 +25,13 @@ Les sommes qui n'auraient pu être distribuées en raison des règles de répart
 
 □ Option 2 : proportionnelle au temps de présence.
 
-Sont assimilées à du temps de présence au sens du présent accord les absences liées :\
-– au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;\
-– au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;\
-– à un accident du travail ou à une maladie professionnelle ;\
-– à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique ;\
-– à un placement en activité partielle.
+Sont assimilées à du temps de présence au sens du présent accord les absences liées :
+
+- au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;
+- au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;
+- à un accident du travail ou à une maladie professionnelle ;
+- à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique ;
+- à un placement en activité partielle.
 
 Aucun bénéficiaire du dispositif ne pourra percevoir plus de 75 % du plafond annuel de la sécurité sociale en vigueur pour un même exercice au moment du versement de la réserve issue du présent accord.
 
@@ -41,11 +43,12 @@ Les sommes qui n'auraient pu être distribuées en raison des règles de répart
 
 • Pour 50 %, proportionnelle à la rémunération perçue par le bénéficiaire, au sens de l'article L. 3324-10 du code du travail :
 
-Conformément à l'article D. 3324-11 du même code, le salaire que le bénéficiaire aurait perçu est reconstitué pour les périodes d'absence liées :\
-– au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;\
-– au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;\
-– à un accident du travail ou à une maladie professionnelle ;\
-– à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique.
+Conformément à l'article D. 3324-11 du même code, le salaire que le bénéficiaire aurait perçu est reconstitué pour les périodes d'absence liées :
+
+- au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;
+- au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;
+- à un accident du travail ou à une maladie professionnelle ;
+- à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique.
 
 Par ailleurs, aux termes de l'article R. 5122-11 du code du travail, en cas de placement en activité partielle, sont pris en compte les salaires qui auraient été perçus si le contrat de travail n'avait pas été suspendu.
 
@@ -57,12 +60,13 @@ En cas d'arrivée en cours d'exercice, ce plafond est proratisé en fonction du 
 
 • Pour 50 %, proportionnelle au temps de présence :
 
-Sont assimilées à du temps de présence au sens du présent accord les absences liées :\
-– au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;\
-– au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;\
-– à un accident du travail ou à une maladie professionnelle ;\
-– à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique ;\
-– à un placement en activité partielle.
+Sont assimilées à du temps de présence au sens du présent accord les absences liées :
+
+- au congé maternité, au congé de paternité et de l'accueil de l'enfant, au congé d'adoption ;
+- au congé de deuil prévu à l'article L. 3142-1-1 du code du travail ;
+- à un accident du travail ou à une maladie professionnelle ;
+- à une mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique ;
+- à un placement en activité partielle.
 
 Aucun bénéficiaire du dispositif ne pourra percevoir plus de 75 % du plafond annuel de la sécurité sociale en vigueur pour un même exercice au moment du versement de la réserve issue du présent accord.
 

@@ -20,16 +20,19 @@ Les partenaires sociaux rappellent que dans toute entreprise employant au moins 
 
 Rédaction inclusive des offres d'emploi
 
-Les offres d'emploi doivent s'adresser aux femmes et aux hommes, sans distinction de sexe, conformément aux principes de non-discrimination à l'embauche. À ce titre, les entreprises veillent à :\
-– adopter un langage neutre dépourvu de stéréotypes de genre ;\
-– formuler les attentes de manière concise et centrée sur les compétences et expériences déterminantes pour le poste, afin d'éviter l'auto-censure et la déperdition de candidatures féminines ;\
-– privilégier des mises en situation lors de l'entretien ;\
-– éviter ou reformuler les critères indirectement sexués ;\
-Par exemple :\
-–– « aptitude à la gestion d'équipe et à la coordination » ou « capacité à fédérer une ou des équipes » plutôt que « profil de leader » ;\
-–– « capacité à établir des relations de confiance », « aptitude à créer un environnement de travail collaboratif » ou « capacité à interagir efficacement » plutôt que « capacité d'écoute et d'empathie » ;\
-–– « capacité à gérer des situations exigeantes » plutôt que « capacité à travailler sous pression » ;\
-– valoriser les engagements de l'entreprise en matière de diversité, de qualité de vie au travail et de conciliation entre vie professionnelle et personnelle (ex. : télétravail, dispositifs de mentorat, avantages sociaux, horaires aménagés).
+Les offres d'emploi doivent s'adresser aux femmes et aux hommes, sans distinction de sexe, conformément aux principes de non-discrimination à l'embauche. À ce titre, les entreprises veillent à :
+
+- adopter un langage neutre dépourvu de stéréotypes de genre ;
+- formuler les attentes de manière concise et centrée sur les compétences et expériences déterminantes pour le poste, afin d'éviter l'auto-censure et la déperdition de candidatures féminines ;
+- privilégier des mises en situation lors de l'entretien ;
+- éviter ou reformuler les critères indirectement sexués ;
+
+Par exemple :
+
+- « aptitude à la gestion d'équipe et à la coordination » ou « capacité à fédérer une ou des équipes » plutôt que « profil de leader » ;
+- « capacité à établir des relations de confiance », « aptitude à créer un environnement de travail collaboratif » ou « capacité à interagir efficacement » plutôt que « capacité d'écoute et d'empathie » ;
+- « capacité à gérer des situations exigeantes » plutôt que « capacité à travailler sous pression » ;
+- valoriser les engagements de l'entreprise en matière de diversité, de qualité de vie au travail et de conciliation entre vie professionnelle et personnelle (ex. : télétravail, dispositifs de mentorat, avantages sociaux, horaires aménagés).
 
 Suivi des candidatures et des recrutements
 
@@ -67,29 +70,32 @@ Afin de renforcer la mixité des métiers et de favoriser l'accès des femmes au
 
 Les entreprises de la branche s'engagent à contribuer activement à la promotion de la mixité des métiers, en particulier auprès des jeunes et des étudiantes.
 
-À ce titre, elles veillent à :\
-– développer des actions d'information à destination des jeunes, notamment dans le cadre des relations qu'elles entretiennent avec les établissements d'enseignement supérieur (écoles d'ingénieurs, écoles de commerce, universités) et lors des forums des métiers ;\
-– encourager la présence de collaboratrices à ces actions de sensibilisation afin de rendre visibles des parcours féminins et de montrer que ces métiers sont ouverts à toutes et à tous ;\
-– faciliter, lorsque cela est prévu, la participation des salariées à des interventions pédagogiques dans les établissements de l'enseignement supérieur, dans les mêmes conditions que leurs collègues masculins ;\
-– poursuivre un objectif de mixité également dans le recrutement en alternance, notamment dans le cadre des contrats d'apprentissage, des contrats de professionnalisation et des préparations opérationnelles à l'emploi (POE).
+À ce titre, elles veillent à :
+
+- développer des actions d'information à destination des jeunes, notamment dans le cadre des relations qu'elles entretiennent avec les établissements d'enseignement supérieur (écoles d'ingénieurs, écoles de commerce, universités) et lors des forums des métiers ;
+- encourager la présence de collaboratrices à ces actions de sensibilisation afin de rendre visibles des parcours féminins et de montrer que ces métiers sont ouverts à toutes et à tous ;
+- faciliter, lorsque cela est prévu, la participation des salariées à des interventions pédagogiques dans les établissements de l'enseignement supérieur, dans les mêmes conditions que leurs collègues masculins ;
+- poursuivre un objectif de mixité également dans le recrutement en alternance, notamment dans le cadre des contrats d'apprentissage, des contrats de professionnalisation et des préparations opérationnelles à l'emploi (POE).
 
 Appui et outils mis à disposition par la branche
 
 Les actions menées par les entreprises s'inscrivent dans une dynamique collective portée par la branche, à l'initiative des organisations syndicales et patronales avec l'appui de l'opérateur de compétences Atlas. Elles visent à lutter contre les stéréotypes de genre et à promouvoir l'égalité professionnelle entre les femmes et les hommes.
 
-À ce titre, l'opérateur de compétences Atlas met à disposition des entreprises :\
-– des outils de communication valorisant les métiers de la branche auprès des jeunes femmes ;\
-– des modules de formation et de sensibilisation à la mixité, accessibles dans le catalogue de formations « campusAtlas » ;\
-– des contenus pédagogiques sur la plateforme numérique « Savoirs d'avenirs », permettant notamment d'appréhender les enjeux de la lutte contre les stéréotypes de genre.
+À ce titre, l'opérateur de compétences Atlas met à disposition des entreprises :
+
+- des outils de communication valorisant les métiers de la branche auprès des jeunes femmes ;
+- des modules de formation et de sensibilisation à la mixité, accessibles dans le catalogue de formations « campusAtlas » ;
+- des contenus pédagogiques sur la plateforme numérique « Savoirs d'avenirs », permettant notamment d'appréhender les enjeux de la lutte contre les stéréotypes de genre.
 
 Suivi par les instances de la branche
 
 Par ailleurs, Atlas transmet chaque année à la CPNEFP *(5)* un rapport rendant compte de la répartition femmes-hommes parmi les bénéficiaires des dispositifs de formation. Ce suivi permet d'évaluer les progrès réalisés en matière de mixité dans les parcours professionnels.
 
-La commission paritaire permanente de négociation et d'interprétation (CPPNI) publie chaque année un rapport d'activité qui comprend :\
-– un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle ;\
-– des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ;\
-– un bilan des outils mis à disposition des entreprises pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes *(6)* .
+La commission paritaire permanente de négociation et d'interprétation (CPPNI) publie chaque année un rapport d'activité qui comprend :
+
+- un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle ;
+- des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ;
+- un bilan des outils mis à disposition des entreprises pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes *(6)* .
 
 5.3. Recourir aux dispositifs de formation professionnelle
 

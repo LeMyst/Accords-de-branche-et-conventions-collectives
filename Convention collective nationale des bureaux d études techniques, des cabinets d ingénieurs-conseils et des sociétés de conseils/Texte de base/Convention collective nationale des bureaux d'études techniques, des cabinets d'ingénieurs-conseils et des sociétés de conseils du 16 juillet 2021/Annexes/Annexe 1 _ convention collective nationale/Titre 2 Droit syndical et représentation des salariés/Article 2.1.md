@@ -46,10 +46,11 @@ Conformément à l'article L. 2142-6 du code du travail, un accord d'entreprise 
 
 À défaut d'accord, les organisations syndicales présentes dans l'entreprise et satisfaisant aux critères de respect des valeurs républicaines et d'indépendance, légalement constituées depuis au moins 2 ans peuvent mettre à disposition des publications et tracts sur un site syndical accessible à partir de l'intranet de l'entreprise, lorsqu'il existe.
 
-L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit satisfaire l'ensemble des conditions suivantes :\
-– être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'entreprise ;\
-– ne pas avoir des conséquences préjudiciables à la bonne marche de l'entreprise ;\
-– préserver la liberté de choix des salariés d'accepter ou de refuser un message.
+L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit satisfaire l'ensemble des conditions suivantes :
+
+- être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'entreprise ;
+- ne pas avoir des conséquences préjudiciables à la bonne marche de l'entreprise ;
+- préserver la liberté de choix des salariés d'accepter ou de refuser un message.
 
 Ces communications, publications et tracts doivent avoir exclusivement pour objet l'étude et la défense des intérêts des salariés et ne doivent revêtir aucun caractère injurieux et/ou diffamatoire.
 

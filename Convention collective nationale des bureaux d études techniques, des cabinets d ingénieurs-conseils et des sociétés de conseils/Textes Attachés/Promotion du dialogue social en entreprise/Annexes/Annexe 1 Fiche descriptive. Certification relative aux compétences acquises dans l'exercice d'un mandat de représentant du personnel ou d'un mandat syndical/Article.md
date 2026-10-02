@@ -10,11 +10,12 @@ Résumé de la certification
 
 À travers l'exercice de leur mandat, qui réclame des connaissances et des aptitudes variées, les représentants du personnel et les délégués syndicaux développent des compétences multiples. La certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical constitue pour ces bénéficiaires un véritable atout pour faire valoir leurs compétences, acquérir une nouvelle qualification et évoluer professionnellement. Elle vise, par équivalence directe avec une partie d'une certification professionnelle existante, à créer des passerelles vers des métiers qui ne sont pas nécessairement les métiers d'origine des mandataires. Elle peut permettre ainsi la prise en compte des compétences acquises au cours d'un mandat syndical ou de représentant du personnel dans une suite de parcours professionnel.
 
-Pour le candidat :\
-– chaque certificats de compétences professionnelles (CCP) transférable acquis facilite le positionnement sur une certification professionnelle en lien avec son expérience de mandataire et son projet de transition professionnelle ;\
-– chaque CCP transférable acquis est un moyen de réduire un parcours de formation menant à une certification professionnelle ;\
-– chaque CCP transférable acquis favorise une reconnaissance métier qui peut conforter la recevabilité d'une demande de VAE pour l'obtention d'une certification professionnelle ;\
-– les conditions d'obtention des CCP transférables seront garanties et contrôlées par le ministère du travail. En ce sens, les certifications délivrées seront un gage de validité des compétences déclarées.
+Pour le candidat :
+
+- chaque certificats de compétences professionnelles (CCP) transférable acquis facilite le positionnement sur une certification professionnelle en lien avec son expérience de mandataire et son projet de transition professionnelle ;
+- chaque CCP transférable acquis est un moyen de réduire un parcours de formation menant à une certification professionnelle ;
+- chaque CCP transférable acquis favorise une reconnaissance métier qui peut conforter la recevabilité d'une demande de VAE pour l'obtention d'une certification professionnelle ;
+- les conditions d'obtention des CCP transférables seront garanties et contrôlées par le ministère du travail. En ce sens, les certifications délivrées seront un gage de validité des compétences déclarées.
 
 • Compétences attestées :
 
@@ -48,10 +49,14 @@ Périmètre de la validation partielle : la certification est composée de six (
 
 Secteur d'activité
 
-Références juridiques des règlementations d'activité :\
-– arrêté du 18 juin 2018 portant création de la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical NOR : MTRD1816141A ;\
-https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816141A/ jo/ texte ;\
-– arrêté du 18 juin 2018 fixant les modalités d'équivalence entre la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical et plusieurs titres professionnels du ministère chargé de l'emploi NOR : MTRD1816142A.\
+Références juridiques des règlementations d'activité :
+
+- arrêté du 18 juin 2018 portant création de la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical NOR : MTRD1816141A ;
+
+https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816141A/ jo/ texte ;
+
+- arrêté du 18 juin 2018 fixant les modalités d'équivalence entre la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical et plusieurs titres professionnels du ministère chargé de l'emploi NOR : MTRD1816142A.
+
 https :// www. legifrance. gouv. fr/ eli/ arrete/2018/6/18/ MTRD1816142A/ jo/ texte.
 
 Voies d'accès

@@ -4,15 +4,17 @@ Affichant un objectif de rationalisation des dépenses de sécurité sociale, la
 
 Divers textes réglementaires ont décliné l'objectif porté par les dispositions légales susvisées et ont par ailleurs augmenté les dépenses à la charge des organismes complémentaires d'assurance maladie.
 
-En substance, le Gouvernement a entendu diminuer la participation des organismes de sécurité sociale à certaines dépenses de santé dès juillet 2023 :\
-– le décret n° 2023-701 du 31 juillet 2023 a ainsi modifié les limites de la participation des assurés à certains frais dentaires ;\
-– conformément aux termes des articles L. 162-13 et R. 160-21 du code de la sécurité sociale et en l'absence de décision de l'Union nationale des caisses d'assurance maladie, un arrêté daté du 12 octobre 2023 a fixé le pourcentage exact de la participation susvisée à 40 % de la dépense réelle observée, contre 30 % jusqu'alors. La mesure est applicable depuis le 15 octobre 2023.
+En substance, le Gouvernement a entendu diminuer la participation des organismes de sécurité sociale à certaines dépenses de santé dès juillet 2023 :
+
+- le décret n° 2023-701 du 31 juillet 2023 a ainsi modifié les limites de la participation des assurés à certains frais dentaires ;
+- conformément aux termes des articles L. 162-13 et R. 160-21 du code de la sécurité sociale et en l'absence de décision de l'Union nationale des caisses d'assurance maladie, un arrêté daté du 12 octobre 2023 a fixé le pourcentage exact de la participation susvisée à 40 % de la dépense réelle observée, contre 30 % jusqu'alors. La mesure est applicable depuis le 15 octobre 2023.
 
 Un transfert de charges de l'ordre de 10 points de pourcentage est donc intervenu depuis cette date entre les organismes de sécurité sociale et les organismes complémentaires d'assurance maladie, dont le montant est estimé à 500 millions d'euros en année pleine.
 
-Dans un contexte inflationniste, certains tarifs de soins médicaux et paramédicaux ont, en outre, été revalorisés :\
-– un règlement arbitral daté du 24 avril 2023, approuvé par arrêté du 28 avril 2023 prévoit une revalorisation du tarif des consultations médicales de 1,50 €, en partie supportée par les organismes complémentaire d'assurance maladie ;\
-– enfin, les tarifs afférents aux soins délivrés par certains corps de professions paramédicales ont également été augmentés.
+Dans un contexte inflationniste, certains tarifs de soins médicaux et paramédicaux ont, en outre, été revalorisés :
+
+- un règlement arbitral daté du 24 avril 2023, approuvé par arrêté du 28 avril 2023 prévoit une revalorisation du tarif des consultations médicales de 1,50 €, en partie supportée par les organismes complémentaire d'assurance maladie ;
+- enfin, les tarifs afférents aux soins délivrés par certains corps de professions paramédicales ont également été augmentés.
 
 Ayant conscience que l'ensemble de ces modifications légales et règlementaires pourrait être de nature à compromettre l'équilibre financier du régime de complémentaire santé de la branche, les partenaires sociaux entendent procéder à une revalorisation des cotisations obligatoires et facultatives y afférentes.
 

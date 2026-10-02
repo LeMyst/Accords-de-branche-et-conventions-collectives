@@ -16,10 +16,11 @@ Il peut également s'agir de la mise en place des services de proximité visant 
 
 Il est rappelé que les partenaires sociaux ont défini des services d'accompagnement à la parentalité dans le cadre du régime de branche de complémentaire santé.
 
-Ces services comprennent :\
-– un dispositif de garde d'enfant ;\
-– un dispositif de soutien scolaire ;\
-– un dispositif générique d'aide à la gestion de la parentalité.
+Ces services comprennent :
+
+- un dispositif de garde d'enfant ;
+- un dispositif de soutien scolaire ;
+- un dispositif générique d'aide à la gestion de la parentalité.
 
 Les organismes assureurs chargés de mettre en œuvre ce régime sont ainsi tenus de proposer ces services. Conformément au règlement intérieur du comité paritaire de surveillance, il convient toutefois de noter que les actions sociales afférentes à la parentalité sont susceptibles d'évoluer sur décision de l'instance.
 
@@ -49,16 +50,18 @@ Lors de la révision des salaires, une attention particulière sera portée aux 
 
 Les partenaires sociaux rappellent qu'afin de faciliter la conciliation des vies professionnelles et personnelles des nouveaux parents, ceux-ci peuvent solliciter un examen particulier de leur situation vis-à-vis des critères d'éligibilité à l'organisation hybride du travail mise en place dans leur entreprise. Ils peuvent également solliciter la mise en place d'un rythme de télétravail individualisé, dérogeant au rythme de télétravail établi dans l'entreprise *(2)* .
 
-Ceci s'applique :\
-– aux salariées enceintes, à compter du 3e mois de grossesse ;\
-– aux salariées bénéficiant d'un congé de maternité dans les 3 mois suivant le congé ;\
-– aux salariés bénéficiant d'un congé de paternité, dans les 3 mois précédant et suivant le congé ;\
-– aux salariés bénéficiant d'un congé d'adoption, afin de faciliter la conciliation des vies professionnelles et personnelles des parents dans les 3 mois précédant et suivant le congé.
+Ceci s'applique :
 
-Et également :\
-– aux salariés en situation de handicap ou atteints d'une maladie chronique évolutive ou invalidante (pouvant notamment nécessiter un temps partiel thérapeutique) ;\
-– aux salariés ayant la qualité de proche aidant ;\
-– aux salariés de retour d'arrêt de travail d'une durée supérieure à 6 mois continus faisant suite à une maladie ou un accident, afin de faciliter leur retour sur leur poste pendant les 3 mois suivant la fin de l'arrêt de travail.
+- aux salariées enceintes, à compter du 3e mois de grossesse ;
+- aux salariées bénéficiant d'un congé de maternité dans les 3 mois suivant le congé ;
+- aux salariés bénéficiant d'un congé de paternité, dans les 3 mois précédant et suivant le congé ;
+- aux salariés bénéficiant d'un congé d'adoption, afin de faciliter la conciliation des vies professionnelles et personnelles des parents dans les 3 mois précédant et suivant le congé.
+
+Et également :
+
+- aux salariés en situation de handicap ou atteints d'une maladie chronique évolutive ou invalidante (pouvant notamment nécessiter un temps partiel thérapeutique) ;
+- aux salariés ayant la qualité de proche aidant ;
+- aux salariés de retour d'arrêt de travail d'une durée supérieure à 6 mois continus faisant suite à une maladie ou un accident, afin de faciliter leur retour sur leur poste pendant les 3 mois suivant la fin de l'arrêt de travail.
 
 Anticiper les potentielles mobilités géographiques
 

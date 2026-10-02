@@ -1,11 +1,13 @@
 # Article
 
 L'article 3 de l'avenant du 30 octobre 2008 portant révision de l'accord du 19 mai 1995 est modifié comme suit :\
-« Un calendrier de travail est établi. Ce calendrier de travail comporte notamment :\
-– la définition des orientations politiques sur le dernier quadrimestre de l'année, pour mise en œuvre par le FAFIEC l'année suivante ;\
-– l'élaboration d'une vision triennale avec réactualisation annuelle ;\
-– des propositions d'axes d'études pour l'observatoire prospectif des métiers de la branche ;\
-– le résultat de la mise en œuvre des décisions politiques de formation réalisée par le FAFIEC.\
+« Un calendrier de travail est établi. Ce calendrier de travail comporte notamment :
+
+- la définition des orientations politiques sur le dernier quadrimestre de l'année, pour mise en œuvre par le FAFIEC l'année suivante ;
+- l'élaboration d'une vision triennale avec réactualisation annuelle ;
+- des propositions d'axes d'études pour l'observatoire prospectif des métiers de la branche ;
+- le résultat de la mise en œuvre des décisions politiques de formation réalisée par le FAFIEC.
+
 Les réunions de la CPNE bénéficient d'un ordre du jour et d'un compte rendu. Les comptes rendus sont validés lors de la réunion suivante.\
 La commission paritaire nationale de l'emploi se réunit obligatoirement une fois par semestre sur convocation écrite de son président. Elle se réunit également à la demande d'une des organisations contractantes, signataires ou adhérentes du présent accord, et ce dans un délai maximal de 1 mois à compter de la saisine.\
 Cette saisine doit être effectuée par lettre recommandée avec avis de réception auprès du président de la commission paritaire nationale de l'emploi.\

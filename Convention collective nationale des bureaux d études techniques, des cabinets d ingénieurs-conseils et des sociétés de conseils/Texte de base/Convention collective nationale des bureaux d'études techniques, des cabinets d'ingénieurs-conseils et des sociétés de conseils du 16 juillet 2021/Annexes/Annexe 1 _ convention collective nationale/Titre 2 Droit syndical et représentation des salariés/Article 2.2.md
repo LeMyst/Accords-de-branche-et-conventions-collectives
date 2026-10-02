@@ -2,10 +2,11 @@
 
 La représentation des salariés est définie par les dispositions légales en vigueur.
 
-À titre indicatif, en vue de la composition des collèges électoraux élisant la délégation du personnel au comité social et économique (CSE) conformément aux dispositions légales, les salariés employés, techniciens et agents de maîtrise (ETAM) peuvent être définis comme suit :\
-– les ouvriers et employés : coefficient 230 au coefficient 250 de la grille de classifications des ETAM ;\
-– les techniciens : coefficient 275 au coefficient 355 de la grille de classifications des ETAM ;\
-– les agents de maîtrise : coefficient 400 au coefficient 500 de la grille de classifications des ETAM.
+À titre indicatif, en vue de la composition des collèges électoraux élisant la délégation du personnel au comité social et économique (CSE) conformément aux dispositions légales, les salariés employés, techniciens et agents de maîtrise (ETAM) peuvent être définis comme suit :
+
+- les ouvriers et employés : coefficient 230 au coefficient 250 de la grille de classifications des ETAM ;
+- les techniciens : coefficient 275 au coefficient 355 de la grille de classifications des ETAM ;
+- les agents de maîtrise : coefficient 400 au coefficient 500 de la grille de classifications des ETAM.
 
 La contribution versée chaque année par l'employeur pour financer les institutions sociales du CSE est fixée par accord d'entreprise. À défaut d'accord, le rapport de cette contribution à la masse salariale brute ne peut être inférieur au même rapport existant pour l'année précédente.
 

@@ -2,8 +2,9 @@
 
 A compter de la date prévue au deuxième article du présent avenant, la valeur du point des ingénieurs et cadres classés dans la grille cadres de la convention collective nationale est fixée :
 
-– pour les positions 1.1, 1.2, 2.1 (coefficient 105), 2.1 (coefficient 115), 2.2, 2.3, à 20,21 € bruts pour les ingénieurs et cadres classés dans la grille cadres de la convention collective nationale ;\
-– pour les positions 3.1, 3.2, 3.3, à 20,13 € bruts pour les ingénieurs et cadres classés dans la grille cadres de la convention collective nationale.\
+- pour les positions 1.1, 1.2, 2.1 (coefficient 105), 2.1 (coefficient 115), 2.2, 2.3, à 20,21 € bruts pour les ingénieurs et cadres classés dans la grille cadres de la convention collective nationale ;
+- pour les positions 3.1, 3.2, 3.3, à 20,13 € bruts pour les ingénieurs et cadres classés dans la grille cadres de la convention collective nationale.
+
 Cette révision ainsi définie de la valeur du point des ingénieurs et cadres porte le montant des nouveaux salaires minimaux conventionnels aux sommes indiquées dans le tableau ci-dessous, par position et coefficient de la grille cadres de la convention collective nationale.
 
 Barèmes des salaires

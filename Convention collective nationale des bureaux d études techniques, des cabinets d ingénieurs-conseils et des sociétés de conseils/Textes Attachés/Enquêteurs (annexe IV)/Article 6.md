@@ -22,9 +22,10 @@ Les indications devant figurer au contrat de travail d'un chargé d'enquête (CE
 Article 67\
 Ancienneté
 
-Pour la détermination de l'ancienneté des chargés d'enquête (CE), sont pris en compte :\
-– le temps d'activité exclusive et régulière exercée pour le compte de l'institut, auquel peut s'ajouter le temps de la période de référence de 2 ans définie à l'article 65 de la présente annexe ;\
-– toutes les années, précédent l'embauche en tant que CE, pendant lesquelles auront été délivrés 11 bulletins de paie sur 12 et aura été perçu au moins 3 fois la valeur du Smic mensuel correspondant à la durée légale du travail.
+Pour la détermination de l'ancienneté des chargés d'enquête (CE), sont pris en compte :
+
+- le temps d'activité exclusive et régulière exercée pour le compte de l'institut, auquel peut s'ajouter le temps de la période de référence de 2 ans définie à l'article 65 de la présente annexe ;
+- toutes les années, précédent l'embauche en tant que CE, pendant lesquelles auront été délivrés 11 bulletins de paie sur 12 et aura été perçu au moins 3 fois la valeur du Smic mensuel correspondant à la durée légale du travail.
 
 II. Conditions d'exécution du contrat de travail\
 Article 68\
@@ -36,12 +37,15 @@ Article 69\
 Secret professionnel
 
 Les chargés d'enquête (CE) sont tenus au secret professionnel et à une obligation de discrétion à l'égard des tiers tant sur l'organisation de leur travail que sur la nature et les résultats des tâches qui leur sont confiées, et sur les frais et les informations qu'ils ont eu l'occasion de connaître au cours de l'accomplissement de leurs travaux.\
-En particulier, sauf instructions écrites de l'employeur, les CE s'engagent formellement à ne divulguer à qui que ce soit :\
-– aucun des documents, questionnaires, tableaux, échantillons, notices, etc., qui leur sont remis par l'employeur pour l'exécution des enquêtes ;\
-– aucun résultat ou donnée d'enquête.\
-Ils s'engagent à ne pas révéler :\
-– l'identité des enquêtés, sauf au personnel qualifié de l'employeur ;\
-– le nom de la personne physique ou morale pour le compte de qui est faite l'enquête, sauf instructions précises de l'employeur.
+En particulier, sauf instructions écrites de l'employeur, les CE s'engagent formellement à ne divulguer à qui que ce soit :
+
+- aucun des documents, questionnaires, tableaux, échantillons, notices, etc., qui leur sont remis par l'employeur pour l'exécution des enquêtes ;
+- aucun résultat ou donnée d'enquête.
+
+Ils s'engagent à ne pas révéler :
+
+- l'identité des enquêtés, sauf au personnel qualifié de l'employeur ;
+- le nom de la personne physique ou morale pour le compte de qui est faite l'enquête, sauf instructions précises de l'employeur.
 
 III. Rupture du contrat de travail
 
@@ -86,9 +90,10 @@ Compte tenu de la nature des travaux d'enquête, les chargés d'enquêtes ont un
 Article 76\
 Rémunération
 
-Le calcul de la rémunération des chargés d'enquête (CE) est basé :\
-– d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;\
-– d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
+Le calcul de la rémunération des chargés d'enquête (CE) est basé :
+
+- d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;
+- d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
 
 Les CE sont assurés d'une rémunération mensuelle minimum garantie.
 

@@ -19,9 +19,9 @@ Les parties signataires incitent les entreprises à valoriser la fonction tutora
 Dans le respect des dispositions législatives et réglementaires, l'opérateur de compétences prend en charge l'exercice de la fonction tutorale aux conditions cumulatives ci-dessous (1 + 2) :
 
 1. Le tuteur à une expérience de 2 ans minimum dans la qualification en rapport avec l'objectif de professionnalisation visé ;
-1. Le tuteur a :\
-   – soit suivi une formation à la fonction tutorale ;\
-   – soit exercé effectivement un tutorat au cours des 2 dernières années.
+1. Le tuteur a :
+   - soit suivi une formation à la fonction tutorale ;
+   - soit exercé effectivement un tutorat au cours des 2 dernières années.
 
 *(1) Article étendu sous réserve du respect des dispositions des articles L. 6223-8-1 et D. 6325-6 du code du travail.\
 (Arrêté du 6 novembre 2020 - art. 1)*

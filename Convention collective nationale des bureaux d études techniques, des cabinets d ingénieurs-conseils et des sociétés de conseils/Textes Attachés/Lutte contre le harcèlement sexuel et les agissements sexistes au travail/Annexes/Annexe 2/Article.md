@@ -16,15 +16,16 @@ Selon la taille de l'entreprise la démarche peut inclure la mise en place de gr
 
 Étape 2 : Apprécier la situation de l'entreprise face aux risques d'agissements sexistes et de harcèlement sexuel
 
-Les questionnements à avoir pour apprécier la situation de l'entreprise vis-à-vis des risques d'agissements sexistes et de harcèlement sexuel peuvent être les suivants :\
-– Existe-t-il un précédent de harcèlement sexuel ou d'agissements sexistes ?\
-– Existe-t-il un environnement de travail sexiste ?\
-– Des documents internes évoquent-ils ces sujets ?\
-– Exemple : règlement intérieur, DUERP, Accord qualité de vie et des conditions de travail.\
-– Existe-t-il des unités de travail où il y a une très forte prédominance d'un sexe ?\
-– Existe-t-il des situations de travailleurs isolés ? d'horaires atypiques (soir, nuit, week-end) ?\
-– Les rapports professionnels sont-ils très ou peu hiérarchisés ?\
-– Les difficultés relationnelles peuvent-elles s'exprimer facilement ?
+Les questionnements à avoir pour apprécier la situation de l'entreprise vis-à-vis des risques d'agissements sexistes et de harcèlement sexuel peuvent être les suivants :
+
+- Existe-t-il un précédent de harcèlement sexuel ou d'agissements sexistes ?
+- Existe-t-il un environnement de travail sexiste ?
+- Des documents internes évoquent-ils ces sujets ?
+- Exemple : règlement intérieur, DUERP, Accord qualité de vie et des conditions de travail.
+- Existe-t-il des unités de travail où il y a une très forte prédominance d'un sexe ?
+- Existe-t-il des situations de travailleurs isolés ? d'horaires atypiques (soir, nuit, week-end) ?
+- Les rapports professionnels sont-ils très ou peu hiérarchisés ?
+- Les difficultés relationnelles peuvent-elles s'exprimer facilement ?
 
 Étape 3 : Vérifier que le DUERP est construit par unités de travail
 
@@ -52,11 +53,12 @@ https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC
 
 1. Utiliser les unités de travail définies au sein du DUERP et construites en intégrant les femmes et les hommes pour chacune d'elle.
 
-1. Choisir l'unité de travail qui sera la plus significative du point de vue de l'exposition aux agissements sexistes at au harcèlement sexuel, selon les critères présentés ci-après :\
-   – les conditions d'emploi : statut d'emploi (CDI, stagiaire, alternance, personnel d'entreprises sous-traitance...), évolutions salariales possibles... ;\
-   – les conditions de travail : nature des activités de travail, prescription du travail, contraintes de temps, de délai, de qualité, niveau d'autonomie, poste en situation de travail isolé, activités d'accueil, activités en relation avec le client … ;\
-   – les conditions liées à l'organisation du travail : temps de travail et de pause, modalités d'évaluation du travail, appuis organisationnels et professionnels possibles, niveau de décision... ;\
-   – les conditions liées au dialogue social : fluidité du dialogue social, possibilité d'échange avec le N + 1, avec le RH...
+1. Choisir l'unité de travail qui sera la plus significative du point de vue de l'exposition aux agissements sexistes at au harcèlement sexuel, selon les critères présentés ci-après :
+
+   - les conditions d'emploi : statut d'emploi (CDI, stagiaire, alternance, personnel d'entreprises sous-traitance...), évolutions salariales possibles... ;
+   - les conditions de travail : nature des activités de travail, prescription du travail, contraintes de temps, de délai, de qualité, niveau d'autonomie, poste en situation de travail isolé, activités d'accueil, activités en relation avec le client … ;
+   - les conditions liées à l'organisation du travail : temps de travail et de pause, modalités d'évaluation du travail, appuis organisationnels et professionnels possibles, niveau de décision... ;
+   - les conditions liées au dialogue social : fluidité du dialogue social, possibilité d'échange avec le N + 1, avec le RH...
 
 1. Pour l'unité de travail retenue, choisir une à deux situations de travail les plus significatives de l'exposition, en intégrant le degré de mixité dans le choix des situations.
 

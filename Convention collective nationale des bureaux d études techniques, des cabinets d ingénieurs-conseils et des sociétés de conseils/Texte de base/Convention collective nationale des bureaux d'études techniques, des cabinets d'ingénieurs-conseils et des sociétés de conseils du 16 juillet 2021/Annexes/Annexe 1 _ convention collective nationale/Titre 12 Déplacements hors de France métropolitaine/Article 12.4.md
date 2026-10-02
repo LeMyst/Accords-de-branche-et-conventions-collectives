@@ -2,9 +2,10 @@
 
 1. Définition des frais de voyage
 
-Les frais de voyage comprennent, dans les limites fixées par l'ordre de mission et les barèmes de l'Urssaf caisse nationale :\
-– les frais de transport des personnes et des bagages du lieu de résidence habituelle du salarié au lieu de mission, et inversement ;\
-– les frais éventuels de repas et d'hébergement pendant le voyage.
+Les frais de voyage comprennent, dans les limites fixées par l'ordre de mission et les barèmes de l'Urssaf caisse nationale :
+
+- les frais de transport des personnes et des bagages du lieu de résidence habituelle du salarié au lieu de mission, et inversement ;
+- les frais éventuels de repas et d'hébergement pendant le voyage.
 
 Le remboursement des frais de voyage peut faire l'objet d'un forfait défini préalablement au départ, par accord collectif d'entreprise, décision unilatérale de l'employeur ou par usage.
 
@@ -46,9 +47,10 @@ Si le salarié choisit un moyen de transport plus économique, il ne peut préte
 
 Les classes de voyage du salarié et de sa famille sont fixées comme suit, sauf stipulation contraire :\
 a) en avion : classe économique ;\
-b) en bateau et train :\
-– 2e classe ou confort équivalent pour les ETAM ;\
-– 1re classe ou confort équivalent pour les ingénieurs et cadres.
+b) en bateau et train :
+
+- 2e classe ou confort équivalent pour les ETAM ;
+- 1re classe ou confort équivalent pour les ingénieurs et cadres.
 
 6. Bagages
 

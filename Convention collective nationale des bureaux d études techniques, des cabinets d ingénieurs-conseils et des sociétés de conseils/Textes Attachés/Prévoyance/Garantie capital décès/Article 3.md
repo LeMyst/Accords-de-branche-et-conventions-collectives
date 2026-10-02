@@ -12,11 +12,12 @@ Sur demande du ou des ayants droit désignés en 3.3, ce capital décès pourra,
 
 3.3. Ayants droit
 
-En l'absence de désignation expresse de bénéficiaires par le salarié, les capitaux décès sont versés dans l'ordre de priorité suivant :\
-– au conjoint du salarié, non séparé de corps par jugement définitif ;\
-– à la personne liée au salarié par un pacte civil de solidarité ou à son concubin notoire ;\
-– aux enfants du salarié, nés ou à naître, vivants ou représentés par parts égales entre eux ;\
-– aux parents du salarié, par parts égales entre eux, et en cas de décès de l'un d'eux, la totalité au survivant ;\
-– aux héritiers de l'assuré.
+En l'absence de désignation expresse de bénéficiaires par le salarié, les capitaux décès sont versés dans l'ordre de priorité suivant :
+
+- au conjoint du salarié, non séparé de corps par jugement définitif ;
+- à la personne liée au salarié par un pacte civil de solidarité ou à son concubin notoire ;
+- aux enfants du salarié, nés ou à naître, vivants ou représentés par parts égales entre eux ;
+- aux parents du salarié, par parts égales entre eux, et en cas de décès de l'un d'eux, la totalité au survivant ;
+- aux héritiers de l'assuré.
 
 Le salarié peut à tout moment modifier la désignation du ou des bénéficiaires, de préférence par lettre recommandée adressée à l'organisme assureur, qui en accusera réception.

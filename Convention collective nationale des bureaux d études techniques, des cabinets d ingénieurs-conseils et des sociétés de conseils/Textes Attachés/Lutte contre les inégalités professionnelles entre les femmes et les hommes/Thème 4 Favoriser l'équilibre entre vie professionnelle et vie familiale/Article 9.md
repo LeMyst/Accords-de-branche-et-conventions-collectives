@@ -6,9 +6,10 @@ La loi du 30 juin 2025 visant à protéger les personnes engagées dans un proje
 
 Aucun salarié ou candidat à l'embauche n'est tenu de révéler sa situation personnelle. Aucune information liée à un projet parental ne peut être recherchée, ni utilisée à des fins discriminatoires.
 
-En complément, les salariés engagés dans un projet parental bénéficient d'autorisations d'absence spécifiques pour se rendre aux actes médicaux ou entretiens d'agrément nécessaires dans le cadre :\
-– d'un parcours de PMA ;\
-– ou d'une démarche d'adoption.
+En complément, les salariés engagés dans un projet parental bénéficient d'autorisations d'absence spécifiques pour se rendre aux actes médicaux ou entretiens d'agrément nécessaires dans le cadre :
+
+- d'un parcours de PMA ;
+- ou d'une démarche d'adoption.
 
 Le conjoint, partenaire de Pacs ou concubin salarié de la personne engagée dans un projet parental bénéficie des mêmes droits à autorisation d'absence spécifiques dans les conditions prévues par le code du travail.
 

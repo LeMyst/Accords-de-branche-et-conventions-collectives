@@ -1,11 +1,12 @@
 # Article 3
 
-La branche souhaite poursuivre et renforcer sa politique volontariste en matière de promotion des métiers :\
-– au niveau national et régional ;\
-– auprès des jeunes et demandeurs d'emploi ;\
-– en s'appuyant sur les prescripteurs tels que les régions et les acteurs locaux de l'emploi, l'insertion et l'orientation ;\
-– en développant des partenariats stratégiques avec les acteurs en charge de l'orientation et de l'emploi ;\
-– les partenariats sont développés de façon paritaire. Les CPREFP peuvent également participer à ce développement.
+La branche souhaite poursuivre et renforcer sa politique volontariste en matière de promotion des métiers :
+
+- au niveau national et régional ;
+- auprès des jeunes et demandeurs d'emploi ;
+- en s'appuyant sur les prescripteurs tels que les régions et les acteurs locaux de l'emploi, l'insertion et l'orientation ;
+- en développant des partenariats stratégiques avec les acteurs en charge de l'orientation et de l'emploi ;
+- les partenariats sont développés de façon paritaire. Les CPREFP peuvent également participer à ce développement.
 
 Dans cette perspective, les parties signataires de la branche inviteront l'opérateur de compétences ATLAS à conclure – conjointement avec eux – une convention cadre de coopération avec l'État telle que prévue à l'article L. 6332-1 du code du travail pour définir les conditions de leur participation à l'amélioration et à la promotion des formations technologiques et professionnelles initiales.
 

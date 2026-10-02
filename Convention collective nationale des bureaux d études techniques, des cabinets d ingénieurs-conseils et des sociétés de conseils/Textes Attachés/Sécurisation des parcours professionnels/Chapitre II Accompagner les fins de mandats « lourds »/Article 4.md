@@ -16,19 +16,21 @@ L'évolution permanente et rapide des métiers de la branche, peut rendre diffic
 
 À l'occasion ou à la suite de l'entretien de repositionnement dans l'emploi visé à l'article 3.1 du présent accord, un projet de reconversion professionnelle pourra être exposé par le salarié et/ou proposé par l'entreprise.
 
-Un dispositif d'accompagnement peut être mis en place pour soutenir le projet de reconversion professionnelle, intégrant :\
-– la définition du projet professionnel du salarié ;\
-– une évaluation des compétences à acquérir dans le cadre du projet professionnel ;\
-– la mise en œuvre d'un projet de formation adapté, et son ingénierie de financement au regard de l'ensemble des possibilités (financement entreprise/branche/fonds publics/CPF/CPF de transition).
+Un dispositif d'accompagnement peut être mis en place pour soutenir le projet de reconversion professionnelle, intégrant :
+
+- la définition du projet professionnel du salarié ;
+- une évaluation des compétences à acquérir dans le cadre du projet professionnel ;
+- la mise en œuvre d'un projet de formation adapté, et son ingénierie de financement au regard de l'ensemble des possibilités (financement entreprise/branche/fonds publics/CPF/CPF de transition).
 
 Le salarié souhaitant construire un projet de reconversion professionnelle bénéficie d'un accompagnement par une prestation de conseil en évolution professionnelle (CEP) pendant le temps de travail.
 
 4.3. Instruction des projets de formation
 
-Les projets de formation entrant dans les cadres définis ci-dessus, seront instruits par une instance paritaire, en vue d'être validés et cofinancés par la branche, selon les dispositions définies par la politique de formation de la branche arrêtée par la CPNEFP. Les projets de formation devront respecter les critères suivants :\
-– le salarié est visé par les stipulations du présent accord ;\
-– le salarié et son employeur ont co-signé un document attestant de la date et de la tenue de l'entretien de repositionnement visé à l'article 3.1 du présent accord et constatant l'accord ou le désaccord sur le projet de repositionnement du salarié ;\
-– en cas de projet de reconversion professionnelle, le salarié a réalisé au moins un entretien avec un opérateur de CEP ;\
-– le projet intègre les moyens financiers mobilisés pour la réalisation des formations, et les cofinancements prévus. L'accord et la participation de l'entreprise au financement du projet, et, en cas de projet de reconversion professionnelle, la mobilisation du CPF de transition, constituent des critères déterminants lors de l'instruction du projet par l'instance paritaire. Cependant, en cas d'absence d'organisation, du fait de l'employeur, de l'entretien de repositionnement dans l'emploi visé à l'article 3.1 du présent accord de branche, dans les six mois suivant son entrée en vigueur, soit avant le 31 mars 2024, le salarié pourra saisir la commission de sa propre initiative au cours des trois mois suivant cette échéance.
+Les projets de formation entrant dans les cadres définis ci-dessus, seront instruits par une instance paritaire, en vue d'être validés et cofinancés par la branche, selon les dispositions définies par la politique de formation de la branche arrêtée par la CPNEFP. Les projets de formation devront respecter les critères suivants :
+
+- le salarié est visé par les stipulations du présent accord ;
+- le salarié et son employeur ont co-signé un document attestant de la date et de la tenue de l'entretien de repositionnement visé à l'article 3.1 du présent accord et constatant l'accord ou le désaccord sur le projet de repositionnement du salarié ;
+- en cas de projet de reconversion professionnelle, le salarié a réalisé au moins un entretien avec un opérateur de CEP ;
+- le projet intègre les moyens financiers mobilisés pour la réalisation des formations, et les cofinancements prévus. L'accord et la participation de l'entreprise au financement du projet, et, en cas de projet de reconversion professionnelle, la mobilisation du CPF de transition, constituent des critères déterminants lors de l'instruction du projet par l'instance paritaire. Cependant, en cas d'absence d'organisation, du fait de l'employeur, de l'entretien de repositionnement dans l'emploi visé à l'article 3.1 du présent accord de branche, dans les six mois suivant son entrée en vigueur, soit avant le 31 mars 2024, le salarié pourra saisir la commission de sa propre initiative au cours des trois mois suivant cette échéance.
 
 Les modalités et le budget du dispositif d'accompagnement seront déterminés par la CPNEFP et mis en œuvre au sein de l'opérateur de compétences « ATLAS, Soutenir les compétences ». La commission chargée de l'instruction des dossiers et ses modalités de recours à cette commission seront définies par la CPPNI.

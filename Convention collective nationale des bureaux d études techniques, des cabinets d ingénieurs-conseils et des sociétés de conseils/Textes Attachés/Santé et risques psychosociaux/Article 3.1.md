@@ -6,16 +6,17 @@ L'employeur est garant de la bonne information de l'ensemble des salariés en ma
 
 L'employeur s'assure du respect effectif des droits à repos quotidien et hebdomadaire des salariés ainsi que des durées maximales journalières et hebdomadaires du travail auxquels sont soumis leurs salariés, selon les modalités d'aménagement de la durée du travail dont ils relèvent.
 
-Eu égard à l'impact potentiel sur la santé et les risques psychosociaux au travail, les partenaires sociaux insistent sur le caractère impératif des dispositions relatives :\
-– au suivi de la durée du travail ;\
-– à la répartition de la durée du travail (quotidienne, hebdomadaire, mensuelle, annuelle) ainsi que les conditions de modification ou les éventuels dépassements ;\
-– aux durées maximales du travail (quotidienne, hebdomadaire, mensuelle, sur 12 semaines consécutives, annuelle) ;\
-– au travail de nuit ;\
-– au travail le dimanche et des jours fériés ;\
-– aux astreintes ;\
-– aux congés ;\
-– aux RTT ;\
-– à l'encadrement du télétravail, lorsqu'il est mis en place par l'employeur.
+Eu égard à l'impact potentiel sur la santé et les risques psychosociaux au travail, les partenaires sociaux insistent sur le caractère impératif des dispositions relatives :
+
+- au suivi de la durée du travail ;
+- à la répartition de la durée du travail (quotidienne, hebdomadaire, mensuelle, annuelle) ainsi que les conditions de modification ou les éventuels dépassements ;
+- aux durées maximales du travail (quotidienne, hebdomadaire, mensuelle, sur 12 semaines consécutives, annuelle) ;
+- au travail de nuit ;
+- au travail le dimanche et des jours fériés ;
+- aux astreintes ;
+- aux congés ;
+- aux RTT ;
+- à l'encadrement du télétravail, lorsqu'il est mis en place par l'employeur.
 
 3.1.1. Trajets et déplacements
 

@@ -1,14 +1,15 @@
 # Article 15
 
-Les droits inscrits sur le compte personnel de formation (CPF) permettent à son titulaire de financer les actions de formation suivantes :\
-– les actions de formation sanctionnées par les certifications professionnelles enregistrées au répertoire national ;\
-– les actions de formation sanctionnées par les attestations de validation de blocs de compétences au sens de l'article L. 6113-1 du code du travail ;\
-– les actions de formation sanctionnées par les certifications et habilitations enregistrées dans le répertoire comprenant notamment la certification relative au socle de connaissances et de compétences professionnelles ;\
-– les actions permettant de faire valider les acquis de l'expérience mentionnées au 3° de l'article L. 6313-1 du code du travail ;\
-– les bilans de compétences ;\
-– la préparation de l'épreuve théorique du code de la route et de l'épreuve pratique du permis de conduire des véhicules du groupe léger et du groupe lourd ;\
-– les actions de formation d'accompagnement et de conseil dispensées aux créateurs ou repreneurs d'entreprises ayant pour objet de réaliser leur projet de création ou de reprise d'entreprise et de pérenniser l'activité de celle-ci ;\
-– les actions de formation destinées à permettre aux bénévoles et aux volontaires en service civique d'acquérir les compétences nécessaires à l'exercice de leurs missions.
+Les droits inscrits sur le compte personnel de formation (CPF) permettent à son titulaire de financer les actions de formation suivantes :
+
+- les actions de formation sanctionnées par les certifications professionnelles enregistrées au répertoire national ;
+- les actions de formation sanctionnées par les attestations de validation de blocs de compétences au sens de l'article L. 6113-1 du code du travail ;
+- les actions de formation sanctionnées par les certifications et habilitations enregistrées dans le répertoire comprenant notamment la certification relative au socle de connaissances et de compétences professionnelles ;
+- les actions permettant de faire valider les acquis de l'expérience mentionnées au 3° de l'article L. 6313-1 du code du travail ;
+- les bilans de compétences ;
+- la préparation de l'épreuve théorique du code de la route et de l'épreuve pratique du permis de conduire des véhicules du groupe léger et du groupe lourd ;
+- les actions de formation d'accompagnement et de conseil dispensées aux créateurs ou repreneurs d'entreprises ayant pour objet de réaliser leur projet de création ou de reprise d'entreprise et de pérenniser l'activité de celle-ci ;
+- les actions de formation destinées à permettre aux bénévoles et aux volontaires en service civique d'acquérir les compétences nécessaires à l'exercice de leurs missions.
 
 L'employeur ne peut imposer au salarié d'utiliser les droits inscrits sur son CPF pour financer une action de développement des compétences.
 

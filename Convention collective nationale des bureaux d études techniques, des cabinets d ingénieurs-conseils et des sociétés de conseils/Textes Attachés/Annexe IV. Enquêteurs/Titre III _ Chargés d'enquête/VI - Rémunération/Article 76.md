@@ -1,8 +1,9 @@
 # Article 76
 
-Le calcul de la rémunération des chargés d'enquête (CE) est basé :\
-– d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;\
-– d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
+Le calcul de la rémunération des chargés d'enquête (CE) est basé :
+
+- d'une part sur une grille prévoyant une rémunération minimale au questionnaire variable suivant le type d'enquête ou sur tout autre système donnant des résultats équivalents. Cette grille, établie en fonction de la valeur du point de rémunération, figure en annexe de la convention collective (annexe III) ;
+- d'autre part, pour les travaux annexes à l'enquête (notamment entraînement et discussion après enquête), sur le coefficient hiérarchique correspondant à la classification attribuée.
 
 Les CE sont assurés d'une rémunération mensuelle minimum garantie.
 

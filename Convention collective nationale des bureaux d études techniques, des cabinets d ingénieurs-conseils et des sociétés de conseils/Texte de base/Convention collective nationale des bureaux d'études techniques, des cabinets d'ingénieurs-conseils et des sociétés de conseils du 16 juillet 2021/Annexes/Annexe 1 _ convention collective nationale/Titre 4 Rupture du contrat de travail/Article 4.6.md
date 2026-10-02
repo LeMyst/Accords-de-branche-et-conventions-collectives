@@ -4,9 +4,10 @@
 
 Tout salarié peut quitter volontairement l'entreprise pour bénéficier de son droit à la retraite.
 
-Le préavis suivant doit être respecté :\
-– jusqu'à 2 ans d'ancienneté : 1 mois ;\
-– à compter de 2 ans d'ancienneté : 2 mois.
+Le préavis suivant doit être respecté :
+
+- jusqu'à 2 ans d'ancienneté : 1 mois ;
+- à compter de 2 ans d'ancienneté : 2 mois.
 
 2. Mise à la retraite
 

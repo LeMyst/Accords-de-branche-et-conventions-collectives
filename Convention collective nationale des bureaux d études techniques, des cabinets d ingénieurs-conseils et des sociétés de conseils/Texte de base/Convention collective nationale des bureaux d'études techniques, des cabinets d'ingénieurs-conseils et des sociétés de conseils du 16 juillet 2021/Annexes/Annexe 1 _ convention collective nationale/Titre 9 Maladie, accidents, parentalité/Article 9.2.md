@@ -1,8 +1,9 @@
 # Article 9.2
 
-En cas de maladie ou d'accident, professionnel ou non, constaté par certificat médical, l'employeur verse au salarié, dans les conditions décrites au paragraphe 1 ci-dessous, les allocations maladie nécessaires pour compléter :\
-– les indemnités journalières de sécurité sociale ;\
-– les allocations versées, le cas échéant par un régime de prévoyance.
+En cas de maladie ou d'accident, professionnel ou non, constaté par certificat médical, l'employeur verse au salarié, dans les conditions décrites au paragraphe 1 ci-dessous, les allocations maladie nécessaires pour compléter :
+
+- les indemnités journalières de sécurité sociale ;
+- les allocations versées, le cas échéant par un régime de prévoyance.
 
 L'employeur appliquera sur ces indemnités ou prestations les contributions sociales et impositions de toute nature applicables.
 
@@ -24,12 +25,12 @@ Le versement de l'allocation maladie ne peut en aucun cas conduire le salarié �
 
 ETAM
 
-– ayant plus d'un an d'ancienneté et moins de 5 ans d'ancienneté : 30 jours à 100 % du salaire brut et les 60 jours suivants : 80 % du salaire brut ;\
-– ayant plus de 5 ans d'ancienneté : 60 jours à 100 % du salaire brut et les 30 jours suivants : 80 % du salaire brut.
+- ayant plus d'un an d'ancienneté et moins de 5 ans d'ancienneté : 30 jours à 100 % du salaire brut et les 60 jours suivants : 80 % du salaire brut ;
+- ayant plus de 5 ans d'ancienneté : 60 jours à 100 % du salaire brut et les 30 jours suivants : 80 % du salaire brut.
 
 Ingénieurs et cadres
 
-– ayant plus d'un an d'ancienneté : 90 jours à 100 % du salaire brut.
+- ayant plus d'un an d'ancienneté : 90 jours à 100 % du salaire brut.
 
 Si l'ancienneté fixée par l'un des alinéas précédents est atteinte par le salarié au cours de sa maladie, il reçoit, à partir du moment où cette ancienneté est atteinte, l'allocation ou la fraction d'allocation fixée par la nouvelle ancienneté pour chacun des jours de maladie restant à courir.
 

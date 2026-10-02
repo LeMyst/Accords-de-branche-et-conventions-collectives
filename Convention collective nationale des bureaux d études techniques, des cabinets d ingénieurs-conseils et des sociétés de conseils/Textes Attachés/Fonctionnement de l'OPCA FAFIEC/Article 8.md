@@ -38,21 +38,23 @@ B. – Composition du conseil d'administration
 
 Le FAFIEC est administré par un conseil d'administration dont les membres sont désignés par les organisations de salariés et d'employeurs à raison de :
 
-– 2 représentants titulaires désignés par chaque organisation syndicale de salariés représentative dans la branche ;\
-– un nombre égal de représentants titulaires désignés par les fédérations patronales d'employeurs représentatives de l'ensemble de la branche au plan national et de nos métiers conformément aux dispositions légales et réglementaires ;\
-– outre la présidence et la vice-présidence, ces organisations syndicales de salariés et employeurs désigneront 4 administrateurs(trices) par collège qui seront, de préférence, membres de la CPNE.\
+- 2 représentants titulaires désignés par chaque organisation syndicale de salariés représentative dans la branche ;
+- un nombre égal de représentants titulaires désignés par les fédérations patronales d'employeurs représentatives de l'ensemble de la branche au plan national et de nos métiers conformément aux dispositions légales et réglementaires ;
+- outre la présidence et la vice-présidence, ces organisations syndicales de salariés et employeurs désigneront 4 administrateurs(trices) par collège qui seront, de préférence, membres de la CPNE.
+
 Conformément à l'article L. 6332-2-1 du code du travail, lorsqu'une personne exerce une fonction d'administrateur(trice) ou de salarié(e) dans un établissement de formation ou dans un établissement de crédit, elle ne peut exercer une fonction d'administrateur(trice) ou de salarié(e) du FAFIEC ou un organisme délégué par ce dernier.
 
 C. – Fonctionnement du conseil d'administration
 
 Tous les 2 ans, le conseil d'administration désigne, par alternance des collèges salariés et employeurs, les responsabilités suivantes dont les attributions sont définies au règlement intérieur :
 
-– un(e) président(e) ;\
-– un(e) vice-président(e) ;\
-– un(e) trésorier(ère) ;\
-– un(e) trésorier(ère) adjoint(e) ;\
-– un(e) secrétaire ;\
-– un(e) secrétaire adjoint(e).\
+- un(e) président(e) ;
+- un(e) vice-président(e) ;
+- un(e) trésorier(ère) ;
+- un(e) trésorier(ère) adjoint(e) ;
+- un(e) secrétaire ;
+- un(e) secrétaire adjoint(e).
+
 La présidence, le (la) trésorier(ère) adjoint(e) et le (la) secrétaire adjoint(e) sont désignés par un collège, la vice-présidence, le (la) trésorier(ère)e et le (la) secrétaire sont désignés par l'autre collège. A chaque renouvellement des fonctions, celles-ci sont permutées entre les deux collèges.\
 Le (la) président(e) du conseil d'administration du FAFIEC est vice-président(e) de la CPNE. Parallèlement, le (la) président(e) de la CPNE est vice-président(e) du conseil d'administration du FAFIEC.\
 En cas d'empêchement, la présidence du conseil d'administration est assurée par un membre du même collège.\
@@ -63,9 +65,10 @@ D. – Réunions du conseil d'administration
 
 Le conseil d'administration ordinaire se réunit au minimum 5 fois par an :
 
-– à des dates fixées en début d'année ;\
-– sur convocation de sa présidence ;\
-– les convocations doivent être envoyées au moins 15 jours à l'avance.\
+- à des dates fixées en début d'année ;
+- sur convocation de sa présidence ;
+- les convocations doivent être envoyées au moins 15 jours à l'avance.
+
 Un conseil d'administration extraordinaire peut être convoqué par la présidence ou sur demande du quart de ses membres.\
 Dans ce cas, le délai d'envoi de la convocation est réduit à 5 jours. Les décisions de ce conseil d'administration extraordinaire sont prises d'après les mêmes règles que celles des conseils d'administration ordinaires.\
 La présence ou la représentation de la moitié des membres de chaque collège du conseil d'administration est nécessaire pour assurer la validité des délibérations.\
@@ -76,12 +79,13 @@ E. – Le bureau du FAFIEC
 
 Le bureau est composé paritairement de la moitié des administrateurs du conseil d'administration, dont :
 
-– le (la) président(e) ;\
-– le (la) vice-président(e) ;\
-– le (la) trésorier(ère) ;\
-– le (la) trésorier(ère) adjoint(e) ;\
-– le (la) secrétaire ;\
-– le (la) secrétaire adjoint(e).\
+- le (la) président(e) ;
+- le (la) vice-président(e) ;
+- le (la) trésorier(ère) ;
+- le (la) trésorier(ère) adjoint(e) ;
+- le (la) secrétaire ;
+- le (la) secrétaire adjoint(e).
+
 Chacune des organisations syndicales représentatives dans la branche de l'accord est représentée au sein du bureau.\
 Le mandat des membres du bureau est d'une durée équivalente à celle du conseil d'administration.\
 En cas d'empêchement du président, la présidence des réunions du bureau est assurée par un membre du même collège.\

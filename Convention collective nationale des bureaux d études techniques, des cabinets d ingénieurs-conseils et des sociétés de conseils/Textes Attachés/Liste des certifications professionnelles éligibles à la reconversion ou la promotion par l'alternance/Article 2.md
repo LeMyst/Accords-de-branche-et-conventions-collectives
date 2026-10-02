@@ -1,15 +1,16 @@
 # Article 2
 
-Dans le cadre des études prospectives et des enquêtes, menées depuis plusieurs années par l'observatoire paritaire des métiers du numérique, de l'ingénierie, des études et du conseil et des métiers de l'événement, l'OPIIEC, les parties signataires ont observé que les secteurs de la branche sont confrontés à des mutations sensibles des métiers et de l'activité professionnelle des salariés :\
-– le devenir des métiers et des emplois dans la branche du numérique, de l'ingénierie, des études et du conseil face à la transformation numérique de l'industrie ;\
-– portrait statistique national de la branche des métiers de l'ingénierie, du numérique, des études et du conseil et de l'événement ;\
-– emplois, formations et compétences dans les entreprises de service numérique (ESN) et les sociétés d'ingénierie et de conseil en technologie (ICT) en France ;\
-– les formations et les compétences en France sur la cybersécurité ;\
-– étude prospective sur les besoins en compétences dans les métiers du conseil ;\
-– étude sur les dynamiques d'emploi dans l'ingénierie : état des lieux des besoins en compétences et des tensions en recrutement ;\
-– formation et compétences sur l'intelligence artificielle en France ;\
-– état des lieux des métiers et de l'emploi des activités de l'ingénierie et du conseil en environnement ;\
-– étude prospective sur les métiers de l'ingénierie et du conseil en acoustique.
+Dans le cadre des études prospectives et des enquêtes, menées depuis plusieurs années par l'observatoire paritaire des métiers du numérique, de l'ingénierie, des études et du conseil et des métiers de l'événement, l'OPIIEC, les parties signataires ont observé que les secteurs de la branche sont confrontés à des mutations sensibles des métiers et de l'activité professionnelle des salariés :
+
+- le devenir des métiers et des emplois dans la branche du numérique, de l'ingénierie, des études et du conseil face à la transformation numérique de l'industrie ;
+- portrait statistique national de la branche des métiers de l'ingénierie, du numérique, des études et du conseil et de l'événement ;
+- emplois, formations et compétences dans les entreprises de service numérique (ESN) et les sociétés d'ingénierie et de conseil en technologie (ICT) en France ;
+- les formations et les compétences en France sur la cybersécurité ;
+- étude prospective sur les besoins en compétences dans les métiers du conseil ;
+- étude sur les dynamiques d'emploi dans l'ingénierie : état des lieux des besoins en compétences et des tensions en recrutement ;
+- formation et compétences sur l'intelligence artificielle en France ;
+- état des lieux des métiers et de l'emploi des activités de l'ingénierie et du conseil en environnement ;
+- étude prospective sur les métiers de l'ingénierie et du conseil en acoustique.
 
 Au sein des différents secteurs d'activité constituant le tissu économique de la branche, le nombre d'entreprises est en croissance depuis plusieurs années (15 % des créations d'entreprises le sont sur les secteurs de la branche alors que les entreprises de la branche ne représentent que 2 % des entreprises de France). Ces secteurs sont structurellement à la recherche de compétences techniques et expertes pour satisfaire les attentes des entreprises et des clients. La certification des salariés contribue à la qualification nécessaire pour répondre à cet enjeu.
 

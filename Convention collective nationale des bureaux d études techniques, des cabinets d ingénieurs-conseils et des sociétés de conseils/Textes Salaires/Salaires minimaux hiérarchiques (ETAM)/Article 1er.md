@@ -2,9 +2,10 @@
 
 Il a été convenu de la suppression de la position « 1.1 » de la grille « ETAM » à laquelle est rattaché le coefficient « 230 ».
 
-En conséquence, les deux fonctions d'exécution restantes au sein du groupe fonctionnel 1 sont nouvellement numérotées :\
-– la nouvelle position « 1.1 » (anciennement « 1.2 ») est rattaché au coefficient « 240 » ;\
-– la nouvelle position « 1.2 » (anciennement « 1.3 ») est rattaché au coefficient « 250 ».
+En conséquence, les deux fonctions d'exécution restantes au sein du groupe fonctionnel 1 sont nouvellement numérotées :
+
+- la nouvelle position « 1.1 » (anciennement « 1.2 ») est rattaché au coefficient « 240 » ;
+- la nouvelle position « 1.2 » (anciennement « 1.3 ») est rattaché au coefficient « 250 ».
 
 Ainsi, l'article 1er de l'avenant n° 47 relatif aux salaires minimaux hiérarchiques en date du 31/03/2022 modifié est rédigé de la manière suivante :
 

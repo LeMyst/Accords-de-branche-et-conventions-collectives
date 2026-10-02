@@ -10,28 +10,30 @@ Sont visés par cet accord les membres des instances de dialogue social au sein 
 
 Mandats au sein des instances de branche
 
-Les salariés désignés par des organisations représentatives de salariés dans les instances nationales et régionales de branche telles qu'instituées par les différents accords, avenants et annexes de la branche indiqués ci-après bénéficient également des stipulations du présent accord :\
-– mandataires CPPNI (accord de branche du 14/12/2017) ;\
-– mandataires CPNEFP (accord de branche du 30/10/2008 et ses avenants) ;\
-– mandataires CPREFP (accord de branche du 25/06/2015) ;\
-– mandataires OPIIEC (accord de branche du 28/07/2003) ;\
-– mandataires ADESATT (accord de branche du 25/10/2007 et ses avenants) ;\
-– mandataires ATLAS au sein du conseil d'administration, du bureau du conseil d'administration, des sections paritaires professionnelles, et des commissions paritaires transverses (accord de constitution du 20/12/2018) ;\
-– mandataires CPS Santé (accord de branche du 7/10/2015) ;\
-– mandataires CPS Prévoyance (accord de branche du 27/03/1997) ;\
-– mandataires CP-TPME (accord de branche 29/07/2020).
+Les salariés désignés par des organisations représentatives de salariés dans les instances nationales et régionales de branche telles qu'instituées par les différents accords, avenants et annexes de la branche indiqués ci-après bénéficient également des stipulations du présent accord :
+
+- mandataires CPPNI (accord de branche du 14/12/2017) ;
+- mandataires CPNEFP (accord de branche du 30/10/2008 et ses avenants) ;
+- mandataires CPREFP (accord de branche du 25/06/2015) ;
+- mandataires OPIIEC (accord de branche du 28/07/2003) ;
+- mandataires ADESATT (accord de branche du 25/10/2007 et ses avenants) ;
+- mandataires ATLAS au sein du conseil d'administration, du bureau du conseil d'administration, des sections paritaires professionnelles, et des commissions paritaires transverses (accord de constitution du 20/12/2018) ;
+- mandataires CPS Santé (accord de branche du 7/10/2015) ;
+- mandataires CPS Prévoyance (accord de branche du 27/03/1997) ;
+- mandataires CP-TPME (accord de branche 29/07/2020).
 
 Mandats au sein d'autres instances paritaires
 
-Sont également visés les mandats de représentants de salariés, externes aux entreprises, notamment indiqués ci-dessous, à la condition que les salariés qui les détiennent aient informé l'employeur de leurs mandats :\
-– conseiller prud'homme (art. L. 2412-13 du code du travail) ;\
-– défenseur syndical (art. L. 1453-4 du code du travail) ;\
-– conseiller du salarié (articles L. 1232-7 et suivants du code du travail) ;\
-– membre du conseil d'administration d'une mutuelle (art. L. 114-24 du code de la mutualité) ;\
-– membre du conseil d'administration d'une caisse de sécurité sociale (art. L. 231-2 du code de la sécurité sociale) ;\
-– membres des commissions paritaires régionales interprofessionnelles (art. L. 23-111-1 du code du travail) ;\
-– membre de l'organe de gouvernance d'un organisme à but social et professionnel (ex : APEC, Unédic, Action Logement …) ;\
-– membre du conseil supérieur de la prud'homie et de ses commissions (articles R. 1431-1 à R. 1431-16).
+Sont également visés les mandats de représentants de salariés, externes aux entreprises, notamment indiqués ci-dessous, à la condition que les salariés qui les détiennent aient informé l'employeur de leurs mandats :
+
+- conseiller prud'homme (art. L. 2412-13 du code du travail) ;
+- défenseur syndical (art. L. 1453-4 du code du travail) ;
+- conseiller du salarié (articles L. 1232-7 et suivants du code du travail) ;
+- membre du conseil d'administration d'une mutuelle (art. L. 114-24 du code de la mutualité) ;
+- membre du conseil d'administration d'une caisse de sécurité sociale (art. L. 231-2 du code de la sécurité sociale) ;
+- membres des commissions paritaires régionales interprofessionnelles (art. L. 23-111-1 du code du travail) ;
+- membre de l'organe de gouvernance d'un organisme à but social et professionnel (ex : APEC, Unédic, Action Logement …) ;
+- membre du conseil supérieur de la prud'homie et de ses commissions (articles R. 1431-1 à R. 1431-16).
 
 Mandats définis par accord collectif d'entreprise
 

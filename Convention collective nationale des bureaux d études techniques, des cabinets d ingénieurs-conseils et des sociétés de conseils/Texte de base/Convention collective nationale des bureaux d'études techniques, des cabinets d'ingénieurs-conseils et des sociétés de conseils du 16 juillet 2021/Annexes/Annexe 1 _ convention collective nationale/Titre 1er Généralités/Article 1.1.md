@@ -1,8 +1,9 @@
 # Article 1.1
 
-Sous réserve de relever des champs d'application territorial et professionnel définis au présent article, la convention collective est applicable :\
-– aux employeurs de droit privé ainsi qu'à leurs salariés ;\
-– aux établissements publics à caractère industriel et commercial et ceux à caractère administratifs lorsqu'ils emploient du personnel dans les conditions de droit privé.
+Sous réserve de relever des champs d'application territorial et professionnel définis au présent article, la convention collective est applicable :
+
+- aux employeurs de droit privé ainsi qu'à leurs salariés ;
+- aux établissements publics à caractère industriel et commercial et ceux à caractère administratifs lorsqu'ils emploient du personnel dans les conditions de droit privé.
 
 Champ d'application territorial
 

@@ -2,11 +2,12 @@
 
 Les déplacements professionnels peuvent être effectués par :
 
-1. Tous les moyens de transport en commun selon les modalités suivantes, sauf stipulation contraire :\
-   – avion : classe économique ;\
-   – train et bateau :\
-   – 2e classe ou confort équivalent pour les ETAM ;\
-   – 1re classe ou confort équivalent pour les ingénieurs et cadres.
+1. Tous les moyens de transport en commun selon les modalités suivantes, sauf stipulation contraire :
+
+   - avion : classe économique ;
+   - train et bateau :
+   - 2e classe ou confort équivalent pour les ETAM ;
+   - 1re classe ou confort équivalent pour les ingénieurs et cadres.
 
 1. Tous les moyens de transport personnels du salarié à la condition que leur usage à des fins professionnelles ait fait l'objet d'un accord écrit entre l'employeur et le salarié.
 
@@ -16,9 +17,10 @@ L'utilisation par le salarié de son véhicule terrestre à moteur personnel, po
 
 Le remboursement de ces frais tient compte de l'amortissement du véhicule, des frais de garage, de réparations et d'entretien, des frais d'assurances et, éventuellement, des taxes sur le véhicule.
 
-L'employeur s'assure que le salarié :\
-– est en possession des documents nécessaires à la conduite du véhicule utilisé (permis de conduire et certificat d'immatriculation en cours de validité) ;\
-– est couvert par une assurance garantissant sans limitation le risque de responsabilité civile « affaires, déplacements professionnels » et notamment de responsabilité civile de son employeur, en cas d'accident causé aux tiers du fait de l'utilisation de ce véhicule pour les besoins du service.
+L'employeur s'assure que le salarié :
+
+- est en possession des documents nécessaires à la conduite du véhicule utilisé (permis de conduire et certificat d'immatriculation en cours de validité) ;
+- est couvert par une assurance garantissant sans limitation le risque de responsabilité civile « affaires, déplacements professionnels » et notamment de responsabilité civile de son employeur, en cas d'accident causé aux tiers du fait de l'utilisation de ce véhicule pour les besoins du service.
 
 La communication de ces pièces (certificat d'immatriculation, permis de conduire et attestation d'assurance) vaut engagement de rester en règle par rapport aux obligations liées à ces documents.
 

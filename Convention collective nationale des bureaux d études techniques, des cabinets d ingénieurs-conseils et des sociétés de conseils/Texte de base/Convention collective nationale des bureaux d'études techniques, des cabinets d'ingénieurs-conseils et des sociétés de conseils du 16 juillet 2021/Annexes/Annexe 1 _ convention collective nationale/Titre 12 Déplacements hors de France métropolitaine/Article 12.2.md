@@ -9,22 +9,38 @@ Il est préconisé que soient prévues par accord d'entreprise ou note de servic
 a) Dans tous les cas, cet ordre de mission stipule que le salarié reste rémunéré par l'entreprise d'origine ou par une filiale auprès de laquelle il est détaché et comporte les mentions suivantes :
 
 1. les noms, prénoms, qualités et adresses des parties ;
+
 1. la nature, la durée et le lieu de la mission ;
+
 1. les modalités d'exécution des stipulations concernant les voyages et transports ;
+
 1. la couverture des risques et des frais de voyage et de déplacement ;
+
 1. l'utilisation ou non d'un véhicule personnel, la possibilité ou non d'amener un véhicule personnel ;
+
 1. l'obligation ou non d'un contrôle médical et de vaccinations ;
+
 1. la référence, s'il y a lieu, à un accord d'entreprise relatif aux déplacements et missions ;
+
 1. le lieu du rapatriement en fin de séjour ;
+
 1. les éléments de rémunération, des indemnités de séjour et dépaysement, les primes éventuelles d'équipement, etc., dont les bases de calcul peuvent faire l'objet de notes de service en fonction, notamment, des conditions particulières à chaque pays et de leur régime fiscal ;
-1. les modalités de règlement de la rémunération, des primes et avances et incidences fiscales de ces modalités ; il doit être notamment précisé si la rémunération mensuelle et les indemnités auxquelles le salarié a droit pendant le séjour sont payables :\
-   – soit en partie en France métropolitaine en euros, à un compte ouvert en France au nom du salarié dans l'établissement bancaire de son choix ;\
-   – soit en tout ou partie en monnaie locale pour sa contre-valeur au taux de change officiel.\
+
+1. les modalités de règlement de la rémunération, des primes et avances et incidences fiscales de ces modalités ; il doit être notamment précisé si la rémunération mensuelle et les indemnités auxquelles le salarié a droit pendant le séjour sont payables :
+
+   - soit en partie en France métropolitaine en euros, à un compte ouvert en France au nom du salarié dans l'établissement bancaire de son choix ;
+   - soit en tout ou partie en monnaie locale pour sa contre-valeur au taux de change officiel.
+
    Ces dispositions peuvent être modifiées en cours de mission si les circonstances venaient à l'exiger, ou d'un commun accord entre les parties ;
+
 1. les conditions de logement, s'il y a lieu, et d'équipement de celui-ci ;
+
 1. les conditions dans lesquelles s'effectueront les déplacements sur le lieu de mission ;
+
 1. les conditions d'application des droits aux congés payés par dérogation au titre 5, en cas de mission d'une durée supérieure à 24 mois ;
+
 1. les conditions du préavis visé à l'article 4.2 de la convention collective, et de prévenance en cas de fin mission anticipée ;
+
 1. les conditions du retour à l'issue de la mission.
 
 b) En outre, si la durée du déplacement est supérieure à 6 mois :\

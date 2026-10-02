@@ -14,9 +14,10 @@ Ainsi, le télétravail comprend différentes organisations de travail :
 
 Le travail hybride ou l'organisation hybride du travail désignent un mode d'organisation du travail dans lequel le salarié réalise son activité de manière régulière ou occasionnelle pour partie dans les locaux de l'entreprise ou des clients de son entreprise et pour une autre partie en télétravail.
 
-Dans le cadre du travail hybride :\
-– le télétravail peut faire partie de l'organisation normale de travail du salarié et ainsi être réalisé à une fréquence régulière convenue entre le salarié et la hiérarchie ;\
-– le télétravail peut être utilisé de manière occasionnelle sur demande du salarié pour convenances personnelles ou à l'initiative de l'employeur, notamment pour répondre à des situations inhabituelles et temporaires rendant les déplacements particulièrement difficiles (par exemple : grève des transports publics, épisode neigeux, pic de pollution donnant lieu à un arrêté préfectoral de restrictions de la circulation …) ou à des contraintes organisationnelles (problème de réseau dans l'entreprise).
+Dans le cadre du travail hybride :
+
+- le télétravail peut faire partie de l'organisation normale de travail du salarié et ainsi être réalisé à une fréquence régulière convenue entre le salarié et la hiérarchie ;
+- le télétravail peut être utilisé de manière occasionnelle sur demande du salarié pour convenances personnelles ou à l'initiative de l'employeur, notamment pour répondre à des situations inhabituelles et temporaires rendant les déplacements particulièrement difficiles (par exemple : grève des transports publics, épisode neigeux, pic de pollution donnant lieu à un arrêté préfectoral de restrictions de la circulation …) ou à des contraintes organisationnelles (problème de réseau dans l'entreprise).
 
 Le travail hybride peut être mis en place par journée (s) ou demi-journée (s) d'un commun accord entre l'entreprise et le salarié (l'accord sera formalisé par tout moyen écrit). La direction sera libre d'accepter ou non la demande du salarié.
 

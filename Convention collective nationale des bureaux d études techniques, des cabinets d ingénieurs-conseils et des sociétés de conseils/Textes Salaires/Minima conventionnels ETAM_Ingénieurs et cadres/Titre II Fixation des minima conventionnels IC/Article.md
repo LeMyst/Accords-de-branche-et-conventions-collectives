@@ -1,9 +1,11 @@
 # Article
 
 Le présent avenant a pour objet de déterminer les salaires minimaux conventionnels des ingénieurs et cadres (IC) à compter de la date prévue au titre III.\
-À compter de la date prévue au titre III du présent avenant, la valeur du point des ingénieurs et cadres classés dans la grille cadre de la convention collective nationale est fixée :\
-– pour les positions 1.1, 1.2, 2.1 (coefficient 105), 2.1 (coefficient 115), 2.2, 2.3 à 20,51 € brut pour les ingénieurs et cadres classés dans la grille cadre de la convention collective nationale ;\
-– pour les positions 3.1, 3.2, 3.3, à 20,43 € brut pour les ingénieurs et cadres classés dans la grille cadre de la convention collective nationale.\
+À compter de la date prévue au titre III du présent avenant, la valeur du point des ingénieurs et cadres classés dans la grille cadre de la convention collective nationale est fixée :
+
+- pour les positions 1.1, 1.2, 2.1 (coefficient 105), 2.1 (coefficient 115), 2.2, 2.3 à 20,51 € brut pour les ingénieurs et cadres classés dans la grille cadre de la convention collective nationale ;
+- pour les positions 3.1, 3.2, 3.3, à 20,43 € brut pour les ingénieurs et cadres classés dans la grille cadre de la convention collective nationale.
+
 Cette révision ainsi définie de la valeur du point des ingénieurs et cadres porte le montant des nouveaux salaires minimaux conventionnels aux sommes indiquées dans le tableau ci-dessous, par position et coefficient de la grille cadre de la convention collective nationale :
 
 (En euros.)

@@ -4,9 +4,10 @@ Bilan de la négociation collective d'entreprise
 
 La CPPNI *(1)* établit un rapport annuel d'activité qu'elle verse dans une base de données nationale.
 
-Ce rapport comprend :\
-– un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle, des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ;\
-– un bilan des outils mis à disposition des entreprises sur le site internet de L'ADESATT *(2)* pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes.
+Ce rapport comprend :
+
+- un bilan de l'action de la branche en faveur de l'égalité professionnelle entre les femmes et les hommes, notamment en matière de classifications, de promotion de la mixité des emplois et d'établissement des certificats de qualification professionnelle, des données chiffrées sur la répartition et la nature des postes entre les femmes et les hommes ;
+- un bilan des outils mis à disposition des entreprises sur le site internet de L'ADESATT *(2)* pour prévenir et agir contre le harcèlement sexuel et les agissements sexistes.
 
 Ces bilans sont présentés pour discussion au sein de la CPPNI *(3)* .
 

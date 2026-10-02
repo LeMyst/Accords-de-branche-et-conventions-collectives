@@ -16,9 +16,10 @@ Ces données révèlent donc plusieurs enjeux pour les entreprises de la branche
 
 Conscients de l'impact néfaste des agissements sexistes et du harcèlement sexuel au travail aussi bien sur la santé et la qualité de vie et des conditions de travail des salariés, que sur l'attractivité des métiers de la branche, les partenaires sociaux de la branche des bureaux d'études techniques manifestent, par la conclusion du présent accord de branche, leur volonté de poursuivre l'ambition des négociateurs de l'ANI de 2010 consistant à renforcer la prévention de ces risques, et d'encourager la prise en compte de ces sujets au sein des entreprises de la branche.
 
-Le présent accord de branche a donc deux ambitions :\
-– améliorer la sensibilisation, la compréhension et la prise de conscience des employeurs, des salariés et de leurs représentants à l'égard du harcèlement sexuel et des agissements sexistes afin de mieux prévenir ces phénomènes et les éliminer ;\
-– apporter aux employeurs, aux salariés et à leurs représentants les outils favorisant l'identification, la prévention et la gestion des problèmes de harcèlement sexuel et d'agissements sexistes.
+Le présent accord de branche a donc deux ambitions :
+
+- améliorer la sensibilisation, la compréhension et la prise de conscience des employeurs, des salariés et de leurs représentants à l'égard du harcèlement sexuel et des agissements sexistes afin de mieux prévenir ces phénomènes et les éliminer ;
+- apporter aux employeurs, aux salariés et à leurs représentants les outils favorisant l'identification, la prévention et la gestion des problèmes de harcèlement sexuel et d'agissements sexistes.
 
 Conscients de la spécificité de la branche et de la position de certaines entreprises comme sous-traitantes, les partenaires sociaux ont souhaité aborder cet aspect tout au long de l'accord de branche.
 

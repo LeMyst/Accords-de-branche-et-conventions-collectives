@@ -10,10 +10,11 @@ La lettre de rupture rappelle la fonction exercée dans l'entreprise par le sala
 
 Avant tout éventuel licenciement, le salarié est convoqué par l'employeur à un entretien. La convocation à cet entretien préalable est effectuée par lettre recommandée avec accusé de réception ou par lettre remise en main propre contre décharge.
 
-Cette lettre indique :\
-– l'objet de la convocation ;\
-– la date, l'heure et le lieu de la convocation ;\
-– la faculté pour le salarié de se faire assister par une personne de son choix appartenant au personnel de l'entreprise, par un représentant des salariés, ou par un conseiller du salarié quand il n'y a pas de représentant des salariés dans l'entreprise. La lettre mentionne alors les coordonnées de la mairie du lieu de travail et de l'inspection du travail afin que le salarié puisse s'y procurer la liste des conseillers.
+Cette lettre indique :
+
+- l'objet de la convocation ;
+- la date, l'heure et le lieu de la convocation ;
+- la faculté pour le salarié de se faire assister par une personne de son choix appartenant au personnel de l'entreprise, par un représentant des salariés, ou par un conseiller du salarié quand il n'y a pas de représentant des salariés dans l'entreprise. La lettre mentionne alors les coordonnées de la mairie du lieu de travail et de l'inspection du travail afin que le salarié puisse s'y procurer la liste des conseillers.
 
 En cas de licenciement pour raisons économiques, la procédure varie selon le nombre de salariés concernés, en application des dispositions légales. Il est précisé que seuls sont exclus du champ d'application de l'entretien préalable les salariés inclus dans un projet de licenciement économique concernant 10 salariés et plus dans la même période de 30 jours dans les entreprises disposant de représentants des salariés, ce licenciement faisant l'objet d'une consultation de ces derniers.
 

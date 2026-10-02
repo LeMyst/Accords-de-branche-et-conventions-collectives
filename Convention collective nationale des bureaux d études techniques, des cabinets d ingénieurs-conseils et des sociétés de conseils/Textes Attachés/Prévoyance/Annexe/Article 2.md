@@ -6,9 +6,10 @@ Les cotisations de prévoyance sont calculées sur le salaire brut plafonné à 
 
 2. Taux des cotisations prévoyance
 
-Pour l'ensemble des risques garantis par l'accord « Prévoyance » du 27 mars 1997, les entreprises adhérentes au régime de branche s'acquitteront d'une cotisation calculée comme suit :\
-– sur la tranche 1 du salaire brut : 0,85 % ;\
-– sur la tranche 2 du salaire brut : 1,10 %.
+Pour l'ensemble des risques garantis par l'accord « Prévoyance » du 27 mars 1997, les entreprises adhérentes au régime de branche s'acquitteront d'une cotisation calculée comme suit :
+
+- sur la tranche 1 du salaire brut : 0,85 % ;
+- sur la tranche 2 du salaire brut : 1,10 %.
 
 3. Répartition
 
@@ -22,9 +23,10 @@ Pour les situations visées à l'article 2, paragraphes 3 et 4, de l'accord du 2
 
 4. Impact de la réforme des retraites
 
-Le taux de cotisation défini à l'article 2.2 du présent avenant inclut le financement de la charge pour le régime de prévoyance que représentent les conséquences du report de l'âge d'ouverture des droits à la retraite à 62 ans (loi n° 2010-1330 du 9 novembre 2010), c'est-à-dire l'allongement correspondant de la période de couverture au titre :\
-– des garanties incapacité de travail et invalidité ;\
-– du maintien des garanties décès (art. 7-1 de la loi n° 89-1009 du 31 décembre 1989, dite loi Evin).
+Le taux de cotisation défini à l'article 2.2 du présent avenant inclut le financement de la charge pour le régime de prévoyance que représentent les conséquences du report de l'âge d'ouverture des droits à la retraite à 62 ans (loi n° 2010-1330 du 9 novembre 2010), c'est-à-dire l'allongement correspondant de la période de couverture au titre :
+
+- des garanties incapacité de travail et invalidité ;
+- du maintien des garanties décès (art. 7-1 de la loi n° 89-1009 du 31 décembre 1989, dite loi Evin).
 
 Conformément aux dispositions de l'article 26 de la loi susvisée, la constitution du provisionnement correspondant à cette charge nouvelle est échelonnée sur une période transitoire expirant au 31 décembre 2015, pour les entreprises dont l'adhésion est antérieure à la date d'entrée en vigueur de ladite loi.
 

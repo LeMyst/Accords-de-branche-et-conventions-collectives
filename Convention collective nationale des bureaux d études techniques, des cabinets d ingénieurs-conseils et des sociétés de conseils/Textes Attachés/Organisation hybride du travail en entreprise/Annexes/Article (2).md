@@ -6,11 +6,12 @@ Guide de bonnes pratiques
 
 La première étape consiste à informer les salariés de la démarche en cours au sein de l'entreprise sur l'expérimentation du télétravail et des conditions d'accès (critères d'éligibilité, règles et procédures…).
 
-Travailler en télétravail, avoir un collègue en télétravail ou manager une personne en situation de télétravail nécessite de :\
-– connaître l'environnement réglementaire ;\
-– s'adapter à une organisation du travail spécifique ;\
-– rester proactif dans la communication à distance ;\
-– être autonome dans l'utilisation des outils de travail à distance.
+Travailler en télétravail, avoir un collègue en télétravail ou manager une personne en situation de télétravail nécessite de :
+
+- connaître l'environnement réglementaire ;
+- s'adapter à une organisation du travail spécifique ;
+- rester proactif dans la communication à distance ;
+- être autonome dans l'utilisation des outils de travail à distance.
 
 Il convient d'apporter des contenus d'informations dès la phase de démarrage du projet et la phase de sensibilisation.
 
@@ -38,17 +39,19 @@ Il est conseillé de communiquer aux salariés en télétravail un descriptif de
 
 Il est important de vérifier que le salarié possède tous les outils nécessaires à son travail à distance et qu'il maîtrise ces outils (communication et gestion collaborative de projets, par exemple). Dans le cas contraire, des formations spécifiques peuvent être organisées.
 
-Enfin, le télétravail peut exposer à des risques professionnels spécifiques liés notamment à :\
-– l'autonomie : gestion de cette autonomie, planification de la charge de travail, temps de pauses et déconnexion… Il existe des risques accrus de surinvestissement. En cas de signaux détectés par le manager ou le collectif de travail, il est important de pouvoir réguler la situation (entretien, rappel du cadre, point sur la charge de travail et l'organisation, etc.) ;\
-– la communication avec les managers et collègues : risques d'incompréhensions dans la communication écrite, isolement, manque de soutien social de proximité en cas de difficultés.
+Enfin, le télétravail peut exposer à des risques professionnels spécifiques liés notamment à :
+
+- l'autonomie : gestion de cette autonomie, planification de la charge de travail, temps de pauses et déconnexion… Il existe des risques accrus de surinvestissement. En cas de signaux détectés par le manager ou le collectif de travail, il est important de pouvoir réguler la situation (entretien, rappel du cadre, point sur la charge de travail et l'organisation, etc.) ;
+- la communication avec les managers et collègues : risques d'incompréhensions dans la communication écrite, isolement, manque de soutien social de proximité en cas de difficultés.
 
 **Étape 3** Identifier les acteurs ressources
 
-Il est possible d'identifier plusieurs interlocuteurs privilégiés pour la mise en place du télétravail :\
-– le premier interlocuteur privilégié du télétravailleur est son manager. Au-delà du suivi de l'activité, des échanges réguliers sont à prévoir concernant plus spécifiquement le télétravail et ses impacts. Un entretien annuel peut également être organisé pour faire un bilan des conditions d'activité et de la charge de travail ;\
-– un « référent télétravail » au sein de l'entreprise peut permettre de répondre aux questions des salariés et des managers, de suivre le déploiement du projet et faire remontrer les éventuels besoins d'ajustement aux instances de suivi ;\
-– l'interlocuteur technique/support informatique doit également être identifié pour répondre aux problématiques des télétravailleurs. Au-delà des interlocuteurs, plusieurs ressources peuvent être mises à disposition : guides pratiques, formulaire de demande, trame d'entretien… ;\
-– pour les entreprises de plus de 250 salariés, un référent déconnexion est mis en place. Ce référent a pour rôle de sensibiliser les collaborateurs et les managers aux enjeux de la déconnexion, et de diffuser les bonnes pratiques de la connexion responsable. Le référent déconnexion est intégré à la procédure d'alerte.
+Il est possible d'identifier plusieurs interlocuteurs privilégiés pour la mise en place du télétravail :
+
+- le premier interlocuteur privilégié du télétravailleur est son manager. Au-delà du suivi de l'activité, des échanges réguliers sont à prévoir concernant plus spécifiquement le télétravail et ses impacts. Un entretien annuel peut également être organisé pour faire un bilan des conditions d'activité et de la charge de travail ;
+- un « référent télétravail » au sein de l'entreprise peut permettre de répondre aux questions des salariés et des managers, de suivre le déploiement du projet et faire remontrer les éventuels besoins d'ajustement aux instances de suivi ;
+- l'interlocuteur technique/support informatique doit également être identifié pour répondre aux problématiques des télétravailleurs. Au-delà des interlocuteurs, plusieurs ressources peuvent être mises à disposition : guides pratiques, formulaire de demande, trame d'entretien… ;
+- pour les entreprises de plus de 250 salariés, un référent déconnexion est mis en place. Ce référent a pour rôle de sensibiliser les collaborateurs et les managers aux enjeux de la déconnexion, et de diffuser les bonnes pratiques de la connexion responsable. Le référent déconnexion est intégré à la procédure d'alerte.
 
 **Étape 4** Veiller à conserver des temps collectifs en présentiel
 
@@ -64,10 +67,11 @@ Au niveau individuel, le télétravail peut nécessiter des ajustements régulie
 
 Au niveau collectif, il est important d'évaluer le déploiement du télétravail tout au long du projet.
 
-Les indicateurs d'impact doivent être fixés dès le démarrage du projet, au regard des objectifs fixés. Ceux-ci peuvent ensuite être ajustés et complétés tout au long de l'expérimentation. Les indicateurs peuvent concerner :\
-– les modalités de l'expérimentation : caractéristiques des personnes en télétravail, nombre de jours télétravaillés, répartition dans le temps, taux de réversibilité, accès aux informations, satisfaction vis-à-vis des modalités de mise en œuvre… ;\
-– les impacts sur les télétravailleurs : distance domicile-travail et coûts évités, incidences environnementales, impacts ressentis sur la qualité de vie, l'efficacité professionnelle, la santé et sécurité au travail… ;\
-– les impacts pour le collectif de travail : impacts ressentis sur l'ambiance et la convivialité, le partage d'informations, la disponibilité… ;\
-– les impacts sur le manager : évolution des pratiques managériales, impact des actions d'accompagnement et de communication, niveau de confiance et satisfaction, fatigue accrue des managers.
+Les indicateurs d'impact doivent être fixés dès le démarrage du projet, au regard des objectifs fixés. Ceux-ci peuvent ensuite être ajustés et complétés tout au long de l'expérimentation. Les indicateurs peuvent concerner :
+
+- les modalités de l'expérimentation : caractéristiques des personnes en télétravail, nombre de jours télétravaillés, répartition dans le temps, taux de réversibilité, accès aux informations, satisfaction vis-à-vis des modalités de mise en œuvre… ;
+- les impacts sur les télétravailleurs : distance domicile-travail et coûts évités, incidences environnementales, impacts ressentis sur la qualité de vie, l'efficacité professionnelle, la santé et sécurité au travail… ;
+- les impacts pour le collectif de travail : impacts ressentis sur l'ambiance et la convivialité, le partage d'informations, la disponibilité… ;
+- les impacts sur le manager : évolution des pratiques managériales, impact des actions d'accompagnement et de communication, niveau de confiance et satisfaction, fatigue accrue des managers.
 
 Le bilan peut ainsi permettre d'étendre l'expérimentation à un public plus large et d'effectuer des actions correctives en cas de besoin.

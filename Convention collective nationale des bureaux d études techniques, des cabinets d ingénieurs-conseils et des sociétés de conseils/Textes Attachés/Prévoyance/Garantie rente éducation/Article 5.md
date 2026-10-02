@@ -10,11 +10,11 @@ Sont considérés comme enfants à charge du participant tous les enfants légit
 
 - jusqu'à leur 25e anniversaire, pendant la durée :
 
--- de l'apprentissage ou des études ;
+  - de l'apprentissage ou des études ;
 
--- de l'inscription auprès de l'Agence nationale pour l'emploi (ANPE) comme demandeurs d'emploi ou effectuant un stage préalablement à l'exercice d'un premier emploi rémunéré ;
+  - de l'inscription auprès de l'Agence nationale pour l'emploi (ANPE) comme demandeurs d'emploi ou effectuant un stage préalablement à l'exercice d'un premier emploi rémunéré ;
 
--- sans limitation de durée en cas d'invalidité reconnue par la sécurité sociale avant le 21e anniversaire, les mettant dans l'impossibilité de se livrer à une activité professionnelle.
+  - sans limitation de durée en cas d'invalidité reconnue par la sécurité sociale avant le 21e anniversaire, les mettant dans l'impossibilité de se livrer à une activité professionnelle.
 
 Par assimilation, sont considérés à charge les enfants légitimes, à naître et nés viables, et les enfants recueillis.
 

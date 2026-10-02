@@ -8,23 +8,26 @@ Les dispositions du titre II, section 1, article 1er, concernant les contrats de
 Le contrat de professionnalisation a pour objectif de favoriser l'insertion ou la réinsertion des jeunes de moins de 26 ans et des demandeurs d'emploi.\
 Le contrat de professionnalisation est destiné :
 
-– aux jeunes de moins de 26 ans, sans qualification professionnelle ou avec une qualification insuffisante pour les métiers de la branche ou à ceux qui veulent compléter leur formation initiale, quel qu'en soit le niveau, pour pouvoir accéder aux métiers de la branche ;\
-– aux demandeurs d'emploi, âgés de 26 ans et plus, lorsqu'une professionnalisation se révèle nécessaire pour favoriser leur retour à l'emploi ;\
-– aux bénéficiaires du revenu de solidarité active (RSA), de l'allocation de solidarité spécifique (ASS) ou de l'allocation aux adultes handicapés (AAH) ;\
-– aux personnes ayant bénéficié d'un contrat aidé.\
+- aux jeunes de moins de 26 ans, sans qualification professionnelle ou avec une qualification insuffisante pour les métiers de la branche ou à ceux qui veulent compléter leur formation initiale, quel qu'en soit le niveau, pour pouvoir accéder aux métiers de la branche ;
+- aux demandeurs d'emploi, âgés de 26 ans et plus, lorsqu'une professionnalisation se révèle nécessaire pour favoriser leur retour à l'emploi ;
+- aux bénéficiaires du revenu de solidarité active (RSA), de l'allocation de solidarité spécifique (ASS) ou de l'allocation aux adultes handicapés (AAH) ;
+- aux personnes ayant bénéficié d'un contrat aidé.
+
 Il a pour objectif de permettre à son bénéficiaire d'obtenir :
 
-– un diplôme ;\
-– un titre à finalité professionnelle inscrit au répertoire national des certifications professionnelles (RNCP) ;\
-– un certificat de qualification professionnelle (CQP) ;\
-– un certificat de qualification interprofessionnelle interbranches (CQPI) ;\
-– une qualification reconnue dans les classifications d'une autre convention collective nationale de branche et qui se traduit par une évolution de coefficient au terme du contrat de professionnalisation, conformément au tableau présenté à l'article 1.2 du présent accord ;\
-– une qualification reconnue sur la base d'un métier du référentiel métiers de la branche et qui se traduit par une évolution de coefficient au terme du contrat de professionnalisation, conformément au tableau présenté à l'article 1.2 du présent accord.\
+- un diplôme ;
+- un titre à finalité professionnelle inscrit au répertoire national des certifications professionnelles (RNCP) ;
+- un certificat de qualification professionnelle (CQP) ;
+- un certificat de qualification interprofessionnelle interbranches (CQPI) ;
+- une qualification reconnue dans les classifications d'une autre convention collective nationale de branche et qui se traduit par une évolution de coefficient au terme du contrat de professionnalisation, conformément au tableau présenté à l'article 1.2 du présent accord ;
+- une qualification reconnue sur la base d'un métier du référentiel métiers de la branche et qui se traduit par une évolution de coefficient au terme du contrat de professionnalisation, conformément au tableau présenté à l'article 1.2 du présent accord.
+
 Ce contrat est mis en œuvre selon les principes suivants :
 
-– personnalisation des parcours de formation ;\
-– alternance des séquences de formation professionnelle et des activités professionnelles en lien avec la qualification recherchée ;\
-– certification ou qualification reconnues des connaissances, compétences et aptitudes professionnelles acquises.\
+- personnalisation des parcours de formation ;
+- alternance des séquences de formation professionnelle et des activités professionnelles en lien avec la qualification recherchée ;
+- certification ou qualification reconnues des connaissances, compétences et aptitudes professionnelles acquises.
+
 Le contrat de professionnalisation est un contrat de travail à durée déterminée ou indéterminée. Lorsqu'il est à durée indéterminée, il débute par une action de professionnalisation.\
 Un tuteur est désigné par l'employeur pour accueillir et guider le (la) salarié (e) dans l'entreprise, pour veiller notamment à l'adéquation des activités confiées au sein de l'entreprise avec la formation poursuivie.
 

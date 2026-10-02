@@ -15,9 +15,10 @@ Aucune information relative à un projet parental ne peut être sollicitée ni u
 
 Maternité
 
-La salariée ayant déclaré sa grossesse bénéficie d'une réduction horaire rémunérée :\
-– de 20 minutes par jour à partir du 3e mois de grossesse ;\
-– de 30 minutes par jour à partir du 5e mois de grossesse.
+La salariée ayant déclaré sa grossesse bénéficie d'une réduction horaire rémunérée :
+
+- de 20 minutes par jour à partir du 3e mois de grossesse ;
+- de 30 minutes par jour à partir du 5e mois de grossesse.
 
 Pour la salariée en forfait annuel en jours ayant déclaré sa grossesse, l'employeur veille à ce que l'amplitude n'excède pas une durée ne lui permettant pas de concilier sa vie professionnelle et sa vie personnelle. L'employeur le formalise par écrit. Dans tous les cas, la charge de travail de la salariée est adaptée en conséquence.
 

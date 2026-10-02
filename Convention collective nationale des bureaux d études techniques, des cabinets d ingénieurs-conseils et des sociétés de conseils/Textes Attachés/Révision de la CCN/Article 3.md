@@ -8,9 +8,10 @@ L'article 4.8 de l'annexe 1 de l'avenant n° 46 à la convention collective nati
 
 Le montant de l'indemnité de départ à la retraite est fixé en fonction de l'ancienneté acquise à la date du départ à la retraite.
 
-Concernant le départ à la retraite :\
-– à 5 ans révolus : 1 mois de rémunération ;\
-– au-delà : 1/5 de mois de rémunération par année d'ancienneté supplémentaire.
+Concernant le départ à la retraite :
+
+- à 5 ans révolus : 1 mois de rémunération ;
+- au-delà : 1/5 de mois de rémunération par année d'ancienneté supplémentaire.
 
 Le mois de rémunération s'entend comme 1/12 de la rémunération des 12 derniers mois précédant la notification de la rupture du contrat de travail.
 

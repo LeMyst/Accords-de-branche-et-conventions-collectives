@@ -15,9 +15,11 @@ Dans ce cadre, les frais pédagogiques de formation seront pris en charge confor
 Les entreprises proposent aux salariés auxquels s'appliquent les modalités de prise en charge de formation prévues au présent article d'utiliser le solde de leurs heures de droit individuel à la formation pour la mise en œuvre de la période de professionnalisation, dans le cadre et dans le respect de l'accord formation de la branche et des textes législatifs et réglementaires en vigueur. Il ne sera pas possible d'anticiper la prise du droit individuel à la formation.\
 Une attention particulière sera portée aux publics prioritaires conformément à l'accord de branche formation en vigueur, ainsi qu'aux salariés ayant suivi un bilan d'étape professionnel.\
 Afin de s'assurer que les modalités de formation et les contenus pédagogiques envisagés répondent à de réels besoins au regard de la sécurisation des parcours professionnels des salariés concernés, les partenaires sociaux décident que le conseil d'administration du FAFIEC, dans la limite de ses ressources financières, pourra confier à des prestataires extérieurs spécialisés dans le conseil en ressources humaines le soin d'accompagner les salariés des entreprises dans la détermination de leurs besoins en formation.\
-Les prestataires sélectionnés procéderont à :\
-– des bilans d'étapes professionnels ;\
-– l'élaboration de cursus de formation adaptés aux besoins des salariés concernés ;\
-– l'utilisation de dispositifs existants, tels que les comités de pilotage, l'ensemble des études et outils mis à disposition par l'OPIIEC dans le cadre du dispositif de gestion prévisionnelle des emplois et des compétences, etc.\
+Les prestataires sélectionnés procéderont à :
+
+- des bilans d'étapes professionnels ;
+- l'élaboration de cursus de formation adaptés aux besoins des salariés concernés ;
+- l'utilisation de dispositifs existants, tels que les comités de pilotage, l'ensemble des études et outils mis à disposition par l'OPIIEC dans le cadre du dispositif de gestion prévisionnelle des emplois et des compétences, etc.
+
 Les prestataires transmettent au FAFIEC un bilan quantitatif et qualitatif, dont la périodicité sera fixée dans la convention passée entre le FAFIEC et les prestataires.\
 Le FAFIEC met en œuvre une procédure d'évaluation du dispositif dont a bénéficié chaque salarié pour les actions de formation réalisées suite à un diagnostic réalisé dans le cadre du présent article.

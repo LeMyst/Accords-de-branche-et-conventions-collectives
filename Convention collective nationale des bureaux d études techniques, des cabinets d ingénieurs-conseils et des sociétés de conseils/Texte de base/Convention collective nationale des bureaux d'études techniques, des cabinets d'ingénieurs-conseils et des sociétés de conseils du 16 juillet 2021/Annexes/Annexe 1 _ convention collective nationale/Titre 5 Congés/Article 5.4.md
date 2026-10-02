@@ -1,8 +1,9 @@
 # Article 5.4
 
-L'employeur peut après consultation du comité social et économique (CSE) s'il existe :\
-– soit procéder à la fermeture totale de l'entreprise ;\
-– soit établir les congés payés par roulement.
+L'employeur peut après consultation du comité social et économique (CSE) s'il existe :
+
+- soit procéder à la fermeture totale de l'entreprise ;
+- soit établir les congés payés par roulement.
 
 En cas de fermeture totale de l'entreprise pour congés payés sur la période du 1er mai au 31 octobre, la date de fermeture doit être portée à la connaissance des salariés au plus tard le 1er mars de chaque année.
 

@@ -6,11 +6,12 @@ Les partenaires sociaux rappellent la nécessité pour les entreprises de vérif
 
 En application des articles L. 1142-8 et suivants du code du travail, chaque entreprise d'au moins 50 salariés est tenue de mesurer l'égalité professionnelle entre les femmes et les hommes au travers de l'index de l'égalité professionnelle.
 
-Ce dernier permet de mesurer :\
-– l'écart de rémunération entre les femmes et les hommes, calculé à partir de la moyenne de la rémunération des femmes comparée à celle des hommes, par tranche d'âge et par catégorie de postes équivalents ;\
-– l'écart de taux d'augmentations individuelles de salaire entre les femmes et les hommes ;\
-– le pourcentage de salariées ayant bénéficié d'une augmentation dans l'année suivante à leur retour de congé de maternité, si des augmentations sont intervenues au cours de la période pendant laquelle le congé a été pris ;\
-– le nombre de salariés du sexe sous-représenté parmi les 10 salariés ayant perçu les plus hautes rémunérations.
+Ce dernier permet de mesurer :
+
+- l'écart de rémunération entre les femmes et les hommes, calculé à partir de la moyenne de la rémunération des femmes comparée à celle des hommes, par tranche d'âge et par catégorie de postes équivalents ;
+- l'écart de taux d'augmentations individuelles de salaire entre les femmes et les hommes ;
+- le pourcentage de salariées ayant bénéficié d'une augmentation dans l'année suivante à leur retour de congé de maternité, si des augmentations sont intervenues au cours de la période pendant laquelle le congé a été pris ;
+- le nombre de salariés du sexe sous-représenté parmi les 10 salariés ayant perçu les plus hautes rémunérations.
 
 Dans les entreprises de plus de 250 salariés, il mesure également l'écart de taux de promotions entre les femmes et les hommes.
 
@@ -40,16 +41,17 @@ Les partenaires sociaux tiennent à rappeler que sont exclues de la procédure d
 
 Objectifs de progression et actions
 
-L'accord doit fixer les objectifs de progression et les actions permettant de les atteindre dans au moins 3 des domaines d'actions cités ci-dessous pour les entreprises dont les effectifs sont compris entre 50 et moins de 300 salariés, et dans au moins 4 de ces domaines pour les entreprises de 300 salariés et plus :\
-– embauche ;\
-– formation ;\
-– promotion professionnelle ;\
-– qualification ;\
-– classification ;\
-– conditions de travail ;\
-– sécurité et santé au travail ;\
-– rémunération effective ;\
-– articulation entre l'activité professionnelle et la vie personnelle et familiale.
+L'accord doit fixer les objectifs de progression et les actions permettant de les atteindre dans au moins 3 des domaines d'actions cités ci-dessous pour les entreprises dont les effectifs sont compris entre 50 et moins de 300 salariés, et dans au moins 4 de ces domaines pour les entreprises de 300 salariés et plus :
+
+- embauche ;
+- formation ;
+- promotion professionnelle ;
+- qualification ;
+- classification ;
+- conditions de travail ;
+- sécurité et santé au travail ;
+- rémunération effective ;
+- articulation entre l'activité professionnelle et la vie personnelle et familiale.
 
 Sous réserve de fixer des objectifs de progression et des actions permettant de les atteindre dans au moins 3 ou 4 des domaines cités ci-dessus, les partenaires sociaux des entreprises peuvent intégrer à leurs discussions d'autres sujets en lien avec l'égalité professionnelle entre les femmes et les hommes, en fonction de leurs priorités politiques.
 

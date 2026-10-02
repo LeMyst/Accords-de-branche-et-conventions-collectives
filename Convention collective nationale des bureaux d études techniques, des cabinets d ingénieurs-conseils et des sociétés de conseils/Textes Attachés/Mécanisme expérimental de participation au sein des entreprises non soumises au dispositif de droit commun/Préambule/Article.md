@@ -2,11 +2,12 @@
 
 L'article 5 de la loi n° 2023-1107 du 29 novembre 2023, qui fait suite aux orientations définies par l'accord national interprofessionnel du 10 février 2023, impose une obligation expérimentale de « partage de la valeur » aux entreprises d'au moins 11 salariés qui ne sont pas tenues de mettre en place un régime de participation et dont le bénéfice net fiscal est, a minima, égal à 1 % de leur chiffre d'affaires pendant au moins 3 exercices consécutifs.
 
-Conformément à ces dispositions, ces dernières peuvent satisfaire à cette obligation en mettant en place :\
-– un abondement employeur dans le cadre d'un plan d'épargne ;\
-– une prime de partage de la valeur ;\
-– un dispositif d'intéressement ;\
-– un dispositif de participation.
+Conformément à ces dispositions, ces dernières peuvent satisfaire à cette obligation en mettant en place :
+
+- un abondement employeur dans le cadre d'un plan d'épargne ;
+- une prime de partage de la valeur ;
+- un dispositif d'intéressement ;
+- un dispositif de participation.
 
 Cette expérimentation quinquennale comporte, en outre, un volet portant un assouplissement des conditions de mise en œuvre des dispositifs de participation dans les entreprises qui ne sont pas tenues d'en mettre en place.
 

@@ -22,15 +22,17 @@ Les divergences qui pourraient se manifester dans une entreprise sur l'interpré
 
 La commission peut également rendre un avis à la demande d'une juridiction sur l'interprétation d'une convention ou d'un accord collectif dans les conditions mentionnées à l'article L. 2232-9 du code du travail.
 
-Dans les deux cas, la CPPNI peut :\
-– soit émettre un avis sur l'interprétation à donner à la clause sur laquelle porte la saisine. Si cet avis est adopté à la majorité simple des organisations par collège. Il sera diffusé sous forme de circulaire comme traduisant l'expression de la volonté paritaire. Si la majorité prévue n'a pas été atteinte, un procès-verbal signé des membres de la commission exposera les différents points de vue et sera envoyé aux parties qui ont soulevé la question ;\
-– soit constater que la rédaction de la clause incriminée est défectueuse et qu'il faut envisager la révision de la convention collective.
+Dans les deux cas, la CPPNI peut :
+
+- soit émettre un avis sur l'interprétation à donner à la clause sur laquelle porte la saisine. Si cet avis est adopté à la majorité simple des organisations par collège. Il sera diffusé sous forme de circulaire comme traduisant l'expression de la volonté paritaire. Si la majorité prévue n'a pas été atteinte, un procès-verbal signé des membres de la commission exposera les différents points de vue et sera envoyé aux parties qui ont soulevé la question ;
+- soit constater que la rédaction de la clause incriminée est défectueuse et qu'il faut envisager la révision de la convention collective.
 
 2. Composition de la CPPNI
 
-La commission est composée paritairement de 2 collèges :\
-– un collège « salariés » comprenant trois représentants de chacune des organisations syndicales de salariés représentatives dans la branche. Ce nombre est ramené à deux lorsque la commission se réunit sous forme de groupe de travail et à un lorsque la commission se réunit dans sa mission d'interprétation.\
-– un collège « employeurs » comprenant le même nombre de représentants, désignés par les organisations professionnelles d'employeurs représentatives dans la branche.
+La commission est composée paritairement de 2 collèges :
+
+- un collège « salariés » comprenant trois représentants de chacune des organisations syndicales de salariés représentatives dans la branche. Ce nombre est ramené à deux lorsque la commission se réunit sous forme de groupe de travail et à un lorsque la commission se réunit dans sa mission d'interprétation.
+- un collège « employeurs » comprenant le même nombre de représentants, désignés par les organisations professionnelles d'employeurs représentatives dans la branche.
 
 La commission est présidée par un représentant du collège patronal.
 
@@ -44,17 +46,19 @@ Le collège patronal a la possibilité d'inviter autant de personnes supplément
 
 Les organisations représentées au sein de la CPPNI indiquent au secrétariat de cette instance le nom de la personne ou des personnes invitées au sein de leur délégation. Le secrétariat informe ensuite l'ensemble des organisations représentées au sein de la CPPNI de la présence de ces invités aux réunions de la CPPNI.
 
-Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habilitées à prendre position politiquement durant les réunions de la CPPNI, mais elles peuvent prendre la parole sur demande des représentants mandatés de leur délégation :\
-– pour informer les membres de la CPPNI sur les travaux techniques des groupes de travail instaurés par la CPPNI ou par d'autres instances de branche ;\
-– afin d'apporter un éclairage technique aux discussions.
+Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habilitées à prendre position politiquement durant les réunions de la CPPNI, mais elles peuvent prendre la parole sur demande des représentants mandatés de leur délégation :
+
+- pour informer les membres de la CPPNI sur les travaux techniques des groupes de travail instaurés par la CPPNI ou par d'autres instances de branche ;
+- afin d'apporter un éclairage technique aux discussions.
 
 Lorsqu'elles sont salariées, les personnes invitées bénéficient, pour participer aux réunions de la CPPNI, d'autorisations d'absence dans les mêmes conditions que les autres membres de la CPPNI ayant la qualité de salarié.
 
 3. Fonctionnement du secrétariat de la CPPNI
 
-Le secrétariat de la commission comporte deux missions :\
-– veiller à la bonne organisation des réunions de négociation et d'interprétation ;\
-– veiller à la collecte des accords d'entreprise et faciliter la rédaction du rapport annuel d'activité.
+Le secrétariat de la commission comporte deux missions :
+
+- veiller à la bonne organisation des réunions de négociation et d'interprétation ;
+- veiller à la collecte des accords d'entreprise et faciliter la rédaction du rapport annuel d'activité.
 
 Ces missions sont assurées par le collège « employeurs ».
 

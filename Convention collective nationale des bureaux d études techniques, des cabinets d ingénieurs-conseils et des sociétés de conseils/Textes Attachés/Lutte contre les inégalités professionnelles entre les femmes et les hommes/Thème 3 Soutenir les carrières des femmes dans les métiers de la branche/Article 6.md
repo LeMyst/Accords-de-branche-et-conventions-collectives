@@ -16,10 +16,11 @@ Représentation parmi les cadres dirigeants et les instances dirigeantes des gra
 
 La loi du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle (« loi Rixain ») crée une obligation de représentation équilibrée entre les femmes et les hommes parmi les cadres dirigeants et les membres des instances dirigeantes des grandes entreprises, accompagnée d'une obligation de transparence en la matière. Ces obligations concernent toutes les entreprises d'au moins 1 000 salariés pour le troisième exercice consécutif.
 
-Les entreprises concernées sont tenues *(1)* :\
-– de publier annuellement les écarts éventuels de représentation entre les femmes et les hommes parmi les cadres dirigeants et les membres des instances dirigeantes. Ces informations sont rendues publiques sur le site du ministère du travail ;\
-– à compter du 1er mars 2026 : atteindre un objectif d'au moins 30 % de femmes et d'hommes cadres dirigeants et d'au moins 30 % de femmes et d'hommes membres d'instances dirigeantes. Dans le cas où ces objectifs ne sont pas atteints, l'entreprise concernée doit définir des mesures adéquates et pertinentes de correction ;\
-– à compter du 1er mars 2029 : les objectifs chiffrés passent de 30 % à 40 %. Dans le cas où ces objectifs ne sont pas atteints, l'entreprise concernée dispose d'un délai de 2 ans pour se mettre en conformité, et doit, au bout d'un an, publier des objectifs de progression et les mesures de correction retenues. Si à l'expiration de ce délai, les objectifs ne sont toujours pas atteints, l'employeur encourt une pénalité financière, d'un montant maximum de 1 % des rémunérations et gains.
+Les entreprises concernées sont tenues *(1)* :
+
+- de publier annuellement les écarts éventuels de représentation entre les femmes et les hommes parmi les cadres dirigeants et les membres des instances dirigeantes. Ces informations sont rendues publiques sur le site du ministère du travail ;
+- à compter du 1er mars 2026 : atteindre un objectif d'au moins 30 % de femmes et d'hommes cadres dirigeants et d'au moins 30 % de femmes et d'hommes membres d'instances dirigeantes. Dans le cas où ces objectifs ne sont pas atteints, l'entreprise concernée doit définir des mesures adéquates et pertinentes de correction ;
+- à compter du 1er mars 2029 : les objectifs chiffrés passent de 30 % à 40 %. Dans le cas où ces objectifs ne sont pas atteints, l'entreprise concernée dispose d'un délai de 2 ans pour se mettre en conformité, et doit, au bout d'un an, publier des objectifs de progression et les mesures de correction retenues. Si à l'expiration de ce délai, les objectifs ne sont toujours pas atteints, l'employeur encourt une pénalité financière, d'un montant maximum de 1 % des rémunérations et gains.
 
 Il est recommandé à chaque entreprise non tenue aux obligations ci-dessus décrites de définir ses objectifs de progression et les dispositions permettant d'encourager les femmes aux postes de management et à responsabilités.
 

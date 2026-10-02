@@ -8,8 +8,9 @@ Le collège patronal a la possibilité d'inviter autant de personnes supplément
 
 Les organisations représentées au sein de la CPPNI indiquent au secrétariat de cette instance le nom de la personne ou des personnes invitées au sein de leur délégation. Le secrétariat informe ensuite l'ensemble des organisations représentées au sein de la CPPNI de la présence de ces invités aux réunions de la CPPNI.
 
-Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habilitées à prendre position politiquement durant les réunions de la CPPNI, mais elles peuvent prendre la parole sur demande des représentants mandatés de leur délégation :\
-– pour informer les membres de la CPPNI sur les travaux techniques des groupes de travail instaurés par la CPPNI ou par d'autres instances de branche ;\
-– afin d'apporter un éclairage technique aux discussions.
+Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habilitées à prendre position politiquement durant les réunions de la CPPNI, mais elles peuvent prendre la parole sur demande des représentants mandatés de leur délégation :
+
+- pour informer les membres de la CPPNI sur les travaux techniques des groupes de travail instaurés par la CPPNI ou par d'autres instances de branche ;
+- afin d'apporter un éclairage technique aux discussions.
 
 Lorsqu'elles sont salariées, les personnes invitées bénéficient, pour participer aux réunions de la CPPNI, d'autorisations d'absence dans les mêmes conditions que les autres membres de la CPPNI ayant la qualité de salarié. »

@@ -10,18 +10,20 @@ Le présent accord est conclu pour une durée indéterminée. Il prend effet le 
 
 Suivi de l'accord
 
-Le baromètre triennal sur la santé au travail réalisé par l'Adesatt a pour buts :\
-– d'identifier et collecter des indicateurs permettant d'objectiver les risques auxquels sont soumis les salariés de la branche en matière de santé ;\
-– d'identifier les actions et dispositifs mis en place dans les entreprises pour prévenir les risques professionnels ;\
-– de mesurer la connaissance et l'appréciation portée par les entreprises et les salariés sur les actions mises en œuvre par la branche et dans les entreprises ;\
-– de proposer des pistes d'actions opérationnelles en réponse aux différents types de risque ;\
-– de réaliser un guide pratique restituant les enseignements de l'étude et valorisant les bonnes pratiques repérées au cours de la démarche ;\
-– et de favoriser la reconductibilité et la continuité de la démarche, à travers l'élaboration d'indicateurs utiles et mesurables.
+Le baromètre triennal sur la santé au travail réalisé par l'Adesatt a pour buts :
 
-Les risques de harcèlement sexuel et d'agissements sexistes seront intégrés à ce baromètre, qui sera présenté à la CPPNI. En fonction des résultats observés :\
-– le guide pratique mentionné ci-dessus dédiera une partie aux risques de harcèlement sexuel et d'agissements sexistes. Outre la mise en valeur des enseignements de l'étude et des bonnes pratiques observées, il pourra contenir des développements pédagogiques permettant de mieux identifier les situations de harcèlement sexuel et d'agissements sexistes lorsqu'elles surviennent, de les traiter de manière appropriée et d'apporter l'accompagnement pertinent aux personnes impliquées. Ce guide sera mis à disposition sous format numérique. Les entreprises veilleront à sa diffusion auprès des salariés dans le cadre de leur politique de prévention. Ce guide contiendra le présent accord de branche ;\
-– les signataires du présent accord étudieront l'opportunité de mener une réflexion autour d'un dispositif de signalement approprié pour les salariés de la branche, de la sensibilisation à destination des écoles et universités, de la création d'une commission santé ;\
-– discuteront de la nécessité ou non d'apporter des modifications au présent accord.
+- d'identifier et collecter des indicateurs permettant d'objectiver les risques auxquels sont soumis les salariés de la branche en matière de santé ;
+- d'identifier les actions et dispositifs mis en place dans les entreprises pour prévenir les risques professionnels ;
+- de mesurer la connaissance et l'appréciation portée par les entreprises et les salariés sur les actions mises en œuvre par la branche et dans les entreprises ;
+- de proposer des pistes d'actions opérationnelles en réponse aux différents types de risque ;
+- de réaliser un guide pratique restituant les enseignements de l'étude et valorisant les bonnes pratiques repérées au cours de la démarche ;
+- et de favoriser la reconductibilité et la continuité de la démarche, à travers l'élaboration d'indicateurs utiles et mesurables.
+
+Les risques de harcèlement sexuel et d'agissements sexistes seront intégrés à ce baromètre, qui sera présenté à la CPPNI. En fonction des résultats observés :
+
+- le guide pratique mentionné ci-dessus dédiera une partie aux risques de harcèlement sexuel et d'agissements sexistes. Outre la mise en valeur des enseignements de l'étude et des bonnes pratiques observées, il pourra contenir des développements pédagogiques permettant de mieux identifier les situations de harcèlement sexuel et d'agissements sexistes lorsqu'elles surviennent, de les traiter de manière appropriée et d'apporter l'accompagnement pertinent aux personnes impliquées. Ce guide sera mis à disposition sous format numérique. Les entreprises veilleront à sa diffusion auprès des salariés dans le cadre de leur politique de prévention. Ce guide contiendra le présent accord de branche ;
+- les signataires du présent accord étudieront l'opportunité de mener une réflexion autour d'un dispositif de signalement approprié pour les salariés de la branche, de la sensibilisation à destination des écoles et universités, de la création d'une commission santé ;
+- discuteront de la nécessité ou non d'apporter des modifications au présent accord.
 
 Conditions de révision de l'accord
 

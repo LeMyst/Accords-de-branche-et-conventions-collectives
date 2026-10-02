@@ -1,8 +1,9 @@
 # Article 13.4
 
-Conformément aux dispositions du code du travail, sont à tout moment habilitées à engager une procédure de révision de la présente convention collective :\
-– une ou plusieurs organisations syndicales de salariés représentatives dans son champ d'application ;\
-– une ou plusieurs organisations professionnelles d'employeurs représentatives dans son champ d'application.
+Conformément aux dispositions du code du travail, sont à tout moment habilitées à engager une procédure de révision de la présente convention collective :
+
+- une ou plusieurs organisations syndicales de salariés représentatives dans son champ d'application ;
+- une ou plusieurs organisations professionnelles d'employeurs représentatives dans son champ d'application.
 
 La ou les organisations qui engagent la procédure de révision soumettent un projet de texte modifié aux autres organisations représentatives dans le champ d'application de la convention collective. Une négociation s'engage sur ce projet dans un délai maximal de 6 mois à compter de la date de notification du projet de texte modifié.
 

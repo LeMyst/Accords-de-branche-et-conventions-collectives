@@ -2,13 +2,14 @@
 
 Le salaire est basé sur la durée légale ou conventionnelle du travail.
 
-Les salaires minimaux hiérarchiques excluent :\
-– les primes d'assiduité, de participation et d'intéressement ;\
-– les primes et gratifications de caractère exceptionnel ;\
-– les remboursements de frais ;\
-– les indemnités en cas de déplacement ou détachement ;\
-– la rémunération des heures supplémentaires et complémentaires ;\
-– l'indemnité compensatrice de congés payés.
+Les salaires minimaux hiérarchiques excluent :
+
+- les primes d'assiduité, de participation et d'intéressement ;
+- les primes et gratifications de caractère exceptionnel ;
+- les remboursements de frais ;
+- les indemnités en cas de déplacement ou détachement ;
+- la rémunération des heures supplémentaires et complémentaires ;
+- l'indemnité compensatrice de congés payés.
 
 Les salaires minimaux hiérarchiques incluent les avantages en nature évalués d'un commun accord et mentionnés dans le contrat de travail.
 

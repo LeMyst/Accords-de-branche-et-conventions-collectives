@@ -10,9 +10,10 @@ Ils disposent d'un délai de 15 jours à l'issue de la réception de cette infor
 
 □ Option 1 (en présence d'un PERCO/PERECO) :
 
-Sur les plans d'épargne avec la clef de répartition suivante :\
-– pour moitié sur le plan d'épargne retraite d'entreprise collectif/plan d'épargne pour la retraite collectif ;\
-– pour moitié sur le plan d'épargne salariale.
+Sur les plans d'épargne avec la clef de répartition suivante :
+
+- pour moitié sur le plan d'épargne retraite d'entreprise collectif/plan d'épargne pour la retraite collectif ;
+- pour moitié sur le plan d'épargne salariale.
 
 Les sommes affectées au plan d'épargne salariale deviennent exigibles après un délai de 5 ans à la suite du premier jour du 6e mois suivant la clôture de l'exercice au titre duquel les droits sont nés, et celles qui sont affectées au plan d'épargne retraite d'entreprise collectif/plan d'épargne pour la retraite collectif ne le sont qu'à l'échéance du dispositif, le tout sous réserve des cas de déblocage anticipé.
 
