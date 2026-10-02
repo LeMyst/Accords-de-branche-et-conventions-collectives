@@ -1,0 +1,16 @@
+# Durée du travail
+
+- [Durée du travail](Dur%C3%A9e%20du%20travail.md)
+- [Préambule](Pr%C3%A9ambule/README.md)
+- [Annexes](Annexes/README.md)
+- [Article 1er](Article%201er.md)
+- [Article 2](Article%202.md)
+- [Article 2.1](Article%202.1.md)
+- [Article 2.2](Article%202.2.md)
+- [Article 2.3](Article%202.3.md)
+- [Article 2.4](Article%202.4.md)
+- [Article 2.5](Article%202.5.md)
+- [Article 3](Article%203.md)
+- [Article 4](Article%204.md)
+- [Article 5](Article%205.md)
+- [Article 6](Article%206.md)

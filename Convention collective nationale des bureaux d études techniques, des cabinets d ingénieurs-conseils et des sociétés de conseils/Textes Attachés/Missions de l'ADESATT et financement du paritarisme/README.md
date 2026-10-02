@@ -1,0 +1,16 @@
+# Missions de l'ADESATT et financement du paritarisme
+
+- [Missions de l'ADESATT et financement du paritarisme](Missions%20de%20l%27ADESATT%20et%20financement%20du%20paritarisme.md)
+- [Préambule](Pr%C3%A9ambule/README.md)
+- [Conditions d'adhésion et perte de la qualité de membre de l'ADESATT](Conditions%20d%27adh%C3%A9sion%20et%20perte%20de%20la%20qualit%C3%A9%20de%20membre%20de%20l%27ADESATT/README.md)
+- [Elargissement des missions de l'ADESATT](Elargissement%20des%20missions%20de%20l%27ADESATT/README.md)
+- [Accès aux accords d'entreprise](Acc%C3%A8s%20aux%20accords%20d%27entreprise/README.md)
+- [Gestion des ressources de l'ADESATT](Gestion%20des%20ressources%20de%20l%27ADESATT/README.md)
+- [Révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail](R%C3%A9vision%20du%20chapitre%20XII%20de%20l%27accord%20national%20du%2022%20juin%201999%20relatif%20%C3%A0%20la%20r%C3%A9duction%20du%20temps%20de%20travail/README.md)
+- [Révision de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000](R%C3%A9vision%20de%20l%27accord%20national%20relatif%20%C3%A0%20l%27%C3%A9tude%20et%20au%20suivi%20de%20l%27am%C3%A9nagement%20du%20temps%20de%20travail%20du%2029%20mars%202000/README.md)
+- [Révision de l'article 3 de la convention collective nationale du 15 décembre 1987](R%C3%A9vision%20de%20l%27article%203%20de%20la%20convention%20collective%20nationale%20du%2015%20d%C3%A9cembre%201987/README.md)
+- [Durée](Dur%C3%A9e/README.md)
+- [Evolutions législative et/ou réglementaire](Evolutions%20l%C3%A9gislative%20et_ou%20r%C3%A9glementaire/README.md)
+- [Dépôt](D%C3%A9p%C3%B4t/README.md)
+- [Extension](Extension/README.md)
+- [Entrée en vigueur](Entr%C3%A9e%20en%20vigueur/README.md)

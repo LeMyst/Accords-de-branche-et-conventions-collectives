@@ -1,0 +1,17 @@
+# Prévoyance
+
+- [Prévoyance](Pr%C3%A9voyance.md)
+- [Objet de l'accord et champ d'application](Objet%20de%20l%27accord%20et%20champ%20d%27application/README.md)
+- [Bénéficiaires du régime](B%C3%A9n%C3%A9ficiaires%20du%20r%C3%A9gime/README.md)
+- [Suspension du contrat de travail à l'initiative du salarié](Suspension%20du%20contrat%20de%20travail%20%C3%A0%20l%27initiative%20du%20salari%C3%A9/README.md)
+- [Garantie capital décès](Garantie%20capital%20d%C3%A9c%C3%A8s/README.md)
+- [Garantie invalidité absolue et définitive](Garantie%20invalidit%C3%A9%20absolue%20et%20d%C3%A9finitive/README.md)
+- [Garantie rente éducation](Garantie%20rente%20%C3%A9ducation/README.md)
+- [Garantie incapacité temporaire de travail](Garantie%20incapacit%C3%A9%20temporaire%20de%20travail/README.md)
+- [Garantie invalidité totale ou partielle](Garantie%20invalidit%C3%A9%20totale%20ou%20partielle/README.md)
+- [Salaire de référence](Salaire%20de%20r%C3%A9f%C3%A9rence/README.md)
+- [Revalorisation des prestations](Revalorisation%20des%20prestations/README.md)
+- [Assistance aux proches aidants](Assistance%20aux%20proches%20aidants/README.md)
+- [Comité paritaire de surveillance](Comit%C3%A9%20paritaire%20de%20surveillance/README.md)
+- [Entrée en vigueur et durée de l'accord](Entr%C3%A9e%20en%20vigueur%20et%20dur%C3%A9e%20de%20l%27accord/README.md)
+- [Annexe](Annexe/README.md)
