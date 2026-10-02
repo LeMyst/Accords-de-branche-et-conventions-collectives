@@ -1,2 +1,0 @@
-# Financement de l'OPIIEC
-

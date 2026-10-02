@@ -1,2 +1,0 @@
-# Interruption spontanée de grossesse
-

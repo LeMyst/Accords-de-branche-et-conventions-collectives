@@ -1,2 +1,0 @@
-# Rémunérations minimales des apprentis
-

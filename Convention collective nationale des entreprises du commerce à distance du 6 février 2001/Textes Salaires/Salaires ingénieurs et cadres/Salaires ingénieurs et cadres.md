@@ -1,2 +1,0 @@
-# Salaires ingénieurs et cadres
-

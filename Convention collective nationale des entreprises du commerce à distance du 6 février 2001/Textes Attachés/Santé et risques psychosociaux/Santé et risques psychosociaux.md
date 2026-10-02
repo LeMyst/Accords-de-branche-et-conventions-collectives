@@ -1,2 +1,0 @@
-# Santé et risques psychosociaux
-

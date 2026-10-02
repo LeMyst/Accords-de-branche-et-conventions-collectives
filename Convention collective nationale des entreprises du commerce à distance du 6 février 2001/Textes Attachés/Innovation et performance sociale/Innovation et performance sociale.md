@@ -1,2 +1,0 @@
-# Innovation et performance sociale
-

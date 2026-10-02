@@ -1,2 +1,0 @@
-# Salaires minimaux (ETAM)
-

@@ -1,2 +1,0 @@
-# Activité partielle des salariés
-

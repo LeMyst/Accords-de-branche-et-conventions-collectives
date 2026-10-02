@@ -1,2 +1,0 @@
-# Désignation d'organismes assureurs
-
