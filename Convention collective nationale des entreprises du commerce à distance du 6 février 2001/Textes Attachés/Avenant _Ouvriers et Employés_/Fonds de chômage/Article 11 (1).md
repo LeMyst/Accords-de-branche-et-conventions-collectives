@@ -32,4 +32,4 @@ Chaque heure indemnisable donnera lieu au versement d'une indemnité horaire ég
 
 L'indemnité horaire ci-dessus s'entend déduction faite, *le cas échéant* (2), de l'allocation publique de chômage partiel.
 
-*(1) Article étendu sous réserve de l'attribution de l'allocation spécifique de chômage partiel par le préfet, en application des dispositions des articles L. 351-25 et R. 351-50 du code du travail (arrêté du 10 avril 2002, art. 1er).***(2) Termes exclus de l'extension, l'allocation conventionnelle définie à cet article ne pouvant être versée dans des cas où l'allocation légale n'est pas attribuée (arrêté du 10 avril 2002, art. 1er).**
+*(1) Article étendu sous réserve de l'attribution de l'allocation spécifique de chômage partiel par le préfet, en application des dispositions des articles L. 351-25 et R. 351-50 du code du travail (arrêté du 10 avril 2002, art. 1er).* **(2) Termes exclus de l'extension, l'allocation conventionnelle définie à cet article ne pouvant être versée dans des cas où l'allocation légale n'est pas attribuée (arrêté du 10 avril 2002, art. 1er).**

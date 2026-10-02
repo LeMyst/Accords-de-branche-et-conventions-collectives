@@ -5,4 +5,3 @@ Le présent accord a pour objet de définir le cadre et les règles de mise en p
 L'aménagement du temps de travail concerne l'ensemble des salariés à temps plein y compris les cadres (à l'exception des cadres dirigeants tels que définis par la loi), qu'ils soient en contrat de travail à durée déterminée ou indéterminée.
 
 S'agissant des salariés à temps partiel, étant donné la spécificité de la gestion de leur temps de travail, le présent accord ne leur sera pas applicable.
-

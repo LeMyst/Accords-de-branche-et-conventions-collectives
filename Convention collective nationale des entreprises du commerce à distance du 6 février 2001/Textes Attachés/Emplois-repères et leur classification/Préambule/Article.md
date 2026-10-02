@@ -9,5 +9,3 @@ Le second constat était qu'un nombre non négligeable de postes figurant au sei
 Partant du principe qu'une classification professionnelle se devait de refléter, à la fois en termes de volume et d'importance stratégique, les postes les plus emblématiques pour les entreprises de la branche, il a donc été décidé d'établir une nouvelle liste d'emplois-repères et de procéder à leur classement.
 
 Après une étude confiée à un cabinet spécialisé et de multiples réunions paritaires, les dispositions suivantes ont été arrêtées par les partenaires sociaux.
-
-  

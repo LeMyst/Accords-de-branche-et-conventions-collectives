@@ -17,4 +17,3 @@ Le remboursement sera effectué sur présentation des pièces justificatives sou
 En cas de décès du cadre au lieu de sa nouvelle résidence, les frais de retour de sa famille (conjoint et personnes à charge) comprenant les frais de voyage et de déménagement, seront à la charge de l'employeur dans les conditions prévues aux paragraphes précédents du présent article.
 
 Dans tous les cas visés ci-dessus, le devis des frais de déménagement sera soumis au préalable à l'employeur pour accord.
-

@@ -16,4 +16,4 @@ Il se réunit en principe tous les trimestres, ou plus fréquemment en cas de be
 
 Les dispositions concernant le crédit d'heures et la protection des membres du CHSCT sont déterminées à l'article 13.
 
-*(1) Terme exclu de l'extension comme restreignant la portée du 1er alinéa de l'article L. 236-5 du code du travail (arrêté du 10 avril 2002, art. 1er).***(2) Alinéa étendu sous réserve de l'application de la 2e phrase de l'article R. 236-7 du code du travail (arrêté du 10 avril 2002, art. 1er).**
+*(1) Terme exclu de l'extension comme restreignant la portée du 1er alinéa de l'article L. 236-5 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).* **(2) Alinéa étendu sous réserve de l'application de la 2<sup>e</sup> phrase de l'article R. 236-7 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).**

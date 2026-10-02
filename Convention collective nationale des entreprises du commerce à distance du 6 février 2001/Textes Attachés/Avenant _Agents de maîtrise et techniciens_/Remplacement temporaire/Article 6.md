@@ -18,5 +18,4 @@ Les remplacements provisoires effectués dans des postes de qualification infér
 
 En cas de remplacement pour une période supérieure à 1 an, l'entreprise et le salarié remplaçant se rencontreront à l'issue de chaque période de 12 mois afin d'examiner les conséquences de la situation ainsi créée.
 
-*(1) Alinéa étendu sous réserve de l'application des minima conventionnels existant dans la branche (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Alinéa étendu sous réserve de l'application des minima conventionnels existant dans la branche (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

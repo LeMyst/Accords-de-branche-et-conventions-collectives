@@ -9,4 +9,3 @@ Les salaires mensuels conventionnels (niveau débutant) des catégories C et D s
 Les salaires mensuels conventionnels (niveau débutant) des catégories E à G sont augmentés de 25 €.
 
 Le salaire mensuel conventionnel (niveaux maîtrisant et référent) de la catégorie H est augmenté de 25 €.
-

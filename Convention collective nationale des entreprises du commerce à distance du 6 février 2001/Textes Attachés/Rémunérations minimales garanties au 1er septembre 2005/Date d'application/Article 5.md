@@ -1,4 +1,3 @@
 # Article 5
 
-Les dispositions du présent accord sont applicables à l'issue du délai d'opposition mentionné à l'article 2 avec effet au 1er septembre 2005.
-
+Les dispositions du présent accord sont applicables à l'issue du délai d'opposition mentionné à l'article 2 avec effet au 1<sup>er</sup> septembre 2005.

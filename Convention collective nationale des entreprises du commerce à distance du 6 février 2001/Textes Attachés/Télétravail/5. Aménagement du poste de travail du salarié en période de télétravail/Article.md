@@ -21,4 +21,3 @@ Protection des données
 L'entreprise prend, dans le respect des prescriptions de la commission nationale informatique et libertés, les mesures qui s'imposent pour assurer la protection des données utilisées et traitées par le salarié en période de télétravail à des fins professionnelles.
 
 Il incombe au salarié en période de télétravail de se conformer aux dispositions légales et aux règles propres à l'entreprise relatives à la protection des données et à leur confidentialité.
-

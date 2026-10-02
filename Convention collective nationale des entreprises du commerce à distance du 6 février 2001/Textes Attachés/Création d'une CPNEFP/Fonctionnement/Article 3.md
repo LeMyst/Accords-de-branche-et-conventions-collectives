@@ -15,4 +15,3 @@ Les décisions sont prises à la majorité des membres présents ou bénéfician
 3.4. Secrétariat
 
 Le syndicat national des entreprises de vente à distance domicilié à Entreprises et Cités, 40, rue Eugène-Jacquet, SP 15, 59708 Marcq-en-Baroeul Cedex, assure la charge du secrétariat de la commission : convocation aux réunions par lettre simple, procès-verbal des séances.
-

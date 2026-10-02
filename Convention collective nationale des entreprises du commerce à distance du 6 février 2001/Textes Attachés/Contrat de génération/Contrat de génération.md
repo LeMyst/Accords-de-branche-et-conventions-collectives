@@ -1,2 +1,1 @@
 # Contrat de génération
-

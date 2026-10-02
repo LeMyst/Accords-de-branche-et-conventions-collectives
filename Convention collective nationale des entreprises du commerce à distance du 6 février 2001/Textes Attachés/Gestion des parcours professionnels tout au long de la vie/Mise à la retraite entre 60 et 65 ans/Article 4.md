@@ -39,4 +39,3 @@ L'ensemble des catégories professionnelles bénéficie dans rentreprise d'un pl
 Ce plancher est fixé à 75 heures pour les ouvriers employés et 0,5 mois pour les techniciens agents de maîtrise et cadres.
 
 *Article 4 étendu sous réserve de l'application des dispositions du deuxième alinéa de l'article L. 122-14-13 du code du travail (arrêté d'extension du 29 mars 2006)*
-

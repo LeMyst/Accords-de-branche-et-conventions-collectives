@@ -6,12 +6,11 @@ L'article 2.2.1 « Définition des niveaux – Niveau référent » de la Classi
 
 Salarié dominant l'emploi qu'il exerce, au point d'être considéré par ses compétences comme un expert.
 
-Son expertise lui permet, sans que cela soit cumulatif, de :  
- – résoudre des problèmes complexes ;  
- – rédiger les procédures et transmettre les savoir-faire ;  
- – assurer des missions complémentaires dans le périmètre de son emploi ;  
- – agir en support technique ou en assistance à ses collègues (TAM) ;  
- – animer des groupes de travail transversaux ;  
- – contribuer à l'optimisation des process existants ;  
- – tutorer les nouveaux collaborateurs. »
-
+Son expertise lui permet, sans que cela soit cumulatif, de :\
+– résoudre des problèmes complexes ;\
+– rédiger les procédures et transmettre les savoir-faire ;\
+– assurer des missions complémentaires dans le périmètre de son emploi ;\
+– agir en support technique ou en assistance à ses collègues (TAM) ;\
+– animer des groupes de travail transversaux ;\
+– contribuer à l'optimisation des process existants ;\
+– tutorer les nouveaux collaborateurs. »

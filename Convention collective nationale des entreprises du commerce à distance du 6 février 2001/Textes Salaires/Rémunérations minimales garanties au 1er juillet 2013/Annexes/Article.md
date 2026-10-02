@@ -1,76 +1,49 @@
 # Article
 
-  
- Annexe II  
+**Annexe I**
 
+**Barème des rémunérations mensuelles brutes minimales au 1er juillet 2013**
 
-**Barème des rémunérations annuelles brutes minimales garanties applicable au 1er juillet 2013**  
+Employés
 
+(En euros.)
 
- Employés  
+| Position | Coefficient | Rémunération mensuelle<br>brute minimale |
+| -- | -- | -- |
+| I | 145 | 1 438 |
+| II | 150 | 1 439 |
+|  | 155 | 1 441 |
+|  | 160 | 1 444 |
+| III | 165 | 1 449 |
+|  | 170 | 1 453 |
+|  | 180 | 1 458 |
+| IV | 190 | 1 467 |
+|  | 200 | 1 486 |
 
+TAM
 
- (En euros.)  
+(En euros.)
 
+| Position | Coefficient | Rémunération mensuelle<br>brute minimale |
+| -- | -- | -- |
+| V | 215 | 1 612 |
+| VI | 235 | 1 681 |
+|  | 255 | 1 782 |
+| VII | 275 | 1 914 |
+|  | 295 | 2 092 |
 
-  
-  
+Cadres
 
+(En euros.)
 
-| Position | Coefficient | Rémunération annuelleminimale garantie |
-| --- | --- | --- |
-| I | 145 | 18 215 |
-| II  | 150 | 18 257 |
-| 155 | 18 311 |
-| 160 | 18 450 |
-| III  | 165 | 18 560 |
-| 170 | 18 727 |
-| 180 | 18 952 |
-| IV  | 190 | 19 217 |
-| 200 | 19 651 |
-
-  
-  
- TAM  
-
-
- (En euros.)  
-
-
-  
-  
-
-
-| Position | Coefficient | Rémunération annuelleminimale garantie |
-| --- | --- | --- |
-| V | 215 | 21 117 |
-| VI  | 235 | 22 044 |
-| 255 | 23 410 |
-| VII  | 275 | 25 191 |
-| 295 | 27 587 |
-
-  
-  
- Cadres  
-
-
- (En euros.)  
-
-
-  
-  
-
-
-| Position | Coefficient | Rémunération annuelleminimale garantie |
-| --- | --- | --- |
-| VIII  | 295 | 27 587 |
-| 330 | 30 136 |
-| IX  | 370 | 33 741 |
-| 410 | 37 346 |
-| 450 | 40 922 |
-|  X  | 490 | 44 541 |
-| 530 | 48 147 |
-| 570 | 51 737 |
-| XI | 610 | 55 341 |
-
-  
+| Position | Coefficient | Rémunération mensuelle<br>brute minimale |
+| -- | -- | -- |
+| VIII | 295 | 2 092 |
+|  | 330 | 2 282 |
+| IX | 370 | 2 550 |
+|  | 410 | 2 819 |
+|  | 450 | 3 085 |
+| X | 490 | 3 354 |
+|  | 530 | 3 622 |
+|  | 570 | 3 890 |
+| XI | 610 | 4 158 |

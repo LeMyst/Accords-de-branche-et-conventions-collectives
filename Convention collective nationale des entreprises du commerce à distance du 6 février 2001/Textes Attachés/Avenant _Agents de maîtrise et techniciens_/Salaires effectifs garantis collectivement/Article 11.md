@@ -7,4 +7,3 @@ Dans le respect de cette disposition, chaque entreprise communiquera aux délég
 Pour les bénéficiaires du présent avenant à la date de signature des présentes dispositions, les avantages de salaires résultant de l'article 14 de l'ancien avenant complété par les accords des 26 novembre 1971 et 10 juin 1976, seront garantis en pourcentage à leur niveau atteint, et seront pris en compte dans le calcul des salaires visés ci-dessus.
 
 Ce mécanisme de garantie collective est sans effet sur l'existence d'éventuels avantages salariaux liés à l'ancienneté et résultant d'accords d'entreprises.
-

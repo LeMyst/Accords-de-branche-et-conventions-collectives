@@ -21,4 +21,3 @@ De ce fait, l'entretien annuel peut, par exemple :
 - dégager les orientations ou objectifs pour le futur ;
 
 - analyser les besoins en formation.
-

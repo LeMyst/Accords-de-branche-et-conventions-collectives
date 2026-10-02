@@ -15,4 +15,3 @@ Elles décident :
 - de prendre les dispositions de nature à développer, dans les entreprises de la branche, la validation des acquis de l'expérience (VAE), moyen privilégié pour les salariés d'accéder à un diplôme ou un titre à finalité professionnelle ;
 
 - d'arrêter les principes permettant la création de certificats de qualification professionnelle dans la branche.
-

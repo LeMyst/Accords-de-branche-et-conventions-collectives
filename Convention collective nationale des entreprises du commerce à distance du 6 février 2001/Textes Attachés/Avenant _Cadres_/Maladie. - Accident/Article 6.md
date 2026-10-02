@@ -15,4 +15,3 @@ Cette période d'indemnisation de 6 mois à 100 % sera augmentée de 1 mois par 
 Ces périodes seront doublées en cas de maladie professionnelle ou d'accident de travail (y compris les journées ou demi-journées non travaillées habituellement dans l'entreprise).
 
 Si plusieurs arrêts pour maladie ou accident interviennent au cours d'une période annuelle comptée à partir du début de la première absence indemnisée, la durée totale d'indemnisation ne pourra dépasser, au cours de cette période, la durée à laquelle l'ancienneté de l'intéressé lui donna droit au début de sa première absence.
-

@@ -32,5 +32,4 @@ Les délégués du personnel peuvent, sur leur demande, se faire assister d'un r
 
 Les dispositions concernant le nombre, le crédit d'heures et la protection des délégués du personnel, sont déterminées à l'article 13.
 
-*(1) Alinéa étendu sous réserve de l'application des articles L. 422-1 et suivants, L. 423-1 et suivants, L. 424-1 et suivants et L. 425-1 et suivants du code du travail (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Alinéa étendu sous réserve de l'application des articles L. 422-1 et suivants, L. 423-1 et suivants, L. 424-1 et suivants et L. 425-1 et suivants du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

@@ -1,6 +1,6 @@
 # Article 1er
 
-A compter du 1er septembre 2005, aux 2 barèmes existants (accord du 18 juin 2003) :
+A compter du 1<sup>er</sup> septembre 2005, aux 2 barèmes existants (accord du 18 juin 2003) :
 
 - le barème des rémunérations mensuelles brutes minimales d'embauche ;
 
@@ -14,7 +14,7 @@ d'embauche
 
 Ce barème fixe, pour chaque coefficient, les rémunérations mensuelles brutes minimales d'embauche, base 151 h 67, qui comprennent l'ensemble des éléments à caractère de salaires, à l'exclusion des sommes relatives aux remboursements de frais et heures supplémentaires payées.
 
-A compter du 1er septembre 2005, les montants pour les catégories ouvriers-employés, techniciens-agents de maîtrise et ingénieurs-cadres sont fixés selon les grilles figurant en annexe I au présent accord.
+A compter du 1<sup>er</sup> septembre 2005, les montants pour les catégories ouvriers-employés, techniciens-agents de maîtrise et ingénieurs-cadres sont fixés selon les grilles figurant en annexe I au présent accord.
 
 1.2. Barème des salaires minima garantis servant
 
@@ -22,7 +22,7 @@ de base à la garantie d'ancienneté
 
 Le barème des salaires minima garantis sert de base au calcul de la garantie d'ancienneté.
 
-A compter du 1er septembre 2005, les montants de ce barème sont fixés selon les grilles figurant en annexe II au présent accord.
+A compter du 1<sup>er</sup> septembre 2005, les montants de ce barème sont fixés selon les grilles figurant en annexe II au présent accord.
 
 1.3. Barème des rémunérations annuelles minimales garanties
 
@@ -48,5 +48,4 @@ Le montant garanti annuel est proportionnel aux périodes effectivement travaill
 
 Dans le cas où la comparaison entre les sommes effectivement versées au titre de l'année et la garantie instituée par l'accord laisse apparaître qu'un salarié n'a pas perçu l'intégralité de ses droits, celui-ci reçoit, à l'échéance de la paie du salaire la plus proche, le complément de rémunération correspondant.
 
-A compter du 1er septembre 2005, les montants de ce barème sont fixés selon les grilles figurant en annexe III au présent accord.
-
+A compter du 1<sup>er</sup> septembre 2005, les montants de ce barème sont fixés selon les grilles figurant en annexe III au présent accord.

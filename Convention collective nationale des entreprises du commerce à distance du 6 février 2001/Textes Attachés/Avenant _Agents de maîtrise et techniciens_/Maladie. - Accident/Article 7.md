@@ -17,4 +17,3 @@ Cette indemnité sera :
 Ces périodes seront doublées en cas de maladie professionnelle ou d'accident de travail (y compris les journées ou demi-journées habituellement non travaillées dans l'entreprise).
 
 Si plusieurs arrêts pour maladie ou accident sont accordés au cours d'une période annuelle comptée à partir du début de la première absence indemnisée, d'indemnisation ne pourra dépasser, au cours de cette période, la durée à laquelle l'ancienneté de l'intéressé lui donne droit au début de sa première absence.
-

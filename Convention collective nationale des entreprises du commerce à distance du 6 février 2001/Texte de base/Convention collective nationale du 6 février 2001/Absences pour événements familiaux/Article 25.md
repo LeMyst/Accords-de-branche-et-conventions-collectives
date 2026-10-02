@@ -26,11 +26,10 @@ Cette autorisation d'absence est accordée à chacun des 2 parents travaillant d
 
 A l'occasion de la rentrée scolaire annuelle, il sera accordé des assouplissements d'horaires de façon à permettre à la mère ou au père qui le souhaite, d'emmener leurs jeunes enfants à l'école (y compris la première rentrée en secondaire).
 
-Pour les congés exceptionnels, sera assimilé à la situation du conjoint le cas du concubin notoire *déclaré à l'entreprise (2) (3)*.
+Pour les congés exceptionnels, sera assimilé à la situation du conjoint le cas du concubin notoire *déclaré à l'entreprise (2) (3)* .
 
-*(1) Article étendu sous réserve de l'application de l'article L. 226-1 du code du travail tel qu'interprété par la jurisprudence (arrêté du 10 avril 2002, art. 1 er).* 
+*(1) Article étendu sous réserve de l'application de l'article L. 226-1 du code du travail tel qu'interprété par la jurisprudence (arrêté du 10 avril 2002, art. 1 <sup>er</sup>).*
 
-*(2) Les termes « déclaré à l'entreprise » sont exclus de l'extension comme restreignant la portée de l'article L. 515-8 du code civil (arrêté du 10 avril 2002, art. 1 er).* 
+*(2) Les termes « déclaré à l'entreprise » sont exclus de l'extension comme restreignant la portée de l'article L. 515-8 du code civil (arrêté du 10 avril 2002, art. 1 <sup>er</sup>).*
 
-*(3) Alinéa étendu sous réserve de l'application de l'article L. 122-45 du code du travail (arrêté du 10 avril 2002, art. 1 er).*
-
+*(3) Alinéa étendu sous réserve de l'application de l'article L. 122-45 du code du travail (arrêté du 10 avril 2002, art. 1 <sup>er</sup>).*

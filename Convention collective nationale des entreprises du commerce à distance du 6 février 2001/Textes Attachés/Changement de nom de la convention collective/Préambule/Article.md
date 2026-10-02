@@ -7,5 +7,3 @@ Désormais, le paysage de la branche professionnelle s'est modifié avec l'appar
 Ces diverses entreprises avec des modèles économiques et sociaux différents sont toutes liées entre elles par un point commun : le commerce.
 
 C'est dans ce contexte qu'il a été décidé ce qui suit :
-
-  

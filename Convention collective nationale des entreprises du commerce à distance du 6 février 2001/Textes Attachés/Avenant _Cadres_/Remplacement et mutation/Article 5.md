@@ -67,4 +67,3 @@ Détachement et expatriation
 Les conditions du détachement ou de l'expatriation doivent faire l'objet d'un accord dont les termes seront précisés par écrit avant le départ du salarié.
 
 *(1) Alinéa étendu sous réserve de l'application des minima conventionnels de branche (arrêté du 10 avril 2002, art. 1er).*
-

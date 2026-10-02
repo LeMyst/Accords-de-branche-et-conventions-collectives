@@ -16,27 +16,24 @@ Pour les élections de délégués du personnel et de membres du comité d'entre
 
 b) Crédits d'heures
 
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| MANDAT | FONCTION | NOMBREde salariés | CREDITd'heures mensuel |
+| MANDAT | FONCTION | NOMBRE<br>de salariés | CREDIT<br>d'heures mensuel |
+| -- | -- | -- | -- |
 | DP | Titulaires |  | 15 |
-| Suppléants | 5 |
+|  | Suppléants |  | 5 |
 | CE | Titulaires |  | 20 |
-| Suppléants | 5 |
+|  | Suppléants |  | 5 |
 | DS |  | de 50 à 150 | 10 |
-| de 151 à 500 | 15 |
-| > à 500 | 20 |
+|  |  | de 151 à 500 | 15 |
+|  |  | > à 500 | 20 |
 | DS central |  |  | 20 |
 | Représentant syndical au CE |  | > 300 et < 499 | 10 |
-| > 500 | 20 |
-| Section syndicale d'entreprise, négociation annuelle |  | de 500 à 999à partir de 1 000 | 1015 |
+|  |  | > 500 | 20 |
+| Section syndicale d'entreprise, négociation annuelle |  | de 500 à 999<br>à partir de 1 000 | 10<br>15 |
 | CHSCT |  | jusqu'à 99 | 2 |
-| jusqu'à 299 | 5 |
-| jusqu'à 499 | 10 |
-| jusqu'à 1 499 | 15 |
-| > à 1 500 | 20 |
+|  |  | jusqu'à 299 | 5 |
+|  |  | jusqu'à 499 | 10 |
+|  |  | jusqu'à 1 499 | 15 |
+|  |  | > à 1 500 | 20 |
 
 Pour l'exercice de leur mission, les représentants du personnel peuvent se déplacer librement à l'intérieur des différents locaux de l'établissement.
 
@@ -48,43 +45,36 @@ Ces dispositions ne pourront, en aucun cas, comporter l'obligation d'indiquer, l
 
 c) Formation et information
 
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
 | MANDAT | FONCTION |  | FORMATION |
+| -- | -- | -- | -- |
 | DP | Titulaires |  | 3 heures par mois en plus du crédit heures |
-| Suppléants | 3 heures par mois en plus du crédit heures |
+|  | Suppléants |  | 3 heures par mois en plus du crédit heures |
 | CE | Titulaires |  | 3 heures par mois en plus du crédit heures |
-| Suppléants |  | 3 heures par mois sur crédit d ‘heures |
-|  | Renouvellement du mandat | Un nouveau stage de formation économique de 5 jours maximum pourra être suivi lorsque les salariés ont exercé leur mandat pendant 4 ans, consécutifs ou non. |
+|  | Suppléants |  | 3 heures par mois sur crédit d ‘heures |
+|  |  | Renouvellement du mandat | Un nouveau stage de formation économique de 5 jours maximum pourra être suivi lorsque les salariés ont exercé leur mandat pendant 4 ans, consécutifs ou non. |
 | CHSCT |  | Nouveaux membres | Entreprise > 300 salariés : un stage initial de formation de 5 jours maximum par représentant |
-|  | Renouvellement de mandat | Un nouveau stage de formations de 5 jours maximum pourra être suivi lorsque les membres du CHSCT ont exercé leur mandat pendant 4 ans, consécutifs ou non |
+|  |  | Renouvellement de mandat | Un nouveau stage de formations de 5 jours maximum pourra être suivi lorsque les membres du CHSCT ont exercé leur mandat pendant 4 ans, consécutifs ou non |
 
 d) Protection. - Dispositions légales ou conventionnelles
 
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| MANDAT | personneprotégée | périodedu mandat | Duréede la protection |
+| MANDAT | personne<br>protégée | période<br>du mandat | Durée<br>de la protection |
+| -- | -- | -- | -- |
 | DP | Salaires ayant demandé l'organisation d'élections |  | 6 mois |
-| Candidat |  | 6 mois |
-| En cours de mandat | durée du mandat |
-| A la fin du mandat | 12 mois |
+|  | Candidat |  | 6 mois |
+|  |  | En cours de mandat | durée du mandat |
+|  |  | A la fin du mandat | 12 mois |
 | CE | Salarié ayant demandé l'organisation d'élections |  | 3 mois |
-| Candidat |  | 3 mois |
-|  | En cours de mandat | durée du mandat |
-|  | A la fin du mandat | 12 mois |
+|  | Candidat |  | 3 mois |
+|  |  | En cours de mandat | durée du mandat |
+|  |  | A la fin du mandat | 12 mois |
 | RS au CE |  | En cours de mandat | durée du mandat |
-| A la fin du mandat | 6 mois |
+|  |  | A la fin du mandat | 6 mois |
 | DS |  | En cours de mandat | durée du mandat |
-|  | A la fin du mandat | 12 mois |
+|  |  | A la fin du mandat | 12 mois |
 | CHSCT | Candidat |  | 3 mois |
-|  | En cours de mandat | durée du mandat |
-|  | A la fin du mandat | 6 mois |
+|  |  | En cours de mandat | durée du mandat |
+|  |  | A la fin du mandat | 6 mois |
 
 L'exercice normal de la fonction de représentant du personnel ne peut être une entrave à son avancement régulier professionnel, ou à l'amélioration de sa rémunération, ni provoquer de licenciement ni sanction.
 
 Aucune mesure de mutation de représentant du personnel ne sera effectuée pour raison d'incompatibilité entre le mandat et la fonction exercée, sauf accord de l'intéressé, sans l'avis du comité d'entreprise.
-

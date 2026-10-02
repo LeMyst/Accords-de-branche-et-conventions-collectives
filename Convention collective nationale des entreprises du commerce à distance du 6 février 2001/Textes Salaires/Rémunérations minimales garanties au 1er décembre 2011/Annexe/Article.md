@@ -1,64 +1,49 @@
 # Article
 
-  
-Annexe II
+Annexe I
 
-  
-Barème des rémunérations annuelles brutes minimales garanties applicable au 1er décembre 2011
+Barème des rémunérations mensuelles brutes minimales applicable au 1er décembre 2011
 
-  
 Employés
 
-  
 (En euros.)
 
+| Position | Coefficient | Rémunération mensuelle brute minimale |
+| -- | -- | -- |
+| I | 145 | 1 394 |
+| II | 150 | 1 395 |
+|  | 155 | 1 397 |
+|  | 160 | 1 400 |
+| III | 165 | 1 405 |
+|  | 170 | 1 409 |
+|  | 180 | 1 413 |
+| IV | 190 | 1 422 |
+|  | 200 | 1 441 |
 
-
-| Position | Coefficient | Rémunération annuelle minimale garantie |
-| --- | --- | --- |
-| I | 145 | 17 658 |
-| II | 150 | 17 699 |
-|  | 155 | 17 752 |
-|  | 160 | 17 888 |
-| III | 165 | 17 995 |
-|  | 170 | 18 158 |
-|  | 180 | 18 378 |
-| IV | 190 | 18 637 |
-|  | 200 | 19 062 |
-
-  
 TAM
 
-  
 (En euros.)
 
+| Position | Coefficient | Rémunération mensuelle brute minimale |
+| -- | -- | -- |
+| V | 215 | 1 566 |
+| VI | 235 | 1 635 |
+|  | 255 | 1 734 |
+| VII | 275 | 1 863 |
+|  | 295 | 2 036 |
 
-
-| Position | Coefficient | Rémunération annuelle minimale garantie |
-| --- | --- | --- |
-| V | 215 | 20 561 |
-| VI | 235 | 21 485 |
-|  | 255 | 22 825 |
-| VII | 275 | 24 573 |
-|  | 295 | 26 924 |
-
-  
 Cadres
 
-  
 (En euros.)
 
-
-
-| Position | Coefficient | Rémunération annuelle minimale garantie |
-| --- | --- | --- |
-| VIII | 295 | 26 924 |
-|  | 330 | 29 426 |
-| IX | 370 | 32 964 |
-|  | 410 | 36 501 |
-|  | 450 | 40 011 |
-| X | 490 | 43 562 |
-|  | 530 | 47 101 |
-|  | 570 | 50 624 |
-| XI | 610 | 54 161 |
-
+| Position | Coefficient | Rémunération mensuelle brute minimale |
+| -- | -- | -- |
+| VIII | 295 | 2 036 |
+|  | 330 | 2 221 |
+| IX | 370 | 2 482 |
+|  | 410 | 2 744 |
+|  | 450 | 3 003 |
+| X | 490 | 3 265 |
+|  | 530 | 3 526 |
+|  | 570 | 3 787 |
+| XI | 610 | 4 048 |

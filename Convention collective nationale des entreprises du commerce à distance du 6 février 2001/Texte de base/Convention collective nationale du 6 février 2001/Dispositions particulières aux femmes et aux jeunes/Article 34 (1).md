@@ -22,7 +22,7 @@ Congés de maternité
 
 Les congés légaux de maternité tels que définis par les codes du travail et de la sécurité sociale sont, suivant les cas, de :
 
-- 16 semaines pour la naissance d'un seul enfant à la 1re et 2e grossesse, soit 6 semaines avant l'accouchement et 10 semaines après ;
+- 16 semaines pour la naissance d'un seul enfant à la 1<sup>re</sup> et 2<sup>e</sup> grossesse, soit 6 semaines avant l'accouchement et 10 semaines après ;
 
 - 26 semaines pour la naissance d'un seul enfant à partir de la 3e grossesse, soit 8 semaines avant l'accouchement et 18 semaines après (ou 10 semaines avant l'accouchement et 16 semaines après) ;
 
@@ -72,5 +72,4 @@ Lorsque cette période suit immédiatement le congé de maternité ou le congé 
 
 Lorsque le salarié entend prolonger son congé parental d'éducation ou sa période d'activité à temps partiel, il doit avertir l'employeur de cette prolongation, par lettre recommandée avec demande d'avis de réception, au moins 1 mois avant le terme initialement prévu et l'informer le cas échéant de son intention soit de transformer le congé parental en activité à temps partiel, soit de transformer l'activité en temps partiel en congé parental.
 
-*(1) Article étendu sous réserve de l'application du 5e alinéa de l'aticle L. 122-26 du code du travail (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Article étendu sous réserve de l'application du 5e alinéa de l'aticle L. 122-26 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

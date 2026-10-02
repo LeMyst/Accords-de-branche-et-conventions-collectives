@@ -1,73 +1,48 @@
 # Article
 
-  
- Annexe II  
+ANNEXE I\
+Barème des rémunérations mensuelles brutes minimales\
+applicable à compter du 1<sup>er</sup> juillet 2008\
+Employés
 
+(En euros.)
 
-**Barème des rémunérations annuelles brutes minimales garanties applicable au 1er juillet 2012**  
+| NIVEAU | COEFFICIENT | RÉMUNÉRATION MENSUELLE<br>brute minimale d'embauche |
+| -- | -- | -- |
+| I | 145 | 1 322 |
+|  | 150 | 1 323 |
+| II | 155 | 1 325 |
+|  | 160 | 1 328 |
+|  | 165 | 1 333 |
+| III | 170 | 1 337 |
+|  | 180 | 1 341 |
+| IV | 190 | 1 350 |
+|  | 200 | 1 369 |
 
+TAM
 
- Employés  
+(En euros.)
 
+| NIVEAU | COEFFICIENT | RÉMUNÉRATION MENSUELLE<br>brute minimale d'embauche |
+| -- | -- | -- |
+| V | 215 | 1 497 |
+| VI | 235 | 1 566 |
+|  | 255 | 1 665 |
+| VII | 275 | 1 794 |
+|  | 295 | 1 967 |
 
- (En euros.)  
+Cadres
 
+(En euros.)
 
-  
-
-
-| Position | Coefficient | Rémunération annuellebrute minimale garantie |
-| --- | --- | --- |
-| I | 145 | 18 064 |
-| II  | 150 | 18 106 |
-| 155 | 18 160 |
-| 160 | 18 299 |
-| III  | 165 | 18 409 |
-| 170 | 18 576 |
-| 180 | 18 801 |
-| IV  | 190 | 19 066 |
-| 200 | 19 500 |
-
-  
-  
- TAM  
-
-
- (En euros.)  
-
-
-  
-
-
-| Position | Coefficient | Rémunération annuellebrute minimale garantie |
-| --- | --- | --- |
-| V | 215 | 20 966 |
-| VI  | 235 | 21 893 |
-| 255 | 23 259 |
-| VII  | 275 | 25 040 |
-| 295 | 27 436 |
-
-  
-  
- Cadres  
-
-
- (En euros.)  
-
-
-  
-
-
-| Position | Coefficient | Rémunération annuellebrute minimale garantie |
-| --- | --- | --- |
-| VIII  | 295 | 27 436 |
-| 330 | 29 985 |
-| IX  | 370 | 33 590 |
-| 410 | 37 195 |
-| 450 | 40 771 |
-| X  | 490 | 44 390 |
-| 530 | 47 996 |
-| 570 | 51 586 |
-| XI | 610 | 55 190 |
-
-  
+| NIVEAU | COEFFICIENT | RÉMUNÉRATION MENSUELLE<br>brute minimale d'embauche |
+| -- | -- | -- |
+| VIII | 295 | 1 967 |
+|  | 330 | 2 152 |
+|  | 370 | 2 413 |
+| IX | 410 | 2 674 |
+|  | 450 | 2 933 |
+|  | 490 | 3 195 |
+| X | 530 | 3 456 |
+|  | 570 | 3 716 |
+| XI | 610 | 3 977 |

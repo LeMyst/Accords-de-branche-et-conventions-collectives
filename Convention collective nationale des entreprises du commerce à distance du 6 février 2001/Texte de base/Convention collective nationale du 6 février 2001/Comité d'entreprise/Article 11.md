@@ -18,17 +18,14 @@ Lorsqu'en dehors du cas visé à l'alinéa précédent, un poste de membre du co
 
 c) Commissions
 
-
-
-|  |  |  |
-| --- | --- | --- |
-| COMMISSIONlégale | OBJET | NOMBREde salariés minimum dans l'entreprise |
+| COMMISSION<br>légale | OBJET | NOMBRE<br>de salariés minimum<br>dans l'entreprise |
+| -- | -- | -- |
 | Formation | Formation | > 200 |
-| Préparer délibération CE |
-| Moyen d'expression |
-| Emploi des jeunes et handicapés |
+|  | Préparer délibération CE |  |
+|  | Moyen d'expression |  |
+|  | Emploi des jeunes et handicapés |  |
 | Information et aide au logement | Accession à la propriété | > 300 |
-| Location d'habitation |
+|  | Location d'habitation |  |
 | Economique | Etude des documents économiques et financiers | > 1 000 |
 
 Les heures passées en réunion des commissions sont payées, conformément aux dispositions légales, et ne sont pas déduites du crédit d'heures.
@@ -47,5 +44,4 @@ Les sommes allouées au CE seront attribuées conformément aux dispositions lé
 
 Les crédits prévus seront mis à la disposition du comité d'entreprise aux périodes fixées en accord avec l'employeur, et au plus tard dans le délai de 1 mois suivant la clôture de la période de référence.
 
-*(1) Article étendu sous réserve de l'application du dernier alinéa de l'article L. 434-7 du code du travail (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Article étendu sous réserve de l'application du dernier alinéa de l'article L. 434-7 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

@@ -45,4 +45,3 @@ Lors du recrutement d'un salarié, la période d'adaptation à l'emploi est modu
 - les passerelles possibles avec les diplômes et titres à finalité professionnelle ;
 
 - les collaborations possibles avec d'autres branches pour la création de CQP répondant à un même besoin de qualification.
-

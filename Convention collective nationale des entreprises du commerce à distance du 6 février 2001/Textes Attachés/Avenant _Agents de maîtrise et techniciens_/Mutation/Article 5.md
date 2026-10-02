@@ -65,4 +65,3 @@ En outre, dans tous les cas de mutation, le salarié bénéficiera d'une formati
 Détachement et expatriation
 
 Les conditions du détachement ou de l'expatriation doivent faire l'objet d'un accord dont les termes seront précisés par écrit avant le départ du salarié.
-

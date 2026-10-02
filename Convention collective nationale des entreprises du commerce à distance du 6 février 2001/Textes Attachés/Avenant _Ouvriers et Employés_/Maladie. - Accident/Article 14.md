@@ -31,4 +31,3 @@ Si un seul de ces arrêts (maladie, accident de trajet, de travail ou maladie pr
 - 1 mois à 100 % de date à date après 5 ans d'ancienneté ;
 
 - 2 mois à 100 % de date à date après 10 ans d'ancienneté.
-

@@ -11,4 +11,3 @@ Afin de vérifier la bonne application des dispositions relatives en matière de
 Si le salarié en période de télétravail exerce son activité à son domicile, cet accès est subordonné à une notification à l'intéressé. L'accès au domicile du salarié en période de télétravail est subordonné à son accord.
 
 Le règlement intérieur peut, si besoin, être adapté à des situations de télétravail.
-

@@ -20,4 +20,4 @@ En cas de mise à la retraite par l'employeur, d'un cadre âgé de moins de 65 a
 
 En cas de mise à la retraite par l'employeur ou en cas de départ volontaire du cadre, l'autre partie doit être avertie au moins 3 mois à l'avance.
 
-*(1) Alinéa étendu sous réserve de l'application du 3e alinéa de l'article L. 122-14-13 du code du travail (arrêté du 10 avril 2002, art. 1er).***(2) Alinéa étendu sous réserve de l'application des dispositions du 2e alinéa de l'article L. 122-14-13 susvisé (arrêté du 10 avril 2002, art. 1er).**
+*(1) Alinéa étendu sous réserve de l'application du 3<sup>e</sup> alinéa de l'article L. 122-14-13 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).* **(2) Alinéa étendu sous réserve de l'application des dispositions du 2e alinéa de l'article L. 122-14-13 susvisé (arrêté du 10 avril 2002, art. 1<sup>er</sup>).**

@@ -1,6 +1,6 @@
-# Article 1,  2,  3
+# Article 1, 2, 3
 
-Article 1er
+Article 1<sup>er</sup>
 
 Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de la convention collective nationale des entreprises de vente par catalogue du Nord et de l'Est de la France du 6 février 2001 (4 annexes) :
 
@@ -77,4 +77,3 @@ Article 3
 Le directeur des relations du travail est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
 
 Fait à Paris, le 10 avril 2002.
-

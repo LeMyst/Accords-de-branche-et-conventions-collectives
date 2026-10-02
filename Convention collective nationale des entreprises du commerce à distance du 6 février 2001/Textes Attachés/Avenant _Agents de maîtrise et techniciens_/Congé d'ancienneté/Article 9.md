@@ -19,4 +19,3 @@ En cas de résiliation du contrat de travail, elle est appréciée à l'expirati
 L'ancienneté s'apprécie en fonction du temps total d'inscription sur les registres.
 
 En accord entre les parties, le congé d'ancienneté peut être pris ou faire l'objet d'une indemnité.
-

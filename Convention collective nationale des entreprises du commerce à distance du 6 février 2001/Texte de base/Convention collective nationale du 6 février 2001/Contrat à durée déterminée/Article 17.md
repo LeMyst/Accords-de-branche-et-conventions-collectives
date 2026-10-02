@@ -90,5 +90,6 @@ h 2. Eligibilité
 
 Sont éligibles les électeurs âgés de 18 ans accomplis et travaillant dans l'entreprise depuis 12 mois au moins (continus ou non).
 
-*(1) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 122-3-8 du code du travail, dans sa rédaction issue de la loi n 2002-73 du 17 janvier 2002 (arrêté du 10 avril 2002, art. 1er).**(2) Alinéa exclu de l'extension comme étant contraire au 2e alinéa de l'article L. 122-3-8 du code du travail (arrêté du 10 avril 2002, art. 1er).*
+*(1) Alinéa étendu sous réserve de l'application des dispositions de l'article L. 122-3-8 du code du travail, dans sa rédaction issue de la loi n 2002-73 du 17 janvier 2002 (arrêté du 10 avril 2002, art. 1er).*
 
+*(2) Alinéa exclu de l'extension comme étant contraire au 2e alinéa de l'article L. 122-3-8 du code du travail (arrêté du 10 avril 2002, art. 1er).*

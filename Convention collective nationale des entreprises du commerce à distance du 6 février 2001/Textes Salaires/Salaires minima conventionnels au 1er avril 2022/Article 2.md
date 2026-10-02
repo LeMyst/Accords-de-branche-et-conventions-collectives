@@ -1,10 +1,10 @@
 # Article 2
 
-L'ensemble des minima conventionnels (niveau débutant) de la catégorie A à D sont augmentés de 48,31 €, ce qui correspond, en pourcentage aux augmentations suivantes :  
- – catégorie A : + 3,11 % ;  
- – catégorie B : + 3,07 % ;  
- – catégorie C : + 2,98 % ;  
- – catégorie D : + 2,72 %.
+L'ensemble des minima conventionnels (niveau débutant) de la catégorie A à D sont augmentés de 48,31 €, ce qui correspond, en pourcentage aux augmentations suivantes :\
+– catégorie A : + 3,11 % ;\
+– catégorie B : + 3,07 % ;\
+– catégorie C : + 2,98 % ;\
+– catégorie D : + 2,72 %.
 
 Le salaire conventionnel (niveau débutant) de la catégorie E est augmenté de 50,51 €, ce qui correspond à une augmentation de + 2,3 %.
 
@@ -17,4 +17,3 @@ S'agissant des « niveaux : maîtrisant – référent – polyvalent » des coe
 Le salaire conventionnel (niveau maîtrisant) de la catégorie H est augmenté de 96,25 €, ce qui correspond à une augmentation de + 2,3 %.
 
 Le salaire conventionnel (niveau référent) de la catégorie H est augmenté de 100,03 €, ce qui correspond à une augmentation de + 2,3 %.
-

@@ -15,4 +15,3 @@ Le salaire mensuel conventionnel (niveau débutant) de la catégorie F est augme
 Le salaire mensuel conventionnel (niveau débutant) de la catégorie G est augmenté de 1,06 % pour s'établir à 3 422 €.
 
 Le salaire mensuel conventionnel (niveaux maîtrisant et référent) de la catégorie H est augmenté de 1,03 % pour s'établir respectivement à 4 566 € et 4 743 €.
-

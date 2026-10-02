@@ -7,4 +7,3 @@ Le salarié en période de télétravail doit être informé des éventuels moye
 Le système de surveillance mis en place doit être justifié par la nature de la tâche à accomplir et proportionné au but recherché.
 
 En fonction des spécificités des postes concernés par le télétravail et de l'organisation du travail des salariés concernés, l'entreprise détermine avec les représentants du personnel les modalités selon lesquelles est établie la communication des salariés en période de télétravail.
-

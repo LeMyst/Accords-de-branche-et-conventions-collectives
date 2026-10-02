@@ -52,5 +52,4 @@ e) Travail à temps partiel et droits sociaux
 
 Au moment de la conclusion du contrat de travail, le salarié à temps partiel dont l'horaire contractuel ne permet pas de bénéficier des dispositions de la sécurité sociale relatives à l'indemnisation maladie sera informé de l'incidence de son horaire sur ses droits.
 
-*(1) Point étendu sous réserve de l'application des dispositions de articles L. 212-4-13 et suivants du code du travail relatifs au travail intermittent (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Point étendu sous réserve de l'application des dispositions de articles L. 212-4-13 et suivants du code du travail relatifs au travail intermittent (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

@@ -5,4 +5,3 @@ Pour éviter une variation du salaire selon les semaines hautes et semaines bass
 À ce titre, leur rémunération sera lissée sur la base de l'horaire moyen de 35 heures sur toute la période de référence.
 
 Concernant les heures effectuées au-delà de 40 heures par semaines, elles seront rémunérées comme heures supplémentaires conformément aux majorations légales à la fin du mois au cours duquel elles auront été effectuées, à l'échéance normale de la paye.
-

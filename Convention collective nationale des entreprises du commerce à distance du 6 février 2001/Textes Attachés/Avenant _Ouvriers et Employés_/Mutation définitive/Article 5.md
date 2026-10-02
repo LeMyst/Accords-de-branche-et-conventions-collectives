@@ -28,9 +28,8 @@ Il sera fait application de l'une des 2 formules suivantes :
 
 1. Soit les dispositions de l'accord interprofessionnel sur la sécurité de l'emploi du 10 février 1969 modifié par l'avenant du 21 novembre 1974 et par l'accord du 20 octobre 1986 sur la sécurité de l'emploi, modifié par les avenants du 12 avril 1981, 22 juin 1989, 22 décembre 1993 et 9 décembre 1994.
 
-2. Soit le versement d'une indemnité perçue en une fois au moment du déclassement et égale à la différence entre les indemnités de congédiement correspondant à son ancienne et à sa nouvelle situation.
+1. Soit le versement d'une indemnité perçue en une fois au moment du déclassement et égale à la différence entre les indemnités de congédiement correspondant à son ancienne et à sa nouvelle situation.
 
 En outre, son taux individuel est maintenu pendant une période égale à celle du préavis.
 
-*(1) Termes exclus de l'extension comme étant contraire à l'article L. 122-42 du code du travail (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Termes exclus de l'extension comme étant contraire à l'article L. 122-42 du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

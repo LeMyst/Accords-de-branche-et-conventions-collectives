@@ -5,5 +5,3 @@ Les parties signataires souhaitent rappeler toute l'importance qu'elles accorden
 Par ailleurs, elles souhaitent accompagner la qualification des jeunes et demandeurs d'emploi aux besoins en qualifications et compétences des entreprises.
 
 En conséquence, les signataires conviennent ce qui suit :
-
-  

@@ -30,7 +30,7 @@ Quelle que soit leur ancienneté dans l'entreprise, les jeunes travailleurs et a
 
 Congé sans solde
 
-Les salariés n'ayant pas 1 an de présence au 1er juin pourront, sur leur demande, bénéficier d'un complément de congés non payés jusqu'à concurrence de la durée légale correspondant à 1 an de présence.
+Les salariés n'ayant pas 1 an de présence au 1<sup>er</sup> juin pourront, sur leur demande, bénéficier d'un complément de congés non payés jusqu'à concurrence de la durée légale correspondant à 1 an de présence.
 
 Pour le personnel présent à l'effectif pendant toute l'année de référence, et qui en fera la demande, il sera accordé, en fonction de la charge de travail, une semaine supplémentaire de congés sans solde dont les modalités feront l'objet d'un accord avec le chef d'entreprise, ou son représentant.
 
@@ -40,7 +40,7 @@ Les étrangers, dont la famille proche réside dans leur pays d'origine, pourron
 
 Période des congés
 
-La période de congé payé est fixée par les conventions ou accords collectifs de travail. Elle doit comprendre dans tous les cas la période du 1er mai au 31 octobre de chaque année.
+La période de congé payé est fixée par les conventions ou accords collectifs de travail. Elle doit comprendre dans tous les cas la période du 1<sup>er</sup> mai au 31 octobre de chaque année.
 
 La période des congés est fixée par l'employeur en se référant aux usages et après consultation des délégués du personnel et du comité d'entreprise.
 
@@ -78,7 +78,7 @@ Pour le calcul de la durée et de l'indemnité de congés payés, sont considér
 
 Fractionnement
 
-Conformément aux dispositions légales, en cas de fractionnement de la période principale des congés, l'attribution du reste des congés dus et pris en une ou plusieurs fois en dehors de la période du 1er mai au 31 octobre, donnera lieu à allongement de la durée totale du congé :
+Conformément aux dispositions légales, en cas de fractionnement de la période principale des congés, l'attribution du reste des congés dus et pris en une ou plusieurs fois en dehors de la période du 1<sup>er</sup> mai au 31 octobre, donnera lieu à allongement de la durée totale du congé :
 
 - de 2 jours ouvrables supplémentaires lorsque le nombre de jours de congés pris en dehors de la période indiquée est au moins égal à 6 ;
 
@@ -91,4 +91,3 @@ Maladie
 En cas de maladie ou d'accident reconnus par la sécurité sociale pendant la période fixée pour les congés, le salarié peut, à son retour, bénéficier à son choix, soit d'une indemnité compensatrice, soit d'un congé effectif.
 
 Dans cette dernière hypothèse, les dates de congés seront déterminées en accord avec l'employeur.
-

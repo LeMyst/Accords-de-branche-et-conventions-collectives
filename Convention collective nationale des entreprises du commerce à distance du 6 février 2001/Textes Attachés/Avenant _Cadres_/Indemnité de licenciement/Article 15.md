@@ -16,11 +16,11 @@ L'indemnité de licenciement sera de :
 
 - pour la tranche d'ancienneté jusqu'à 5 ans : 4/10 de mois par année, à compter de la date d'entrée dans l'entreprise ;
 
-- pour la tranche comprise entre 6 et 10 ans : 5/10 de mois par année, à compter de la 6e année ;
+- pour la tranche comprise entre 6 et 10 ans : 5/10 de mois par année, à compter de la 6<sup>e</sup> année ;
 
-- pour la tranche comprise entre 10 et 15 ans : 6/10 de mois par année, à compter de la 11e année ;
+- pour la tranche comprise entre 10 et 15 ans : 6/10 de mois par année, à compter de la 11<sup>e</sup> année ;
 
-- au-delà de 15 ans : 8/10 de mois par année, à compter de la 16e année.
+- au-delà de 15 ans : 8/10 de mois par année, à compter de la 16<sup>e</sup> année.
 
 L'indemnité de licenciement ainsi calculée ne pourra dépasser 15 mois.
 
@@ -33,4 +33,3 @@ Le cas échéant, cette dernière majoration se substitue à celle de 30 % prév
 L'indemnité de licenciement sera calculée sur la base moyenne des rémunérations perçues durant les 12 derniers mois qui ont précédé le licenciement, toutes primes comprises, à l'exclusion toutefois des primes ou gratifications à caractère bénévole, sans que cette moyenne puisse être inférieure au salaire mensuel du mois ayant précédé la signification du licenciement.
 
 Lorsque la période de 12 mois prise en référence ci-dessus comporte une suspension du contrat de travail pour maladie ou accident, il y a lieu de retenir le salaire moyen reconstitué des 12 derniers mois.
-

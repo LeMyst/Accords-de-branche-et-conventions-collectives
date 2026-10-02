@@ -8,5 +8,4 @@ Le syndicat national des entreprises de vente à distance adhère :
 
 En application de l'article L. 132-16 du code du travail, le champ d'application de la convention collective est modifié et s'applique dorénavant au territoire national et aux DOM-*TOM* (1).
 
-*(1) Terme exclu de l'extension (arrêté du 12 avril 2005, art. 1er).*
-
+*(1) Terme exclu de l'extension (arrêté du 12 avril 2005, art. 1<sup>er</sup>).*

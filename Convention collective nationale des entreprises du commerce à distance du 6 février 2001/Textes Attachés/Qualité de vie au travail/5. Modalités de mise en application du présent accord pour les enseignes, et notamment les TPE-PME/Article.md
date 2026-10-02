@@ -1,8 +1,4 @@
 # Article
 
-  
-Afin de favoriser le déploiement des actions en matière de QVT, un volet capitalisation est prévu dans le cadre de l'ADEC. Il a pour objet de diffuser au plus grand nombre les bonnes pratiques recensées dans les diverses enseignes ayant souhaité se lancer dans une expérimentation.  
-Récapitulatif des dispositions de l'article 5 :  
-– information des TPE-PME de la branche sur la possibilité de bénéficier d'un accompagnement, dans le cadre de l'ADEC, à la mise en œuvre d'actions QVT ;  
-– capitalisation des expérimentations terrain menées au sein des entreprises et formalisation des outils et supports de communication pour sensibiliser les entreprises de la branche, notamment les TPE-PME, et les aider à mettre en place des démarches QVT.
-
+Dans le cadre de l'ADEC (2014-2017), la branche et l'OPCA devront informer les PME-TPE de la possibilité d'être accompagnées par un consultant afin de déployer en interne les éléments constitutifs de la qualité de vie au travail. Ce consultant aura également pour mission de capitaliser l'ensemble des expérimentations menées, permettant la mise à disposition d'outils pratiques mobilisables par les entreprises.\
+Les parties au présent accord engagent les partenaires sociaux à s'appuyer sur le contenu du présent accord pour aborder le thème de la qualité de vie au travail, au niveau des entreprises ou des établissements. L'ouverture de ce dialogue permettra, sur la base de constats partagés tenant compte des particularités de l'entreprise, d'identifier des axes de progrès spécifiques. Il pourra aboutir à un accord enrichissant, adaptant et/ou complétant les dispositions du présent texte.

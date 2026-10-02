@@ -1,14 +1,14 @@
 # Article 13
 
-En cas de rupture du contrat de travail après la période d'essai et sauf faute grave, la durée du préavis réciproque sera fixée comme suit : 
+En cas de rupture du contrat de travail après la période d'essai et sauf faute grave, la durée du préavis réciproque sera fixée comme suit :
 
-Rupture du contrat par l'agent de maîtrise ou le technicien : 
+Rupture du contrat par l'agent de maîtrise ou le technicien :
 
-1. Agents de maîtrise et techniciens de catégorie D : le mois en cours et le mois suivant. 
+1. Agents de maîtrise et techniciens de catégorie D : le mois en cours et le mois suivant.
 
-2. Agents de maîtrise et techniciens de catégorie E : le mois en cours et les 2 mois suivants. 
+1. Agents de maîtrise et techniciens de catégorie E : le mois en cours et les 2 mois suivants.
 
-Rupture du contrat par l'employeur : le mois en cours et les 2 mois suivants. 
+Rupture du contrat par l'employeur : le mois en cours et les 2 mois suivants.
 
 Dans le cas d'inobservation du préavis, la partie qui n'observera pas celui-ci devra à l'autre une indemnité égale aux salaires correspondant à la durée du préavis restant à courir, sauf accord entre les parties.
 
@@ -19,4 +19,3 @@ En cas de licenciement, ces absences ne donneront pas lieu à réduction de sala
 Dans le cas de licenciement, lorsque l'agent de maîtrise ou le technicien a trouvé un nouvel emploi, toutes facilités lui seront accordées sur justification pour lui permettre d'occuper ce nouvel emploi.
 
 L'employeur ne pourra alors lui réclamer le versement de l'indemnité compensatrice de préavis.
-

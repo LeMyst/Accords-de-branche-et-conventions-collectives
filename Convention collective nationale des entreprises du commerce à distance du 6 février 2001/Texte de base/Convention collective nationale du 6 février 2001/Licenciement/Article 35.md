@@ -28,5 +28,4 @@ Les règles régissant le licenciement pour motif économique sont définies à 
 
 - l'indemnité de licenciement.
 
-*(1) Point étendu sous réserve de l'application des articles L. 321-1 et suivants du code du travail (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Point étendu sous réserve de l'application des articles L. 321-1 et suivants du code du travail (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

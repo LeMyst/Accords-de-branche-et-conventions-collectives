@@ -65,4 +65,3 @@ Elle souligne la nécessité de développer la meilleure collaboration possible 
 La branche a organisé dans l'accord sur la formation professionnelle le tutorat, accessible à tout salarié à divers moments de sa carrière professionnelle. Les seniors seront prioritaires pour exercer le rôle de tuteur ou de martre d'apprentissage pour lequel ils seront formés en conséquence.
 
 Ces objectifs seront, d'une part, favorisés par des actions d'information et de mobilisation de l'ensemble du personnel par l'encadrement, d'autre part, pris en compte dans le cadre de la formation des managers afin qu'ils soient en mesure d'intégrer, avec l'appui de leur entreprise, tous les aspects de la gestion des âges dans le management de leurs équipes.
-

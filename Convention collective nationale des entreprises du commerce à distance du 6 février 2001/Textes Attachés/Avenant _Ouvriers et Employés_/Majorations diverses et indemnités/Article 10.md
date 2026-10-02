@@ -29,4 +29,3 @@ b) Pendant la période des congés payés
 Dans les cas exceptionnels où un salarié en congé serait rappelé pour les besoins du service, il lui sera accordé un congé effectif supplémentaire d'une durée de 2 jours.
 
 Les frais de voyage occasionnés par ce déplacement et les frais supplémentaires, qui seraient nécessités par ce rappel, lui seront remboursés sur justification.
-

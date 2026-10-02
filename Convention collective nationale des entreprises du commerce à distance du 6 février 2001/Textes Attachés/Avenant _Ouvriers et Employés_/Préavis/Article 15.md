@@ -1,21 +1,15 @@
 # Article 15
 
-  
 En cas de rupture du contrat de travail non motivée par une faute grave ou lourde, la durée du préavis, après une période d'essai, sera fixée dans les conditions suivantes, sauf usages ou dispositions contractuelles prévoyant un préavis de plus longue durée.
 
-
-
-|  |  |
-| --- | --- |
-| DELAI CONGE | DUREE DU DELAI CONGE |
+| DELAI CONGE | DUREE DU DELAI CONGE |  |
+| -- | -- | -- |
 |  | Démission | Licenciement |
 | 1. Ouvrier ayant moins de 6 mois de présence | 1 semaine de date à date | 1 semaine de date à date |
 | 2. Ouvrier ayant plus de 6 mois de présence et moins de 2 ans de présence | 1 mois de date à date | 1 mois de date à date |
 | Employé ayant moins de 2 ans de présence | 1 mois de date à date | 1 mois de date à date |
 | 3. Ouvrier-employé ayant plus de 2 ans de présence | 1 mois de date à date | 2 mois de date à date |
 
-  
-  
 1° Rupture du contrat de travail par le salarié
 
 La durée du préavis peut être réduite d'un commun accord ; dans ce cas, les parties sont dégagées des obligations résultant du préavis non effectué.
@@ -37,5 +31,3 @@ Si un salarié licencié trouve du travail pendant son préavis, il pourra quitt
 Pour les salariés handicapés :
 
 En cas de licenciement, l'employeur appliquera les dispositions spécifiques prévues par l'article L. 323-7 du code du travail.
-
-  

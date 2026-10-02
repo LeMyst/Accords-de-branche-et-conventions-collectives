@@ -51,4 +51,3 @@ Les délégués pourront utiliser pour leurs déplacements les moyens de liaison
 h) Réunion de la section syndicale
 
 Les adhérents de chaque section syndicale peuvent se réunir 2 fois par mois dans les conditions prévues par les articles L. 412-9 et L. 412-10 du code du travail.
-

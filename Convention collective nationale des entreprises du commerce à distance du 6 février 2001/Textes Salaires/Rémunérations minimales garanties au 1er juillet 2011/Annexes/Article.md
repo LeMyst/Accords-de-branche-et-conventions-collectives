@@ -1,64 +1,52 @@
 # Article
 
-Annexe II  
+Annexe I
 
+Barème des rémunérations mensuelles brutes minimales applicable au 1<sup>er</sup> juillet 2011
 
-Barème des rémunérations annuelles brutes minimales garanties applicable au 1er juillet 2011  
+Smic au 1<sup>er</sup> janvier 2011 : 1 365 €.\
+Maintien des écarts proposition du 1er mai 2010.
 
+Employés
 
-Employés  
+(En euros.)
 
+| Position | Coefficient | Rémunération<br>mensuelle brute minimale proposition mai 2010 | Proposition<br>rémunération mensuelle brute minimale |
+| -- | -- | -- | -- |
+| I | 145 | 1 344 | 1 365 |
+| II | 150 | 1 345 | 1 366 |
+|  | 155 | 1 347 | 1 368 |
+|  | 160 | 1 350 | 1 371 |
+| III | 165 | 1 355 | 1 376 |
+|  | 170 | 1 359 | 1 380 |
+|  | 180 | 1 363 | 1 384 |
+| IV | 190 | 1 372 | 1 393 |
+|  | 200 | 1 391 | 1 412 |
 
-(En euros.)  
+TAM
 
+(En euros.)
 
+| Position | Coefficient | Rémunération<br>mensuelle brute minimale proposition mai 2010 | Proposition<br>rémunération mensuelle brute minimale |
+| -- | -- | -- | -- |
+| V | 215 | 1 516 | 1 537 |
+| VI | 235 | 1 585 | 1 606 |
+|  | 255 | 1 684 | 1 705 |
+| VII | 275 | 1 813 | 1 834 |
+|  | 295 | 1 986 | 2 007 |
 
+Cadres
 
-| Position  | Coefficient  | PropositionRémunération annuelleminimale garantie mai 2010  | PropositionRémunération annuelleminimale garantie  |
-| --- | --- | --- | --- |
-| I  | 145  | 17 028  | 17 295  |
-| II  | 150  | 17 068  | 17 335  |
-| 155  | 17 120  | 17 387  |
-| 160  | 17 253  | 17 520  |
-| III  | 165  | 17 358  | 17 625  |
-| 170  | 17 518  | 17 785  |
-| 180  | 17 733  | 18 000  |
-| IV  | 190  | 17 987  | 18 254  |
-| 200  | 18 403  | 18 670  |
+(En euros.)
 
-TAM  
-
-
-(En euros.)  
-
-
-
-
-| Position  | Coefficient  | PropositionRémunération annuelleminimale garantie mai 2010  | PropositionRémunération annuelleminimale garantie  |
-| --- | --- | --- | --- |
-| V  | 215  | 19 871  | 20 138  |
-| VI  | 235  | 20 776  | 21 043  |
-| 255  | 22 089  | 22 356  |
-| VII  | 275  | 23 801  | 24 068  |
-| 295  | 26 103  | 26 370  |
-
-Cadres  
-
-
-(En euros.)  
-
-
-
-
-| Position  | Coefficient  | PropositionRémunération annuelleminimale garantie mai 2010  | PropositionRémunération annuelleminimale garantie  |
-| --- | --- | --- | --- |
-| VIII  | 295  | 26 103  | 26 370  |
-| 330  | 28 554  | 28 821  |
-| IX  | 370  | 32 019  | 32 286  |
-| 410  | 35 483  | 35 750  |
-| 450  | 38 921  | 39 188  |
-| X  | 490  | 42 399  | 42 666  |
-| 530  | 45 865  | 46 132  |
-| 570  | 49 316  | 49 583  |
-| XI  | 610  | 52 780  | 53 047  |
-
+| Position | Coefficient | Rémunération<br>mensuelle brute minimale proposition mai 2010 | Proposition<br>rémunération mensuelle brute minimale |
+| -- | -- | -- | -- |
+| VIII | 295 | 1 986 | 2 007 |
+|  | 330 | 2 171 | 2 192 |
+| IX | 370 | 2 432 | 2 453 |
+|  | 410 | 2 694 | 2 715 |
+|  | 450 | 2 953 | 2 974 |
+| X | 490 | 3 215 | 3 236 |
+|  | 530 | 3 476 | 3 497 |
+|  | 570 | 3 737 | 3 758 |
+| XI | 610 | 3 998 | 4 019 |

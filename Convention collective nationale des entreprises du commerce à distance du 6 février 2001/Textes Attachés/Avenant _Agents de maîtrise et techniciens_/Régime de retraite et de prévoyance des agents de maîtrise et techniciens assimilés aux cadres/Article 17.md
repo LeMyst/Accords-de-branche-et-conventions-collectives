@@ -9,4 +9,3 @@ Ils bénéficient de ce régime dans toutes les conditions où il est appliqué 
 Les agents de maîtrise et techniciens intéressés bénéficient d'autre part du régime de retraite et de prévoyance prévu à l'article 17.
 
 Le taux de cotisation et la répartition de celui-ci feront l'objet d'un accord d'entreprise. Toutefois, la cotisation versée à ce titre ne s'applique qu'à la partie de leur rémunération déjà soumise aux cotisations de sécurité sociale.
-

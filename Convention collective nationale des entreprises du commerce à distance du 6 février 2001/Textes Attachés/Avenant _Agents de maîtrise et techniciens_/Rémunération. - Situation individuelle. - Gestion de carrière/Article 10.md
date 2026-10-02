@@ -44,5 +44,4 @@ Si le jour de fête tombe un jour non travaillé dans l'entreprise, un repos com
 
 S'il y a lieu, et dans les deux cas ci-dessus, à la majoration de 100 % indiquée peuvent s'ajouter celles concernant les heures supplémentaires.
 
-*(1) Chapitre étendu sous réserve de l'application des dispositions des articles L. 221-5-1 et suivants du code du travail relatives aux modalités de recours au travail du dimanche (arrêté du 10 avril 2002, art. 1er).*
-
+*(1) Chapitre étendu sous réserve de l'application des dispositions des articles L. 221-5-1 et suivants du code du travail relatives aux modalités de recours au travail du dimanche (arrêté du 10 avril 2002, art. 1<sup>er</sup>).*

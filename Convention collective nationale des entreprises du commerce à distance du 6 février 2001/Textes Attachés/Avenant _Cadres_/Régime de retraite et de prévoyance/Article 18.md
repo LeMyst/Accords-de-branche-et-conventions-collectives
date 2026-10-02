@@ -17,4 +17,3 @@ Cet accord devra également fixer la répartition de la cotisation entre l'emplo
 b) Les cadres bénéficient d'autre part du régime de retraite prévu à l'article 17 modifié de l'avenant " Agents de maîtrise et techniciens " à la convention collective des entreprises de vente par catalogue du nord et de l'est de la France modifié.
 
 La cotisation versée à ce titre ne s'applique toutefois qu'à la partie de leur rémunération déjà soumise aux cotisations de sécurité sociale. Sa répartition entre l'employeur et les cadres est celle fixée par l'article 17 susvisé.
-
