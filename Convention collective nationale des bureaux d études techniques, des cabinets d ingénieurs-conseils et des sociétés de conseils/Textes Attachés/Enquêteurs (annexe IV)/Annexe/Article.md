@@ -3,7 +3,8 @@
 Annexe\
 Table de correspondance des articles relatifs aux chargés d'enquête
 
-La nouvelle numérotation est celle applicable compte tenu des modifications apportées à l'accord du 16 décembre 1991 (annexe IV « Enquêteurs ») par le présent avenant.\
+La nouvelle numérotation est celle applicable compte tenu des modifications apportées à l'accord du 16 décembre 1991 (annexe IV « Enquêteurs ») par le présent avenant.
+
 L'ancienne numérotation correspond à celle existante antérieurement au sein du texte de base de la convention collective.
 
 | Nouvelle numérotation |  | Ancienne numérotation |
