@@ -2,7 +2,8 @@
 
 Le texte suivant est ajouté en annexe à la convention collective :
 
-« Annexe V\
+« Annexe V *(a) (c)*
+
 Liste des activités selon la nomenclature d'activités française (NAF) 2025
 
 Section J – Édition, diffusion et activités de production et de distribution de contenu
