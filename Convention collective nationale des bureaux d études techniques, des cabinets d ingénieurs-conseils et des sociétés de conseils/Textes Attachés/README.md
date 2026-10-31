@@ -105,3 +105,5 @@
 - [Parentalité et évènements familiaux](Parentalit%C3%A9%20et%20%C3%A9v%C3%A8nements%20familiaux/README.md)
 - [Complémentaire santé](Compl%C3%A9mentaire%20sant%C3%A9%20%286%29/README.md)
 - [Prévoyance lourde](Pr%C3%A9voyance%20lourde/README.md)
+- [Comité paritaire de surveillance du régime de complémentaire santé](Comit%C3%A9%20paritaire%20de%20surveillance%20du%20r%C3%A9gime%20de%20compl%C3%A9mentaire%20sant%C3%A9/README.md)
+- [Comité paritaire de surveillance du régime de prévoyance lourde](Comit%C3%A9%20paritaire%20de%20surveillance%20du%20r%C3%A9gime%20de%20pr%C3%A9voyance%20lourde/README.md)
